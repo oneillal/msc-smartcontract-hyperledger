@@ -1,19 +1,31 @@
 {
-    "name": "latereturns",
-    "version": "0.0.0",
-    "description": "Name of the person to greet: \"Dan\".\nThank you!",
-    "author": "Alan O&#39;Neill",
-    "accordproject": {
-        "template": "contract",
-        "cicero": "^0.21.9",
-        "runtime": "ergo"
-    },
-    "devDependencies": {
-        "cucumber": "^5.1.0",
-        "chai": "4.2.0",
-        "@accordproject/cicero-cli": "^0.21.9"
-    },
-    "scripts": {
-        "test": "cucumber-js test -r .cucumber.js"
-    }
+  "name": "latereturns",
+  "displayName": "Late Returns Contract",
+  "version": "1.0",
+  "description": "A library contract for late return with a fine clause.",
+  "author": "Accord Project",
+  "license": "Apache-2.0",
+  "accordproject": {
+    "contract": "contract",
+    "cicero": "^0.21.0",
+    "runtime": "ergo"
+  },
+  "devDependencies": {
+    "cucumber": "^5.1.0"
+  },
+  "scripts": {
+    "test": "cucumber-js test -r .cucumber.js"
+  },
+  "keywords": [
+    "late",
+    "return",
+    "fine",
+    "delayed",
+    "Majeure",
+    "seller",
+    "pay",
+    "exceed",
+    "terimate",
+    "clause"
+  ]
 }

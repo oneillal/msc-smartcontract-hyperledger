@@ -1,0 +1,1973 @@
+12:20:21 - [34mdebug[39m: loadFileContents
+12:20:21 - [34mdebug[39m: loadFileBuffer
+12:20:21 - [34mdebug[39m: loadFileContents
+12:20:21 - [34mdebug[39m: loadFileContents
+12:20:21 - [34mdebug[39m: fromDirectory
+12:20:21 - [34mdebug[39m: loadFilesContents
+12:20:21 - [34mdebug[39m: loadFilesContents
+12:20:21 - [34mdebug[39m: loadFilesContents
+12:20:21 - [34mdebug[39m: loadFilesContents
+12:20:21 - [34mdebug[39m: loadFilesContents
+12:20:21 - [34mdebug[39m: loadFileContents
+12:20:21 - [34mdebug[39m: fromDirectory
+12:20:21 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+12:20:26 - [34mdebug[39m: loadFileContents
+12:20:26 - [34mdebug[39m: loadFileBuffer
+12:20:26 - [34mdebug[39m: loadFileContents
+12:20:26 - [34mdebug[39m: loadFileContents
+12:20:26 - [34mdebug[39m: fromDirectory
+12:20:26 - [34mdebug[39m: loadFilesContents
+12:20:26 - [34mdebug[39m: loadFilesContents
+12:20:26 - [34mdebug[39m: loadFilesContents
+12:20:26 - [34mdebug[39m: loadFilesContents
+12:20:26 - [34mdebug[39m: loadFilesContents
+12:20:26 - [34mdebug[39m: loadFileContents
+12:20:26 - [34mdebug[39m: fromDirectory
+12:20:26 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+12:21:42 - [34mdebug[39m: loadFileContents
+12:21:42 - [34mdebug[39m: loadFileBuffer
+12:21:42 - [34mdebug[39m: loadFileContents
+12:21:42 - [34mdebug[39m: loadFileContents
+12:21:42 - [34mdebug[39m: fromDirectory
+12:21:42 - [34mdebug[39m: loadFilesContents
+12:21:44 - [34mdebug[39m: loadFileContents
+12:21:44 - [34mdebug[39m: loadFileBuffer
+12:21:44 - [34mdebug[39m: loadFileContents
+12:21:44 - [34mdebug[39m: loadFileContents
+12:21:44 - [34mdebug[39m: fromDirectory
+12:21:44 - [34mdebug[39m: loadFilesContents
+12:21:44 - [34mdebug[39m: loadFilesContents
+12:21:44 - [34mdebug[39m: loadFilesContents
+12:21:44 - [34mdebug[39m: loadFilesContents
+12:21:44 - [34mdebug[39m: loadFilesContents
+12:21:44 - [34mdebug[39m: loadFilesContents
+12:21:44 - [34mdebug[39m: loadFilesContents
+12:21:44 - [34mdebug[39m: loadFilesContents
+12:21:44 - [34mdebug[39m: loadFilesContents
+12:21:44 - [34mdebug[39m: loadFileContents
+12:21:44 - [34mdebug[39m: fromDirectory
+12:21:44 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+12:21:44 - [34mdebug[39m: loadFileContents
+12:21:44 - [34mdebug[39m: fromDirectory
+12:21:44 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+12:26:01 PM - [32minfo[39m: Using current directory as template folder
+12:26:01 PM - [32minfo[39m: Loading a default text/sample.md file.
+12:26:01 PM - [34mdebug[39m: loadFileContents
+12:26:01 PM - [34mdebug[39m: loadFileBuffer
+12:26:01 PM - [34mdebug[39m: loadFileContents
+12:26:01 PM - [34mdebug[39m: loadFileContents
+12:26:01 PM - [34mdebug[39m: fromDirectory
+12:26:01 PM - [34mdebug[39m: loadFilesContents
+12:26:01 PM - [34mdebug[39m: loadFilesContents
+12:26:01 PM - [34mdebug[39m: loadFilesContents
+12:26:01 PM - [34mdebug[39m: loadFilesContents
+12:26:01 PM - [34mdebug[39m: loadFilesContents
+12:26:01 PM - [34mdebug[39m: loadFileContents
+12:26:01 PM - [34mdebug[39m: fromDirectory
+12:26:01 PM - [34mdebug[39m: loadFilesContents
+12:26:01 PM - [34mdebug[39m: loadFilesContents
+12:26:01 PM - [34mdebug[39m: loadFilesContents
+12:26:01 PM - [34mdebug[39m: loadFilesContents
+12:26:01 PM - [34mdebug[39m: loadFilesContents
+12:26:01 PM - [34mdebug[39m: loadFileContents
+12:26:01 PM - [34mdebug[39m: loadFileContents
+12:26:01 PM - [34mdebug[39m: loadFileContents
+12:26:01 PM - [34mdebug[39m: loadFileContents
+12:26:01 PM - [34mdebug[39m: loadFileContents
+12:26:02 PM - [34mdebug[39m: fromDirectory
+12:26:02 PM - [34mdebug[39m: loadFileContents
+12:26:02 PM - [34mdebug[39m: fromDirectory
+12:26:02 PM - [34mdebug[39m: fromDirectory
+12:26:02 PM - [34mdebug[39m: loadFilesContents
+12:26:02 PM - [34mdebug[39m: loadFilesContents
+12:26:02 PM - [34mdebug[39m: loadFilesContents
+12:26:02 PM - [34mdebug[39m: loadFilesContents
+12:26:02 PM - [34mdebug[39m: loadFilesContents
+12:26:02 PM - [34mdebug[39m: loadFileContents
+12:26:03 PM - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.latereturnandpenalty.LateReturnAndPenaltyContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Finlay Brady"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"exceptionCase":true,"penaltyDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"penaltyFee":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"59169f12-336f-435c-84d5-8153e6258fad"}
+12:26:03 PM - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.latereturnandpenalty.LateReturnAndPenaltyContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mborrower[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mFinlay Brady[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mlender[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mRush Library[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mexceptionCase[39m[33m"[39m[33m: [39m[31mtrue[39m[33m,[39m
+  [33m"[39m[32mpenaltyDuration[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.time.Duration[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[36m1[39m[33m,[39m
+    [33m"[39m[32munit[39m[33m"[39m[33m: [39m[33m"[39m[35mdays[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mpenaltyFee[39m[33m"[39m[33m: [39m[36m0.25[39m[33m,[39m
+  [33m"[39m[32mcapPercentage[39m[33m"[39m[33m: [39m[36m50[39m[33m,[39m
+  [33m"[39m[32mfractionalPart[39m[33m"[39m[33m: [39m[33m"[39m[35mdays[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mcontractId[39m[33m"[39m[33m: [39m[33m"[39m[35m59169f12-336f-435c-84d5-8153e6258fad[39m[33m"[39m
+[33m}[39m
+12:27:26 PM - [32minfo[39m: Using current directory as template folder
+12:27:26 PM - [34mdebug[39m: loadFileContents
+12:27:26 PM - [34mdebug[39m: loadFileBuffer
+12:27:26 PM - [34mdebug[39m: loadFileContents
+12:27:26 PM - [34mdebug[39m: loadFileContents
+12:27:26 PM - [34mdebug[39m: fromDirectory
+12:27:26 PM - [34mdebug[39m: loadFilesContents
+12:27:26 PM - [34mdebug[39m: loadFilesContents
+12:27:26 PM - [34mdebug[39m: loadFilesContents
+12:27:26 PM - [34mdebug[39m: loadFilesContents
+12:27:26 PM - [34mdebug[39m: loadFilesContents
+12:27:26 PM - [34mdebug[39m: loadFileContents
+12:27:26 PM - [34mdebug[39m: fromDirectory
+12:27:26 PM - [34mdebug[39m: loadFilesContents
+12:27:26 PM - [34mdebug[39m: loadFilesContents
+12:27:26 PM - [34mdebug[39m: loadFilesContents
+12:27:26 PM - [34mdebug[39m: loadFilesContents
+12:27:26 PM - [34mdebug[39m: loadFilesContents
+12:27:26 PM - [34mdebug[39m: loadFileContents
+12:27:26 PM - [34mdebug[39m: loadFileContents
+12:27:26 PM - [34mdebug[39m: loadFileContents
+12:27:26 PM - [34mdebug[39m: loadFileContents
+12:27:26 PM - [34mdebug[39m: loadFileContents
+12:27:27 PM - [34mdebug[39m: fromDirectory
+12:27:27 PM - [34mdebug[39m: loadFileContents
+12:27:27 PM - [34mdebug[39m: fromDirectory
+12:27:27 PM - [34mdebug[39m: fromDirectory
+12:27:27 PM - [34mdebug[39m: loadFilesContents
+12:27:27 PM - [34mdebug[39m: loadFilesContents
+12:27:27 PM - [34mdebug[39m: loadFilesContents
+12:27:27 PM - [34mdebug[39m: loadFilesContents
+12:27:27 PM - [34mdebug[39m: loadFilesContents
+12:27:27 PM - [34mdebug[39m: loadFileContents
+12:27:28 PM - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.latereturnandpenalty.LateReturnAndPenaltyContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Finlay Brady"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"exceptionCase":true,"penaltyDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"penaltyFee":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"5b19938d-c846-4b65-9e2f-5107b3a46250"}
+12:27:28 PM - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.latereturnandpenalty.LateReturnAndPenaltyContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mborrower[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mFinlay Brady[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mlender[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mRush Library[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mexceptionCase[39m[33m"[39m[33m: [39m[31mtrue[39m[33m,[39m
+  [33m"[39m[32mpenaltyDuration[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.time.Duration[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[36m1[39m[33m,[39m
+    [33m"[39m[32munit[39m[33m"[39m[33m: [39m[33m"[39m[35mdays[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mpenaltyFee[39m[33m"[39m[33m: [39m[36m0.25[39m[33m,[39m
+  [33m"[39m[32mcapPercentage[39m[33m"[39m[33m: [39m[36m50[39m[33m,[39m
+  [33m"[39m[32mfractionalPart[39m[33m"[39m[33m: [39m[33m"[39m[35mdays[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mcontractId[39m[33m"[39m[33m: [39m[33m"[39m[35m5b19938d-c846-4b65-9e2f-5107b3a46250[39m[33m"[39m
+[33m}[39m
+12:30:06 PM - [32minfo[39m: Using current directory as template folder
+12:30:06 PM - [32minfo[39m: Loading a default text/sample.md file.
+12:30:06 PM - [32minfo[39m: Loading a default request.json file.
+12:30:06 PM - [34mdebug[39m: loadFileContents
+12:30:06 PM - [34mdebug[39m: loadFileBuffer
+12:30:06 PM - [34mdebug[39m: loadFileContents
+12:30:06 PM - [34mdebug[39m: loadFileContents
+12:30:06 PM - [34mdebug[39m: fromDirectory
+12:30:06 PM - [34mdebug[39m: loadFilesContents
+12:30:06 PM - [34mdebug[39m: loadFilesContents
+12:30:06 PM - [34mdebug[39m: loadFilesContents
+12:30:06 PM - [34mdebug[39m: loadFilesContents
+12:30:06 PM - [34mdebug[39m: loadFilesContents
+12:30:06 PM - [34mdebug[39m: loadFileContents
+12:30:06 PM - [34mdebug[39m: fromDirectory
+12:30:06 PM - [34mdebug[39m: loadFilesContents
+12:30:06 PM - [34mdebug[39m: loadFilesContents
+12:30:06 PM - [34mdebug[39m: loadFilesContents
+12:30:06 PM - [34mdebug[39m: loadFilesContents
+12:30:06 PM - [34mdebug[39m: loadFilesContents
+12:30:06 PM - [34mdebug[39m: loadFileContents
+12:30:06 PM - [34mdebug[39m: loadFileContents
+12:30:06 PM - [34mdebug[39m: loadFileContents
+12:30:06 PM - [34mdebug[39m: loadFileContents
+12:30:06 PM - [34mdebug[39m: loadFileContents
+12:30:07 PM - [34mdebug[39m: fromDirectory
+12:30:07 PM - [34mdebug[39m: loadFileContents
+12:30:07 PM - [34mdebug[39m: fromDirectory
+12:30:07 PM - [34mdebug[39m: fromDirectory
+12:30:07 PM - [34mdebug[39m: loadFilesContents
+12:30:07 PM - [34mdebug[39m: loadFilesContents
+12:30:07 PM - [34mdebug[39m: loadFilesContents
+12:30:07 PM - [34mdebug[39m: loadFilesContents
+12:30:07 PM - [34mdebug[39m: loadFilesContents
+12:30:07 PM - [34mdebug[39m: loadFileContents
+12:30:08 PM - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.latereturnandpenalty.LateReturnAndPenaltyContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Finlay Brady"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"exceptionCase":true,"penaltyDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"penaltyFee":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"301b5dee-2f47-4d65-94a5-8ab808dc0d00"}
+12:30:08 PM - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+12:30:08 PM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+12:30:08 PM - [31merror[39m: Unexpected properties for type org.accordproject.latereturnandpenalty.LateReturnAndPenaltyRequest: exception
+12:30:28 PM - [32minfo[39m: Using current directory as template folder
+12:30:28 PM - [32minfo[39m: Loading a default text/sample.md file.
+12:30:28 PM - [32minfo[39m: Loading a default request.json file.
+12:30:28 PM - [34mdebug[39m: loadFileContents
+12:30:28 PM - [34mdebug[39m: loadFileBuffer
+12:30:28 PM - [34mdebug[39m: loadFileContents
+12:30:28 PM - [34mdebug[39m: loadFileContents
+12:30:28 PM - [34mdebug[39m: fromDirectory
+12:30:28 PM - [34mdebug[39m: loadFilesContents
+12:30:28 PM - [34mdebug[39m: loadFilesContents
+12:30:28 PM - [34mdebug[39m: loadFilesContents
+12:30:28 PM - [34mdebug[39m: loadFilesContents
+12:30:28 PM - [34mdebug[39m: loadFilesContents
+12:30:28 PM - [34mdebug[39m: loadFileContents
+12:30:28 PM - [34mdebug[39m: fromDirectory
+12:30:28 PM - [34mdebug[39m: loadFilesContents
+12:30:28 PM - [34mdebug[39m: loadFilesContents
+12:30:28 PM - [34mdebug[39m: loadFilesContents
+12:30:28 PM - [34mdebug[39m: loadFilesContents
+12:30:28 PM - [34mdebug[39m: loadFilesContents
+12:30:28 PM - [34mdebug[39m: loadFileContents
+12:30:28 PM - [34mdebug[39m: loadFileContents
+12:30:28 PM - [34mdebug[39m: loadFileContents
+12:30:28 PM - [34mdebug[39m: loadFileContents
+12:30:28 PM - [34mdebug[39m: loadFileContents
+12:30:29 PM - [34mdebug[39m: fromDirectory
+12:30:29 PM - [34mdebug[39m: loadFileContents
+12:30:29 PM - [34mdebug[39m: fromDirectory
+12:30:29 PM - [34mdebug[39m: fromDirectory
+12:30:29 PM - [34mdebug[39m: loadFilesContents
+12:30:29 PM - [34mdebug[39m: loadFilesContents
+12:30:29 PM - [34mdebug[39m: loadFilesContents
+12:30:29 PM - [34mdebug[39m: loadFilesContents
+12:30:29 PM - [34mdebug[39m: loadFilesContents
+12:30:29 PM - [34mdebug[39m: loadFileContents
+12:30:30 PM - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.latereturnandpenalty.LateReturnAndPenaltyContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Finlay Brady"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"exceptionCase":true,"penaltyDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"penaltyFee":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"8a1b33ab-a4fc-4675-9c61-b3546634b0f0"}
+12:30:30 PM - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+12:30:30 PM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+12:30:30 PM - [31merror[39m: Unexpected properties for type org.accordproject.latereturnandpenalty.LateReturnAndPenaltyRequest: exception
+12:33:48 PM - [32minfo[39m: Using current directory as template folder
+12:33:48 PM - [32minfo[39m: Loading a default text/sample.md file.
+12:33:48 PM - [32minfo[39m: Loading a default request.json file.
+12:33:48 PM - [34mdebug[39m: loadFileContents
+12:33:48 PM - [34mdebug[39m: loadFileBuffer
+12:33:48 PM - [34mdebug[39m: loadFileContents
+12:33:48 PM - [34mdebug[39m: loadFileContents
+12:33:48 PM - [34mdebug[39m: fromDirectory
+12:33:48 PM - [34mdebug[39m: loadFilesContents
+12:33:48 PM - [34mdebug[39m: loadFilesContents
+12:33:48 PM - [34mdebug[39m: loadFilesContents
+12:33:48 PM - [34mdebug[39m: loadFilesContents
+12:33:48 PM - [34mdebug[39m: loadFilesContents
+12:33:48 PM - [34mdebug[39m: loadFileContents
+12:33:48 PM - [34mdebug[39m: fromDirectory
+12:33:48 PM - [34mdebug[39m: loadFilesContents
+12:33:48 PM - [34mdebug[39m: loadFilesContents
+12:33:48 PM - [34mdebug[39m: loadFilesContents
+12:33:48 PM - [34mdebug[39m: loadFilesContents
+12:33:48 PM - [34mdebug[39m: loadFilesContents
+12:33:48 PM - [34mdebug[39m: loadFileContents
+12:33:48 PM - [34mdebug[39m: loadFileContents
+12:33:48 PM - [34mdebug[39m: loadFileContents
+12:33:48 PM - [34mdebug[39m: loadFileContents
+12:33:48 PM - [34mdebug[39m: loadFileContents
+12:33:49 PM - [34mdebug[39m: fromDirectory
+12:33:49 PM - [34mdebug[39m: loadFileContents
+12:33:49 PM - [34mdebug[39m: fromDirectory
+12:33:49 PM - [34mdebug[39m: fromDirectory
+12:33:49 PM - [34mdebug[39m: loadFilesContents
+12:33:49 PM - [34mdebug[39m: loadFilesContents
+12:33:49 PM - [34mdebug[39m: loadFilesContents
+12:33:49 PM - [34mdebug[39m: loadFilesContents
+12:33:49 PM - [34mdebug[39m: loadFilesContents
+12:33:49 PM - [34mdebug[39m: loadFileContents
+12:33:50 PM - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.latereturnandpenalty.LateReturnAndPenaltyContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Finlay Brady"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"exceptionCase":true,"penaltyDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"penaltyFee":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"5cc85edb-1a84-4e85-99a7-b78369965556"}
+12:33:50 PM - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+12:33:50 PM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+12:33:50 PM - [31merror[39m: Unexpected properties for type org.accordproject.latereturnandpenalty.LateReturnAndPenaltyRequest: exception
+12:33:58 PM - [32minfo[39m: Using current directory as template folder
+12:33:58 PM - [32minfo[39m: Loading a default text/sample.md file.
+12:33:58 PM - [32minfo[39m: Loading a default request.json file.
+12:33:58 PM - [34mdebug[39m: loadFileContents
+12:33:58 PM - [34mdebug[39m: loadFileBuffer
+12:33:58 PM - [34mdebug[39m: loadFileContents
+12:33:58 PM - [34mdebug[39m: loadFileContents
+12:33:58 PM - [34mdebug[39m: fromDirectory
+12:33:58 PM - [34mdebug[39m: loadFilesContents
+12:33:58 PM - [34mdebug[39m: loadFilesContents
+12:33:58 PM - [34mdebug[39m: loadFilesContents
+12:33:58 PM - [34mdebug[39m: loadFilesContents
+12:33:58 PM - [34mdebug[39m: loadFilesContents
+12:33:58 PM - [34mdebug[39m: loadFileContents
+12:33:58 PM - [34mdebug[39m: fromDirectory
+12:33:58 PM - [34mdebug[39m: loadFilesContents
+12:33:58 PM - [34mdebug[39m: loadFilesContents
+12:33:58 PM - [34mdebug[39m: loadFilesContents
+12:33:58 PM - [34mdebug[39m: loadFilesContents
+12:33:58 PM - [34mdebug[39m: loadFilesContents
+12:33:58 PM - [34mdebug[39m: loadFileContents
+12:33:58 PM - [34mdebug[39m: loadFileContents
+12:33:58 PM - [34mdebug[39m: loadFileContents
+12:33:58 PM - [34mdebug[39m: loadFileContents
+12:33:58 PM - [34mdebug[39m: loadFileContents
+12:33:59 PM - [34mdebug[39m: fromDirectory
+12:33:59 PM - [34mdebug[39m: loadFileContents
+12:33:59 PM - [34mdebug[39m: fromDirectory
+12:33:59 PM - [34mdebug[39m: fromDirectory
+12:33:59 PM - [34mdebug[39m: loadFilesContents
+12:33:59 PM - [34mdebug[39m: loadFilesContents
+12:33:59 PM - [34mdebug[39m: loadFilesContents
+12:33:59 PM - [34mdebug[39m: loadFilesContents
+12:33:59 PM - [34mdebug[39m: loadFilesContents
+12:33:59 PM - [34mdebug[39m: loadFileContents
+12:34:00 PM - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.latereturnandpenalty.LateReturnAndPenaltyContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Finlay Brady"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"exceptionCase":true,"penaltyDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"penaltyFee":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"5a442175-eff2-4c10-aafb-52b21113537c"}
+12:34:00 PM - [31merror[39m: Unexpected properties for type org.accordproject.latereturnandpenalty.LateReturnAndPenaltyRequest: exception
+12:34:21 PM - [32minfo[39m: Using current directory as template folder
+12:34:21 PM - [32minfo[39m: Loading a default text/sample.md file.
+12:34:21 PM - [32minfo[39m: Loading a default request.json file.
+12:34:21 PM - [34mdebug[39m: loadFileContents
+12:34:21 PM - [34mdebug[39m: loadFileBuffer
+12:34:21 PM - [34mdebug[39m: loadFileContents
+12:34:21 PM - [34mdebug[39m: loadFileContents
+12:34:21 PM - [34mdebug[39m: fromDirectory
+12:34:21 PM - [34mdebug[39m: loadFilesContents
+12:34:21 PM - [34mdebug[39m: loadFilesContents
+12:34:21 PM - [34mdebug[39m: loadFilesContents
+12:34:21 PM - [34mdebug[39m: loadFilesContents
+12:34:21 PM - [34mdebug[39m: loadFilesContents
+12:34:21 PM - [34mdebug[39m: loadFileContents
+12:34:21 PM - [34mdebug[39m: fromDirectory
+12:34:21 PM - [34mdebug[39m: loadFilesContents
+12:34:21 PM - [34mdebug[39m: loadFilesContents
+12:34:21 PM - [34mdebug[39m: loadFilesContents
+12:34:21 PM - [34mdebug[39m: loadFilesContents
+12:34:21 PM - [34mdebug[39m: loadFilesContents
+12:34:21 PM - [34mdebug[39m: loadFileContents
+12:34:21 PM - [34mdebug[39m: loadFileContents
+12:34:21 PM - [34mdebug[39m: loadFileContents
+12:34:21 PM - [34mdebug[39m: loadFileContents
+12:34:21 PM - [34mdebug[39m: loadFileContents
+12:34:22 PM - [34mdebug[39m: fromDirectory
+12:34:22 PM - [34mdebug[39m: loadFileContents
+12:34:22 PM - [34mdebug[39m: fromDirectory
+12:34:22 PM - [34mdebug[39m: fromDirectory
+12:34:22 PM - [34mdebug[39m: loadFilesContents
+12:34:22 PM - [34mdebug[39m: loadFilesContents
+12:34:22 PM - [34mdebug[39m: loadFilesContents
+12:34:22 PM - [34mdebug[39m: loadFilesContents
+12:34:22 PM - [34mdebug[39m: loadFilesContents
+12:34:22 PM - [34mdebug[39m: loadFileContents
+12:34:23 PM - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.latereturnandpenalty.LateReturnAndPenaltyContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Finlay Brady"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"exceptionCase":true,"penaltyDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"penaltyFee":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"4a7b7f72-5564-4ca3-ba25-77b145fd7b85"}
+12:34:23 PM - [31merror[39m: Invalid JSON data. Does not contain a $class type identifier.
+12:35:32 - [34mdebug[39m: loadFileContents
+12:35:32 - [34mdebug[39m: loadFileBuffer
+12:35:32 - [34mdebug[39m: loadFileContents
+12:35:32 - [34mdebug[39m: loadFileContents
+12:35:32 - [34mdebug[39m: fromDirectory
+12:35:32 - [34mdebug[39m: loadFilesContents
+12:35:32 - [34mdebug[39m: loadFileContents
+12:35:32 - [34mdebug[39m: loadFileBuffer
+12:35:32 - [34mdebug[39m: loadFileContents
+12:35:32 - [34mdebug[39m: loadFileContents
+12:35:32 - [34mdebug[39m: fromDirectory
+12:35:32 - [34mdebug[39m: loadFilesContents
+12:35:32 - [34mdebug[39m: loadFilesContents
+12:35:32 - [34mdebug[39m: loadFilesContents
+12:35:32 - [34mdebug[39m: loadFilesContents
+12:35:32 - [34mdebug[39m: loadFilesContents
+12:35:32 - [34mdebug[39m: loadFilesContents
+12:35:32 - [34mdebug[39m: loadFilesContents
+12:35:32 - [34mdebug[39m: loadFilesContents
+12:35:32 - [34mdebug[39m: loadFilesContents
+12:35:32 - [34mdebug[39m: loadFileContents
+12:35:32 - [34mdebug[39m: fromDirectory
+12:35:32 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+12:35:32 - [34mdebug[39m: loadFileContents
+12:35:32 - [34mdebug[39m: fromDirectory
+12:35:32 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+12:35:33 - [34mdebug[39m: loadFileContents
+12:35:33 - [34mdebug[39m: loadFileBuffer
+12:35:33 - [34mdebug[39m: loadFileContents
+12:35:33 - [34mdebug[39m: loadFileContents
+12:35:33 - [34mdebug[39m: fromDirectory
+12:35:33 - [34mdebug[39m: loadFilesContents
+12:35:33 - [34mdebug[39m: loadFilesContents
+12:35:33 - [34mdebug[39m: loadFilesContents
+12:35:33 - [34mdebug[39m: loadFilesContents
+12:35:33 - [34mdebug[39m: loadFilesContents
+12:35:33 - [34mdebug[39m: loadFileContents
+12:35:33 - [34mdebug[39m: fromDirectory
+12:35:33 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+12:35:35 - [34mdebug[39m: loadFileContents
+12:35:35 - [34mdebug[39m: loadFileBuffer
+12:35:35 - [34mdebug[39m: loadFileContents
+12:35:35 - [34mdebug[39m: loadFileContents
+12:35:35 - [34mdebug[39m: fromDirectory
+12:35:35 - [34mdebug[39m: loadFilesContents
+12:35:35 - [34mdebug[39m: loadFileContents
+12:35:35 - [34mdebug[39m: loadFileBuffer
+12:35:35 - [34mdebug[39m: loadFileContents
+12:35:35 - [34mdebug[39m: loadFileContents
+12:35:35 - [34mdebug[39m: fromDirectory
+12:35:35 - [34mdebug[39m: loadFilesContents
+12:35:36 - [34mdebug[39m: loadFileContents
+12:35:36 - [34mdebug[39m: loadFileBuffer
+12:35:36 - [34mdebug[39m: loadFileContents
+12:35:36 - [34mdebug[39m: loadFileContents
+12:35:36 - [34mdebug[39m: fromDirectory
+12:35:36 - [34mdebug[39m: loadFilesContents
+12:35:36 - [34mdebug[39m: loadFilesContents
+12:35:36 - [34mdebug[39m: loadFilesContents
+12:35:36 - [34mdebug[39m: loadFilesContents
+12:35:36 - [34mdebug[39m: loadFilesContents
+12:35:36 - [34mdebug[39m: loadFilesContents
+12:35:36 - [34mdebug[39m: loadFilesContents
+12:35:36 - [34mdebug[39m: loadFilesContents
+12:35:36 - [34mdebug[39m: loadFilesContents
+12:35:36 - [34mdebug[39m: loadFilesContents
+12:35:36 - [34mdebug[39m: loadFilesContents
+12:35:36 - [34mdebug[39m: loadFilesContents
+12:35:36 - [34mdebug[39m: loadFilesContents
+12:35:36 - [34mdebug[39m: loadFileContents
+12:35:36 - [34mdebug[39m: fromDirectory
+12:35:36 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+12:35:36 - [34mdebug[39m: loadFileContents
+12:35:36 - [34mdebug[39m: fromDirectory
+12:35:36 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+12:35:36 - [34mdebug[39m: loadFileContents
+12:35:36 - [34mdebug[39m: fromDirectory
+12:35:36 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+12:35:45 PM - [32minfo[39m: Using current directory as template folder
+12:35:45 PM - [32minfo[39m: Loading a default text/sample.md file.
+12:35:45 PM - [32minfo[39m: Loading a default request.json file.
+12:35:45 PM - [34mdebug[39m: loadFileContents
+12:35:45 PM - [34mdebug[39m: loadFileBuffer
+12:35:45 PM - [34mdebug[39m: loadFileContents
+12:35:45 PM - [34mdebug[39m: loadFileContents
+12:35:45 PM - [34mdebug[39m: fromDirectory
+12:35:45 PM - [34mdebug[39m: loadFilesContents
+12:35:45 PM - [34mdebug[39m: loadFilesContents
+12:35:45 PM - [34mdebug[39m: loadFilesContents
+12:35:45 PM - [34mdebug[39m: loadFilesContents
+12:35:45 PM - [34mdebug[39m: loadFilesContents
+12:35:45 PM - [34mdebug[39m: loadFileContents
+12:35:45 PM - [34mdebug[39m: fromDirectory
+12:35:46 PM - [34mdebug[39m: loadFilesContents
+12:35:46 PM - [34mdebug[39m: loadFilesContents
+12:35:46 PM - [34mdebug[39m: loadFilesContents
+12:35:46 PM - [34mdebug[39m: loadFilesContents
+12:35:46 PM - [34mdebug[39m: loadFilesContents
+12:35:46 PM - [34mdebug[39m: loadFileContents
+12:35:46 PM - [34mdebug[39m: loadFileContents
+12:35:46 PM - [34mdebug[39m: loadFileContents
+12:35:46 PM - [34mdebug[39m: loadFileContents
+12:35:46 PM - [34mdebug[39m: loadFileContents
+12:35:46 PM - [34mdebug[39m: fromDirectory
+12:35:46 PM - [34mdebug[39m: loadFileContents
+12:35:46 PM - [34mdebug[39m: fromDirectory
+12:35:46 PM - [34mdebug[39m: fromDirectory
+12:35:46 PM - [34mdebug[39m: loadFilesContents
+12:35:46 PM - [34mdebug[39m: loadFilesContents
+12:35:46 PM - [34mdebug[39m: loadFilesContents
+12:35:46 PM - [34mdebug[39m: loadFilesContents
+12:35:46 PM - [34mdebug[39m: loadFilesContents
+12:35:46 PM - [34mdebug[39m: loadFileContents
+12:35:47 PM - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.latereturnandpenalty.LateReturnAndPenaltyContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Finlay Brady"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"exceptionCase":true,"penaltyDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"penaltyFee":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"b9d8eae1-8cc4-4ca3-9391-5ec9f6a5507a"}
+12:35:47 PM - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+12:35:47 PM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+12:35:47 PM - [34mdebug[39m: Engine processing request org.accordproject.latereturnandpenalty.LateReturnAndPenaltyRequest with state org.accordproject.cicero.contract.AccordContractState
+12:35:47 PM - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mlatereturnandpenalty@0.1-0af9547d6c2b6c23fa641d7e82667f084698608a7975f5966beb90bdd989d18f[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.latereturnandpenalty.LateReturnAndPenaltyRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mexceptionCase[39m[33m"[39m[33m: [39m[31mfalse[39m[33m,[39m
+    [33m"[39m[32magreedReturn[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-09-13T23:59:59-00:00[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mreturnedOn[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-10-15T23:59:59-00:00[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mitemValue[39m[33m"[39m[33m: [39m[36m42.99[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.latereturnandpenalty.LateReturnAndPenaltyResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpenalty[39m[33m"[39m[33m: [39m[36m8[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35m359824cb-7197-4189-a051-5adb38bdeeb0[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-10-16T11:35:47.981Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m
+    [33m{[39m
+      [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.runtime.PaymentObligation[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[33m{[39m
+        [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+        [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m8[39m[33m,[39m
+        [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+      [33m}[39m[33m,[39m
+      [33m"[39m[32mdescription[39m[33m"[39m[33m: [39m[33m"[39m[35mFinlay Brady should pay penalty amount to Rush Library[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.latereturnandpenalty.LateReturnAndPenaltyContract#b9d8eae1-8cc4-4ca3-9391-5ec9f6a5507a[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisor[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Rush%20Library[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisee[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Finlay%20Brady[39m[33m"[39m[33m,[39m
+      [33m"[39m[32meventId[39m[33m"[39m[33m: [39m[33m"[39m[35mvalid[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-10-16T11:35:47.982Z[39m[33m"[39m
+    [33m}[39m
+  [33m][39m
+[33m}[39m
+12:39:17 - [34mdebug[39m: loadFileContents
+12:39:17 - [34mdebug[39m: loadFileBuffer
+12:39:17 - [34mdebug[39m: loadFileContents
+12:39:17 - [34mdebug[39m: loadFileContents
+12:39:17 - [34mdebug[39m: fromDirectory
+12:39:17 - [34mdebug[39m: loadFilesContents
+12:39:17 - [34mdebug[39m: loadFilesContents
+12:39:17 - [34mdebug[39m: loadFilesContents
+12:39:17 - [34mdebug[39m: loadFilesContents
+12:39:17 - [34mdebug[39m: loadFilesContents
+12:39:17 - [34mdebug[39m: loadFileContents
+12:39:17 - [34mdebug[39m: fromDirectory
+12:39:17 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+12:39:18 - [34mdebug[39m: loadFileContents
+12:39:18 - [34mdebug[39m: loadFileBuffer
+12:39:18 - [34mdebug[39m: loadFileContents
+12:39:18 - [34mdebug[39m: loadFileContents
+12:39:18 - [34mdebug[39m: fromDirectory
+12:39:18 - [34mdebug[39m: loadFilesContents
+12:39:18 - [34mdebug[39m: loadFilesContents
+12:39:18 - [34mdebug[39m: loadFilesContents
+12:39:18 - [34mdebug[39m: loadFilesContents
+12:39:18 - [34mdebug[39m: loadFilesContents
+12:39:18 - [34mdebug[39m: loadFileContents
+12:39:18 - [34mdebug[39m: fromDirectory
+12:39:18 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+12:39:19 - [34mdebug[39m: loadFileContents
+12:39:19 - [34mdebug[39m: loadFileBuffer
+12:39:19 - [34mdebug[39m: loadFileContents
+12:39:19 - [34mdebug[39m: loadFileContents
+12:39:19 - [34mdebug[39m: fromDirectory
+12:39:19 - [34mdebug[39m: loadFilesContents
+12:39:19 - [34mdebug[39m: loadFilesContents
+12:39:19 - [34mdebug[39m: loadFilesContents
+12:39:19 - [34mdebug[39m: loadFilesContents
+12:39:19 - [34mdebug[39m: loadFilesContents
+12:39:19 - [34mdebug[39m: loadFileContents
+12:39:19 - [34mdebug[39m: fromDirectory
+12:39:19 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+12:39:23 - [34mdebug[39m: loadFileContents
+12:39:23 - [34mdebug[39m: loadFileBuffer
+12:39:23 - [34mdebug[39m: loadFileContents
+12:39:23 - [34mdebug[39m: loadFileContents
+12:39:23 - [34mdebug[39m: fromDirectory
+12:39:23 - [34mdebug[39m: loadFilesContents
+12:39:23 - [34mdebug[39m: loadFilesContents
+12:39:23 - [34mdebug[39m: loadFilesContents
+12:39:23 - [34mdebug[39m: loadFilesContents
+12:39:24 - [34mdebug[39m: loadFileContents
+12:39:24 - [34mdebug[39m: loadFileBuffer
+12:39:24 - [34mdebug[39m: loadFileContents
+12:39:24 - [34mdebug[39m: loadFileContents
+12:39:24 - [34mdebug[39m: fromDirectory
+12:39:24 - [34mdebug[39m: loadFilesContents
+12:39:24 - [34mdebug[39m: loadFilesContents
+12:39:25 - [34mdebug[39m: loadFileContents
+12:39:25 - [34mdebug[39m: loadFileBuffer
+12:39:25 - [34mdebug[39m: loadFileContents
+12:39:25 - [34mdebug[39m: loadFileContents
+12:39:25 - [34mdebug[39m: fromDirectory
+12:39:25 - [34mdebug[39m: loadFilesContents
+12:39:25 - [34mdebug[39m: loadFilesContents
+12:39:25 - [34mdebug[39m: loadFilesContents
+12:39:25 - [34mdebug[39m: loadFilesContents
+12:39:25 - [34mdebug[39m: loadFilesContents
+12:39:25 - [34mdebug[39m: loadFileContents
+12:39:25 - [34mdebug[39m: fromDirectory
+12:39:25 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+12:39:25 - [34mdebug[39m: loadFilesContents
+12:39:25 - [34mdebug[39m: loadFilesContents
+12:39:25 - [34mdebug[39m: loadFilesContents
+12:39:25 - [34mdebug[39m: loadFilesContents
+12:39:25 - [34mdebug[39m: loadFileContents
+12:39:25 - [34mdebug[39m: fromDirectory
+12:39:25 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+12:39:25 - [34mdebug[39m: loadFileContents
+12:39:25 - [34mdebug[39m: fromDirectory
+12:39:25 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+12:39:26 - [34mdebug[39m: loadFileContents
+12:39:26 - [34mdebug[39m: loadFileBuffer
+12:39:26 - [34mdebug[39m: loadFileContents
+12:39:26 - [34mdebug[39m: loadFileContents
+12:39:26 - [34mdebug[39m: fromDirectory
+12:39:26 - [34mdebug[39m: loadFilesContents
+12:39:27 - [34mdebug[39m: loadFileContents
+12:39:27 - [34mdebug[39m: loadFileBuffer
+12:39:27 - [34mdebug[39m: loadFileContents
+12:39:27 - [34mdebug[39m: loadFileContents
+12:39:27 - [34mdebug[39m: fromDirectory
+12:39:27 - [34mdebug[39m: loadFilesContents
+12:39:27 - [34mdebug[39m: loadFilesContents
+12:39:27 - [34mdebug[39m: loadFilesContents
+12:39:27 - [34mdebug[39m: loadFilesContents
+12:39:27 - [34mdebug[39m: loadFilesContents
+12:39:27 - [34mdebug[39m: loadFilesContents
+12:39:27 - [34mdebug[39m: loadFilesContents
+12:39:27 - [34mdebug[39m: loadFilesContents
+12:39:27 - [34mdebug[39m: loadFilesContents
+12:39:27 - [34mdebug[39m: loadFileContents
+12:39:27 - [34mdebug[39m: fromDirectory
+12:39:27 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+12:39:27 - [34mdebug[39m: loadFileContents
+12:39:27 - [34mdebug[39m: fromDirectory
+12:39:27 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+12:39:27 - [34mdebug[39m: loadFileContents
+12:39:27 - [34mdebug[39m: loadFileBuffer
+12:39:27 - [34mdebug[39m: loadFileContents
+12:39:27 - [34mdebug[39m: loadFileContents
+12:39:27 - [34mdebug[39m: fromDirectory
+12:39:27 - [34mdebug[39m: loadFilesContents
+12:39:27 - [34mdebug[39m: loadFilesContents
+12:39:27 - [34mdebug[39m: loadFilesContents
+12:39:27 - [34mdebug[39m: loadFilesContents
+12:39:27 - [34mdebug[39m: loadFilesContents
+12:39:27 - [34mdebug[39m: loadFileContents
+12:39:27 - [34mdebug[39m: fromDirectory
+12:39:27 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+12:39:27 - [34mdebug[39m: loadFileContents
+12:39:27 - [34mdebug[39m: loadFileBuffer
+12:39:27 - [34mdebug[39m: loadFileContents
+12:39:27 - [34mdebug[39m: loadFileContents
+12:39:27 - [34mdebug[39m: fromDirectory
+12:39:27 - [34mdebug[39m: loadFilesContents
+12:39:27 - [34mdebug[39m: loadFilesContents
+12:39:27 - [34mdebug[39m: loadFilesContents
+12:39:27 - [34mdebug[39m: loadFilesContents
+12:39:27 - [34mdebug[39m: loadFilesContents
+12:39:28 - [34mdebug[39m: loadFileContents
+12:39:28 - [34mdebug[39m: fromDirectory
+12:39:28 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+12:39:28 - [34mdebug[39m: loadFileContents
+12:39:28 - [34mdebug[39m: loadFileBuffer
+12:39:28 - [34mdebug[39m: loadFileContents
+12:39:28 - [34mdebug[39m: loadFileContents
+12:39:28 - [34mdebug[39m: fromDirectory
+12:39:28 - [34mdebug[39m: loadFilesContents
+12:39:29 - [34mdebug[39m: loadFileContents
+12:39:29 - [34mdebug[39m: loadFileBuffer
+12:39:29 - [34mdebug[39m: loadFileContents
+12:39:29 - [34mdebug[39m: loadFileContents
+12:39:29 - [34mdebug[39m: fromDirectory
+12:39:29 - [34mdebug[39m: loadFilesContents
+12:39:29 - [34mdebug[39m: loadFilesContents
+12:39:29 - [34mdebug[39m: loadFilesContents
+12:39:29 - [34mdebug[39m: loadFilesContents
+12:39:29 - [34mdebug[39m: loadFilesContents
+12:39:29 - [34mdebug[39m: loadFilesContents
+12:39:29 - [34mdebug[39m: loadFilesContents
+12:39:29 - [34mdebug[39m: loadFilesContents
+12:39:29 - [34mdebug[39m: loadFilesContents
+12:39:29 - [34mdebug[39m: loadFileContents
+12:39:29 - [34mdebug[39m: fromDirectory
+12:39:29 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+12:39:29 - [34mdebug[39m: loadFileContents
+12:39:29 - [34mdebug[39m: fromDirectory
+12:39:29 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+12:39:33 - [34mdebug[39m: loadFileContents
+12:39:33 - [34mdebug[39m: loadFileBuffer
+12:39:33 - [34mdebug[39m: loadFileContents
+12:39:33 - [34mdebug[39m: loadFileContents
+12:39:33 - [34mdebug[39m: fromDirectory
+12:39:33 - [34mdebug[39m: loadFilesContents
+12:39:34 - [34mdebug[39m: loadFileContents
+12:39:34 - [34mdebug[39m: loadFileBuffer
+12:39:34 - [34mdebug[39m: loadFileContents
+12:39:34 - [34mdebug[39m: loadFileContents
+12:39:34 - [34mdebug[39m: fromDirectory
+12:39:34 - [34mdebug[39m: loadFilesContents
+12:39:34 - [34mdebug[39m: loadFileContents
+12:39:34 - [34mdebug[39m: loadFileBuffer
+12:39:34 - [34mdebug[39m: loadFileContents
+12:39:34 - [34mdebug[39m: loadFileContents
+12:39:34 - [34mdebug[39m: fromDirectory
+12:39:34 - [34mdebug[39m: loadFilesContents
+12:39:34 - [34mdebug[39m: loadFilesContents
+12:39:34 - [34mdebug[39m: loadFilesContents
+12:39:34 - [34mdebug[39m: loadFilesContents
+12:39:34 - [34mdebug[39m: loadFilesContents
+12:39:34 - [34mdebug[39m: loadFilesContents
+12:39:34 - [34mdebug[39m: loadFilesContents
+12:39:34 - [34mdebug[39m: loadFilesContents
+12:39:34 - [34mdebug[39m: loadFilesContents
+12:39:34 - [34mdebug[39m: loadFilesContents
+12:39:34 - [34mdebug[39m: loadFilesContents
+12:39:34 - [34mdebug[39m: loadFilesContents
+12:39:34 - [34mdebug[39m: loadFilesContents
+12:39:34 - [34mdebug[39m: loadFileContents
+12:39:34 - [34mdebug[39m: fromDirectory
+12:39:34 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+12:39:34 - [34mdebug[39m: loadFileContents
+12:39:34 - [34mdebug[39m: fromDirectory
+12:39:34 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+12:39:34 - [34mdebug[39m: loadFileContents
+12:39:34 - [34mdebug[39m: fromDirectory
+12:39:34 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+12:39:35 - [34mdebug[39m: loadFileContents
+12:39:35 - [34mdebug[39m: loadFileBuffer
+12:39:35 - [34mdebug[39m: loadFileContents
+12:39:35 - [34mdebug[39m: loadFileContents
+12:39:35 - [34mdebug[39m: fromDirectory
+12:39:35 - [34mdebug[39m: loadFilesContents
+12:39:35 - [34mdebug[39m: loadFilesContents
+12:39:35 - [34mdebug[39m: loadFilesContents
+12:39:35 - [34mdebug[39m: loadFilesContents
+12:39:35 - [34mdebug[39m: loadFilesContents
+12:39:35 - [34mdebug[39m: loadFileContents
+12:39:35 - [34mdebug[39m: fromDirectory
+12:39:35 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+12:39:36 PM - [32minfo[39m: Using current directory as template folder
+12:39:36 PM - [32minfo[39m: Loading a default text/sample.md file.
+12:39:36 PM - [32minfo[39m: Loading a default request.json file.
+12:39:36 PM - [34mdebug[39m: loadFileContents
+12:39:36 PM - [34mdebug[39m: loadFileBuffer
+12:39:36 PM - [34mdebug[39m: loadFileContents
+12:39:36 PM - [34mdebug[39m: loadFileContents
+12:39:36 PM - [34mdebug[39m: fromDirectory
+12:39:36 PM - [34mdebug[39m: loadFilesContents
+12:39:36 PM - [34mdebug[39m: loadFilesContents
+12:39:36 PM - [34mdebug[39m: loadFilesContents
+12:39:36 PM - [34mdebug[39m: loadFilesContents
+12:39:36 PM - [34mdebug[39m: loadFilesContents
+12:39:36 PM - [34mdebug[39m: loadFileContents
+12:39:36 PM - [34mdebug[39m: fromDirectory
+12:39:36 PM - [34mdebug[39m: loadFilesContents
+12:39:36 PM - [34mdebug[39m: loadFilesContents
+12:39:36 PM - [34mdebug[39m: loadFilesContents
+12:39:36 PM - [34mdebug[39m: loadFilesContents
+12:39:36 PM - [34mdebug[39m: loadFilesContents
+12:39:36 PM - [34mdebug[39m: loadFileContents
+12:39:36 PM - [34mdebug[39m: loadFileContents
+12:39:36 PM - [34mdebug[39m: loadFileContents
+12:39:36 PM - [34mdebug[39m: loadFileContents
+12:39:36 PM - [34mdebug[39m: loadFileContents
+12:39:36 - [34mdebug[39m: loadFileContents
+12:39:36 - [34mdebug[39m: loadFileBuffer
+12:39:36 - [34mdebug[39m: loadFileContents
+12:39:36 - [34mdebug[39m: loadFileContents
+12:39:36 - [34mdebug[39m: fromDirectory
+12:39:36 - [34mdebug[39m: loadFilesContents
+12:39:36 - [34mdebug[39m: loadFileContents
+12:39:36 - [34mdebug[39m: loadFileBuffer
+12:39:36 - [34mdebug[39m: loadFileContents
+12:39:36 - [34mdebug[39m: loadFileContents
+12:39:36 - [34mdebug[39m: fromDirectory
+12:39:36 - [34mdebug[39m: loadFilesContents
+12:39:36 - [34mdebug[39m: loadFilesContents
+12:39:36 - [34mdebug[39m: loadFilesContents
+12:39:36 - [34mdebug[39m: loadFilesContents
+12:39:36 - [34mdebug[39m: loadFilesContents
+12:39:36 - [34mdebug[39m: loadFilesContents
+12:39:36 - [34mdebug[39m: loadFilesContents
+12:39:36 - [34mdebug[39m: loadFilesContents
+12:39:36 - [34mdebug[39m: loadFilesContents
+12:39:36 - [34mdebug[39m: loadFileContents
+12:39:36 - [34mdebug[39m: fromDirectory
+12:39:36 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+12:39:36 - [34mdebug[39m: loadFileContents
+12:39:36 - [34mdebug[39m: fromDirectory
+12:39:36 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+12:39:37 PM - [34mdebug[39m: fromDirectory
+12:39:37 PM - [34mdebug[39m: loadFileContents
+12:39:37 PM - [34mdebug[39m: fromDirectory
+12:39:37 PM - [34mdebug[39m: fromDirectory
+12:39:37 PM - [34mdebug[39m: loadFilesContents
+12:39:37 PM - [34mdebug[39m: loadFilesContents
+12:39:37 PM - [34mdebug[39m: loadFilesContents
+12:39:37 PM - [34mdebug[39m: loadFilesContents
+12:39:37 PM - [34mdebug[39m: loadFilesContents
+12:39:37 PM - [34mdebug[39m: loadFileContents
+12:39:37 - [34mdebug[39m: loadFileContents
+12:39:37 - [34mdebug[39m: loadFileBuffer
+12:39:37 - [34mdebug[39m: loadFileContents
+12:39:37 - [34mdebug[39m: loadFileContents
+12:39:37 - [34mdebug[39m: fromDirectory
+12:39:37 - [34mdebug[39m: loadFilesContents
+12:39:38 PM - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.latereturnandpenalty.LateReturnAndPenaltyContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"exceptionCase":true,"penaltyDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"penaltyFee":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"bc1f48a1-499d-4445-9a89-562d7e3efcf8"}
+12:39:38 PM - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+12:39:38 PM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+12:39:38 PM - [34mdebug[39m: Engine processing request org.accordproject.latereturnandpenalty.LateReturnAndPenaltyRequest with state org.accordproject.cicero.contract.AccordContractState
+12:39:38 PM - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mlatereturnandpenalty@0.1-092e812fb10fbd562eb3700adac395cbf892f68abbfe4f243a177a909d820d59[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.latereturnandpenalty.LateReturnAndPenaltyRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mexceptionCase[39m[33m"[39m[33m: [39m[31mfalse[39m[33m,[39m
+    [33m"[39m[32magreedReturn[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-09-13T23:59:59-00:00[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mreturnedOn[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-10-15T23:59:59-00:00[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mitemValue[39m[33m"[39m[33m: [39m[36m42.99[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.latereturnandpenalty.LateReturnAndPenaltyResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpenalty[39m[33m"[39m[33m: [39m[36m8[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35mcb71cd43-b4c3-4998-a922-5342c5c4291e[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-10-16T11:39:38.220Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m
+    [33m{[39m
+      [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.runtime.PaymentObligation[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[33m{[39m
+        [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+        [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m8[39m[33m,[39m
+        [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+      [33m}[39m[33m,[39m
+      [33m"[39m[32mdescription[39m[33m"[39m[33m: [39m[33m"[39m[35mPaul Power should pay penalty amount to Rush Library[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.latereturnandpenalty.LateReturnAndPenaltyContract#bc1f48a1-499d-4445-9a89-562d7e3efcf8[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisor[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Rush%20Library[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisee[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Paul%20Power[39m[33m"[39m[33m,[39m
+      [33m"[39m[32meventId[39m[33m"[39m[33m: [39m[33m"[39m[35mvalid[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-10-16T11:39:38.221Z[39m[33m"[39m
+    [33m}[39m
+  [33m][39m
+[33m}[39m
+12:39:38 - [34mdebug[39m: loadFileContents
+12:39:38 - [34mdebug[39m: loadFileBuffer
+12:39:38 - [34mdebug[39m: loadFileContents
+12:39:38 - [34mdebug[39m: loadFileContents
+12:39:38 - [34mdebug[39m: fromDirectory
+12:39:38 - [34mdebug[39m: loadFilesContents
+12:39:38 - [34mdebug[39m: loadFileContents
+12:39:38 - [34mdebug[39m: loadFileBuffer
+12:39:38 - [34mdebug[39m: loadFileContents
+12:39:38 - [34mdebug[39m: loadFileContents
+12:39:38 - [34mdebug[39m: fromDirectory
+12:39:38 - [34mdebug[39m: loadFilesContents
+12:39:38 - [34mdebug[39m: loadFilesContents
+12:39:38 - [34mdebug[39m: loadFilesContents
+12:39:38 - [34mdebug[39m: loadFilesContents
+12:39:38 - [34mdebug[39m: loadFilesContents
+12:39:38 - [34mdebug[39m: loadFilesContents
+12:39:38 - [34mdebug[39m: loadFilesContents
+12:39:38 - [34mdebug[39m: loadFilesContents
+12:39:38 - [34mdebug[39m: loadFilesContents
+12:39:38 - [34mdebug[39m: loadFilesContents
+12:39:38 - [34mdebug[39m: loadFilesContents
+12:39:38 - [34mdebug[39m: loadFilesContents
+12:39:38 - [34mdebug[39m: loadFilesContents
+12:39:38 - [34mdebug[39m: loadFileContents
+12:39:38 - [34mdebug[39m: fromDirectory
+12:39:38 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+12:39:38 - [34mdebug[39m: loadFileContents
+12:39:38 - [34mdebug[39m: fromDirectory
+12:39:38 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+12:39:38 - [34mdebug[39m: loadFileContents
+12:39:38 - [34mdebug[39m: fromDirectory
+12:39:38 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+12:47:04 PM - [32minfo[39m: Using current directory as template folder
+12:47:04 PM - [32minfo[39m: Loading a default text/sample.md file.
+12:47:04 PM - [32minfo[39m: Loading a default request.json file.
+12:47:04 PM - [34mdebug[39m: loadFileContents
+12:47:04 PM - [34mdebug[39m: loadFileBuffer
+12:47:04 PM - [34mdebug[39m: loadFileContents
+12:47:04 PM - [34mdebug[39m: loadFileContents
+12:47:04 PM - [34mdebug[39m: fromDirectory
+12:47:04 PM - [34mdebug[39m: loadFilesContents
+12:47:04 PM - [34mdebug[39m: loadFilesContents
+12:47:04 PM - [34mdebug[39m: loadFilesContents
+12:47:04 PM - [34mdebug[39m: loadFilesContents
+12:47:04 PM - [34mdebug[39m: loadFilesContents
+12:47:04 PM - [34mdebug[39m: loadFileContents
+12:47:04 PM - [34mdebug[39m: fromDirectory
+12:47:04 PM - [34mdebug[39m: loadFilesContents
+12:47:04 PM - [34mdebug[39m: loadFilesContents
+12:47:04 PM - [34mdebug[39m: loadFilesContents
+12:47:04 PM - [34mdebug[39m: loadFilesContents
+12:47:04 PM - [34mdebug[39m: loadFilesContents
+12:47:04 PM - [34mdebug[39m: loadFileContents
+12:47:04 PM - [34mdebug[39m: loadFileContents
+12:47:04 PM - [34mdebug[39m: loadFileContents
+12:47:04 PM - [34mdebug[39m: loadFileContents
+12:47:04 PM - [34mdebug[39m: loadFileContents
+12:47:05 PM - [34mdebug[39m: fromDirectory
+12:47:05 PM - [34mdebug[39m: loadFileContents
+12:47:05 PM - [34mdebug[39m: fromDirectory
+12:47:05 PM - [34mdebug[39m: fromDirectory
+12:47:05 PM - [34mdebug[39m: loadFilesContents
+12:47:05 PM - [34mdebug[39m: loadFilesContents
+12:47:05 PM - [34mdebug[39m: loadFilesContents
+12:47:05 PM - [34mdebug[39m: loadFilesContents
+12:47:05 PM - [34mdebug[39m: loadFilesContents
+12:47:05 PM - [34mdebug[39m: loadFileContents
+12:47:06 PM - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.latereturnandpenalty.LateReturnAndPenaltyContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"exceptionCase":true,"penaltyDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"penaltyFee":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"0c6580ac-bc3e-4424-b14b-93e2aff75aa4"}
+12:47:06 PM - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+12:47:06 PM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+12:47:06 PM - [34mdebug[39m: Engine processing request org.accordproject.latereturnandpenalty.LateReturnAndPenaltyRequest with state org.accordproject.cicero.contract.AccordContractState
+12:47:06 PM - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mlatereturnandpenalty@0.1-3f708466fb3a644483e61ee86cb6270022be6bfbe74f0ec91e75e2911fb0fae4[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.latereturnandpenalty.LateReturnAndPenaltyRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mexceptionCase[39m[33m"[39m[33m: [39m[31mfalse[39m[33m,[39m
+    [33m"[39m[32magreedReturn[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-09-13T23:59:59-00:00[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mreturnedOn[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-10-15T23:59:59-00:00[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mitemValue[39m[33m"[39m[33m: [39m[36m42.99[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.latereturnandpenalty.LateReturnAndPenaltyResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpenalty[39m[33m"[39m[33m: [39m[36m8[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35m110f4b59-8ec8-4e3a-b5b3-2546d115a4fb[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-10-16T11:47:06.418Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m
+    [33m{[39m
+      [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.runtime.PaymentObligation[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[33m{[39m
+        [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+        [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m8[39m[33m,[39m
+        [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+      [33m}[39m[33m,[39m
+      [33m"[39m[32mdescription[39m[33m"[39m[33m: [39m[33m"[39m[35mPaul Power should pay penalty amount to Rush Library[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.latereturnandpenalty.LateReturnAndPenaltyContract#0c6580ac-bc3e-4424-b14b-93e2aff75aa4[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisor[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Rush%20Library[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisee[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Paul%20Power[39m[33m"[39m[33m,[39m
+      [33m"[39m[32meventId[39m[33m"[39m[33m: [39m[33m"[39m[35mvalid[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-10-16T11:47:06.419Z[39m[33m"[39m
+    [33m}[39m
+  [33m][39m
+[33m}[39m
+6:42:48 AM - [32minfo[39m: Using current directory as template folder
+6:42:48 AM - [32minfo[39m: Loading a default text/sample.md file.
+6:42:48 AM - [32minfo[39m: Loading a default request.json file.
+6:42:48 AM - [34mdebug[39m: loadFileContents
+6:42:48 AM - [34mdebug[39m: loadFileBuffer
+6:42:48 AM - [34mdebug[39m: loadFileContents
+6:42:48 AM - [34mdebug[39m: loadFileContents
+6:42:48 AM - [34mdebug[39m: fromDirectory
+6:42:48 AM - [34mdebug[39m: loadFilesContents
+6:42:48 AM - [34mdebug[39m: loadFilesContents
+6:42:48 AM - [34mdebug[39m: loadFilesContents
+6:42:48 AM - [34mdebug[39m: loadFilesContents
+6:42:48 AM - [34mdebug[39m: loadFilesContents
+6:42:48 AM - [34mdebug[39m: loadFileContents
+6:42:48 AM - [34mdebug[39m: fromDirectory
+6:42:48 AM - [34mdebug[39m: loadFilesContents
+6:42:48 AM - [34mdebug[39m: loadFilesContents
+6:42:48 AM - [34mdebug[39m: loadFilesContents
+6:42:48 AM - [34mdebug[39m: loadFilesContents
+6:42:48 AM - [34mdebug[39m: loadFilesContents
+6:42:48 AM - [34mdebug[39m: loadFileContents
+6:42:48 AM - [34mdebug[39m: loadFileContents
+6:42:48 AM - [34mdebug[39m: loadFileContents
+6:42:48 AM - [34mdebug[39m: loadFileContents
+6:42:48 AM - [34mdebug[39m: loadFileContents
+6:42:50 AM - [34mdebug[39m: fromDirectory
+6:42:50 AM - [34mdebug[39m: loadFileContents
+6:42:50 AM - [34mdebug[39m: fromDirectory
+6:42:50 AM - [34mdebug[39m: fromDirectory
+6:42:50 AM - [34mdebug[39m: loadFilesContents
+6:42:50 AM - [34mdebug[39m: loadFilesContents
+6:42:50 AM - [34mdebug[39m: loadFilesContents
+6:42:50 AM - [34mdebug[39m: loadFilesContents
+6:42:50 AM - [34mdebug[39m: loadFilesContents
+6:42:50 AM - [34mdebug[39m: loadFileContents
+6:42:52 AM - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.latereturnandpenalty.LateReturnAndPenaltyContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"exceptionCase":true,"penaltyDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"penaltyFee":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"9fdbdd37-2a93-4acc-9455-6c89cda38652"}
+6:42:52 AM - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+6:42:52 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+6:42:52 AM - [34mdebug[39m: Engine processing request org.accordproject.latereturnandpenalty.LateReturnAndPenaltyRequest with state org.accordproject.cicero.contract.AccordContractState
+6:42:52 AM - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mlatereturnandpenalty@0.1-17de07feb82e6f07c4b0d05db9b83e53ea27be86af6c4d88354d082598301bd9[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.latereturnandpenalty.LateReturnAndPenaltyRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mexceptionCase[39m[33m"[39m[33m: [39m[31mfalse[39m[33m,[39m
+    [33m"[39m[32magreedReturn[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-09-13T23:59:59-00:00[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mreturnedOn[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-10-15T23:59:59-00:00[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mitemValue[39m[33m"[39m[33m: [39m[36m42.99[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.latereturnandpenalty.LateReturnAndPenaltyResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpenalty[39m[33m"[39m[33m: [39m[36m8[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35m6595de07-aaee-4bc9-beb0-fb9d48f1c729[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-10-19T05:42:52.024Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m
+    [33m{[39m
+      [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.runtime.PaymentObligation[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[33m{[39m
+        [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+        [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m8[39m[33m,[39m
+        [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+      [33m}[39m[33m,[39m
+      [33m"[39m[32mdescription[39m[33m"[39m[33m: [39m[33m"[39m[35mPaul Power should pay penalty amount to Rush Library[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.latereturnandpenalty.LateReturnAndPenaltyContract#9fdbdd37-2a93-4acc-9455-6c89cda38652[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisor[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Rush%20Library[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisee[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Paul%20Power[39m[33m"[39m[33m,[39m
+      [33m"[39m[32meventId[39m[33m"[39m[33m: [39m[33m"[39m[35mvalid[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-10-19T05:42:52.025Z[39m[33m"[39m
+    [33m}[39m
+  [33m][39m
+[33m}[39m
+6:46:13 AM - [32minfo[39m: Using current directory as template folder
+6:46:13 AM - [34mdebug[39m: loadFileContents
+6:46:13 AM - [34mdebug[39m: loadFileBuffer
+6:46:13 AM - [34mdebug[39m: loadFileContents
+6:46:13 AM - [34mdebug[39m: loadFileContents
+6:46:13 AM - [34mdebug[39m: fromDirectory
+6:46:13 AM - [34mdebug[39m: loadFilesContents
+6:46:13 AM - [34mdebug[39m: loadFilesContents
+6:46:13 AM - [34mdebug[39m: loadFilesContents
+6:46:13 AM - [34mdebug[39m: loadFilesContents
+6:46:13 AM - [34mdebug[39m: loadFilesContents
+6:46:13 AM - [34mdebug[39m: loadFileContents
+6:46:13 AM - [34mdebug[39m: fromDirectory
+6:46:13 AM - [34mdebug[39m: loadFilesContents
+6:46:13 AM - [34mdebug[39m: loadFilesContents
+6:46:13 AM - [34mdebug[39m: loadFilesContents
+6:46:13 AM - [34mdebug[39m: loadFilesContents
+6:46:13 AM - [34mdebug[39m: loadFilesContents
+6:46:13 AM - [34mdebug[39m: loadFileContents
+6:46:13 AM - [34mdebug[39m: loadFileContents
+6:46:13 AM - [34mdebug[39m: loadFileContents
+6:46:13 AM - [34mdebug[39m: loadFileContents
+6:46:13 AM - [34mdebug[39m: loadFileContents
+6:46:15 AM - [34mdebug[39m: fromDirectory
+6:46:15 AM - [34mdebug[39m: loadFileContents
+6:46:15 AM - [34mdebug[39m: fromDirectory
+6:46:15 AM - [34mdebug[39m: fromDirectory
+6:46:15 AM - [34mdebug[39m: loadFilesContents
+6:46:15 AM - [34mdebug[39m: loadFilesContents
+6:46:15 AM - [34mdebug[39m: loadFilesContents
+6:46:15 AM - [34mdebug[39m: loadFilesContents
+6:46:15 AM - [34mdebug[39m: loadFilesContents
+6:46:15 AM - [34mdebug[39m: loadFileContents
+6:46:16 AM - [32minfo[39m: Creating archive: test.cta
+12:07:36 PM - [32minfo[39m: Using current directory as template folder
+12:07:36 PM - [34mdebug[39m: loadFileContents
+12:07:36 PM - [34mdebug[39m: loadFileBuffer
+12:07:36 PM - [34mdebug[39m: loadFileContents
+12:07:36 PM - [34mdebug[39m: loadFileContents
+12:07:36 PM - [34mdebug[39m: fromDirectory
+12:07:36 PM - [34mdebug[39m: loadFilesContents
+12:07:36 PM - [34mdebug[39m: loadFilesContents
+12:07:36 PM - [34mdebug[39m: loadFilesContents
+12:07:36 PM - [34mdebug[39m: loadFilesContents
+12:07:36 PM - [34mdebug[39m: loadFilesContents
+12:07:36 PM - [34mdebug[39m: loadFileContents
+12:07:36 PM - [34mdebug[39m: fromDirectory
+12:07:36 PM - [34mdebug[39m: loadFilesContents
+12:07:36 PM - [34mdebug[39m: loadFilesContents
+12:07:36 PM - [34mdebug[39m: loadFilesContents
+12:07:36 PM - [34mdebug[39m: loadFilesContents
+12:07:36 PM - [34mdebug[39m: loadFilesContents
+12:07:36 PM - [34mdebug[39m: loadFileContents
+12:07:36 PM - [34mdebug[39m: loadFileContents
+12:07:36 PM - [34mdebug[39m: loadFileContents
+12:07:36 PM - [34mdebug[39m: loadFileContents
+12:07:36 PM - [34mdebug[39m: loadFileContents
+12:07:37 PM - [34mdebug[39m: fromDirectory
+12:07:38 PM - [34mdebug[39m: loadFileContents
+12:07:38 PM - [34mdebug[39m: fromDirectory
+12:07:38 PM - [34mdebug[39m: fromDirectory
+12:07:38 PM - [34mdebug[39m: loadFilesContents
+12:07:38 PM - [34mdebug[39m: loadFilesContents
+12:07:38 PM - [34mdebug[39m: loadFilesContents
+12:07:38 PM - [34mdebug[39m: loadFilesContents
+12:07:38 PM - [34mdebug[39m: loadFilesContents
+12:07:38 PM - [34mdebug[39m: loadFileContents
+12:07:38 PM - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.latereturnandpenalty.LateReturnAndPenaltyContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"exceptionCase":true,"penaltyDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"penaltyFee":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"9a4a4bde-ea2b-48ec-bc6e-9eaf4d2bd8ba"}
+12:07:38 PM - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.latereturnandpenalty.LateReturnAndPenaltyContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mborrower[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mPaul Power[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mlender[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mRush Library[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mexceptionCase[39m[33m"[39m[33m: [39m[31mtrue[39m[33m,[39m
+  [33m"[39m[32mpenaltyDuration[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.time.Duration[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[36m1[39m[33m,[39m
+    [33m"[39m[32munit[39m[33m"[39m[33m: [39m[33m"[39m[35mdays[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mpenaltyFee[39m[33m"[39m[33m: [39m[36m0.25[39m[33m,[39m
+  [33m"[39m[32mcapPercentage[39m[33m"[39m[33m: [39m[36m50[39m[33m,[39m
+  [33m"[39m[32mfractionalPart[39m[33m"[39m[33m: [39m[33m"[39m[35mdays[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mcontractId[39m[33m"[39m[33m: [39m[33m"[39m[35m9a4a4bde-ea2b-48ec-bc6e-9eaf4d2bd8ba[39m[33m"[39m
+[33m}[39m
+12:07:48 PM - [32minfo[39m: Using current directory as template folder
+12:07:48 PM - [32minfo[39m: Loading a default text/sample.md file.
+12:07:48 PM - [32minfo[39m: Loading a default request.json file.
+12:07:48 PM - [34mdebug[39m: loadFileContents
+12:07:48 PM - [34mdebug[39m: loadFileBuffer
+12:07:48 PM - [34mdebug[39m: loadFileContents
+12:07:48 PM - [34mdebug[39m: loadFileContents
+12:07:48 PM - [34mdebug[39m: fromDirectory
+12:07:48 PM - [34mdebug[39m: loadFilesContents
+12:07:48 PM - [34mdebug[39m: loadFilesContents
+12:07:48 PM - [34mdebug[39m: loadFilesContents
+12:07:48 PM - [34mdebug[39m: loadFilesContents
+12:07:48 PM - [34mdebug[39m: loadFilesContents
+12:07:48 PM - [34mdebug[39m: loadFileContents
+12:07:48 PM - [34mdebug[39m: fromDirectory
+12:07:48 PM - [34mdebug[39m: loadFilesContents
+12:07:48 PM - [34mdebug[39m: loadFilesContents
+12:07:48 PM - [34mdebug[39m: loadFilesContents
+12:07:48 PM - [34mdebug[39m: loadFilesContents
+12:07:48 PM - [34mdebug[39m: loadFilesContents
+12:07:48 PM - [34mdebug[39m: loadFileContents
+12:07:48 PM - [34mdebug[39m: loadFileContents
+12:07:48 PM - [34mdebug[39m: loadFileContents
+12:07:48 PM - [34mdebug[39m: loadFileContents
+12:07:48 PM - [34mdebug[39m: loadFileContents
+12:07:49 PM - [34mdebug[39m: fromDirectory
+12:07:49 PM - [34mdebug[39m: loadFileContents
+12:07:49 PM - [34mdebug[39m: fromDirectory
+12:07:49 PM - [34mdebug[39m: fromDirectory
+12:07:49 PM - [34mdebug[39m: loadFilesContents
+12:07:49 PM - [34mdebug[39m: loadFilesContents
+12:07:49 PM - [34mdebug[39m: loadFilesContents
+12:07:49 PM - [34mdebug[39m: loadFilesContents
+12:07:49 PM - [34mdebug[39m: loadFilesContents
+12:07:49 PM - [34mdebug[39m: loadFileContents
+12:07:50 PM - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.latereturnandpenalty.LateReturnAndPenaltyContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"exceptionCase":true,"penaltyDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"penaltyFee":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"a2306dcf-67c3-4e99-aec3-b899b9063466"}
+12:07:50 PM - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+12:07:50 PM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+12:07:50 PM - [34mdebug[39m: Engine processing request org.accordproject.latereturnandpenalty.LateReturnAndPenaltyRequest with state org.accordproject.cicero.contract.AccordContractState
+12:07:50 PM - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mlatereturnandpenalty@0.1-dcc52019dd1cfae43308b2c0d7f1e536c8281fc0fdbce0d0d1e6c2ad8a4db468[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.latereturnandpenalty.LateReturnAndPenaltyRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mexceptionCase[39m[33m"[39m[33m: [39m[31mfalse[39m[33m,[39m
+    [33m"[39m[32magreedReturn[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-09-13T23:59:59-00:00[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mreturnedOn[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-10-15T23:59:59-00:00[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mitemValue[39m[33m"[39m[33m: [39m[36m42.99[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.latereturnandpenalty.LateReturnAndPenaltyResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpenalty[39m[33m"[39m[33m: [39m[36m8[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35m2061bfc7-f362-4b13-a451-df7d9ca69fb9[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-10-20T11:07:50.107Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m
+    [33m{[39m
+      [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.runtime.PaymentObligation[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[33m{[39m
+        [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+        [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m8[39m[33m,[39m
+        [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+      [33m}[39m[33m,[39m
+      [33m"[39m[32mdescription[39m[33m"[39m[33m: [39m[33m"[39m[35mPaul Power should pay penalty amount to Rush Library[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.latereturnandpenalty.LateReturnAndPenaltyContract#a2306dcf-67c3-4e99-aec3-b899b9063466[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisor[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Rush%20Library[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisee[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Paul%20Power[39m[33m"[39m[33m,[39m
+      [33m"[39m[32meventId[39m[33m"[39m[33m: [39m[33m"[39m[35mvalid[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-10-20T11:07:50.108Z[39m[33m"[39m
+    [33m}[39m
+  [33m][39m
+[33m}[39m
+12:11:17 PM - [32minfo[39m: Using current directory as template folder
+12:11:17 PM - [34mdebug[39m: loadFileContents
+12:11:17 PM - [34mdebug[39m: loadFileBuffer
+12:11:17 PM - [34mdebug[39m: loadFileContents
+12:11:17 PM - [34mdebug[39m: loadFileContents
+12:11:17 PM - [34mdebug[39m: fromDirectory
+12:11:17 PM - [34mdebug[39m: loadFilesContents
+12:11:17 PM - [34mdebug[39m: loadFilesContents
+12:11:17 PM - [34mdebug[39m: loadFilesContents
+12:11:17 PM - [34mdebug[39m: loadFilesContents
+12:11:17 PM - [34mdebug[39m: loadFilesContents
+12:11:17 PM - [34mdebug[39m: loadFilesContents
+12:11:17 PM - [34mdebug[39m: loadFilesContents
+12:11:17 PM - [34mdebug[39m: loadFilesContents
+12:11:17 PM - [34mdebug[39m: loadFilesContents
+12:11:17 PM - [34mdebug[39m: loadFilesContents
+12:11:17 PM - [34mdebug[39m: loadFileContents
+12:11:17 PM - [34mdebug[39m: loadFileContents
+12:11:17 PM - [34mdebug[39m: loadFileContents
+12:11:17 PM - [34mdebug[39m: loadFileContents
+12:11:17 PM - [34mdebug[39m: loadFileContents
+12:11:19 PM - [34mdebug[39m: fromDirectory
+12:11:19 PM - [34mdebug[39m: loadFileContents
+12:11:19 PM - [34mdebug[39m: fromDirectory
+12:11:19 PM - [34mdebug[39m: fromDirectory
+12:11:19 PM - [34mdebug[39m: loadFilesContents
+12:11:19 PM - [34mdebug[39m: loadFilesContents
+12:11:19 PM - [34mdebug[39m: loadFilesContents
+12:11:19 PM - [34mdebug[39m: loadFilesContents
+12:11:19 PM - [34mdebug[39m: loadFilesContents
+12:11:19 PM - [34mdebug[39m: loadFileContents
+12:11:20 PM - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.latereturnandpenalty.LateReturnAndPenaltyContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"exceptionCase":true,"penaltyDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"penaltyFee":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"7dfa1eba-cada-4dc0-9981-c1290289172b"}
+12:11:20 PM - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.latereturnandpenalty.LateReturnAndPenaltyContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mborrower[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mPaul Power[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mlender[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mRush Library[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mexceptionCase[39m[33m"[39m[33m: [39m[31mtrue[39m[33m,[39m
+  [33m"[39m[32mpenaltyDuration[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.time.Duration[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[36m1[39m[33m,[39m
+    [33m"[39m[32munit[39m[33m"[39m[33m: [39m[33m"[39m[35mdays[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mpenaltyFee[39m[33m"[39m[33m: [39m[36m0.25[39m[33m,[39m
+  [33m"[39m[32mcapPercentage[39m[33m"[39m[33m: [39m[36m50[39m[33m,[39m
+  [33m"[39m[32mfractionalPart[39m[33m"[39m[33m: [39m[33m"[39m[35mdays[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mcontractId[39m[33m"[39m[33m: [39m[33m"[39m[35m7dfa1eba-cada-4dc0-9981-c1290289172b[39m[33m"[39m
+[33m}[39m
+6:33:03 PM - [32minfo[39m: Using current directory as template folder
+6:33:03 PM - [31merror[39m: A text/sample.md file is required. Try the --sample flag or create a text/sample.md in your template.
+6:33:33 PM - [32minfo[39m: Using current directory as template folder
+6:33:33 PM - [34mdebug[39m: loadFileContents
+6:33:33 PM - [34mdebug[39m: loadFileBuffer
+6:33:33 PM - [34mdebug[39m: loadFileContents
+6:33:33 PM - [34mdebug[39m: loadFileContents
+6:33:33 PM - [34mdebug[39m: fromDirectory
+6:33:33 PM - [34mdebug[39m: loadFilesContents
+6:33:33 PM - [34mdebug[39m: loadFilesContents
+6:33:33 PM - [34mdebug[39m: loadFilesContents
+6:33:33 PM - [34mdebug[39m: loadFilesContents
+6:33:33 PM - [34mdebug[39m: loadFilesContents
+6:33:33 PM - [34mdebug[39m: loadFilesContents
+6:33:33 PM - [34mdebug[39m: loadFilesContents
+6:33:33 PM - [34mdebug[39m: loadFilesContents
+6:33:33 PM - [34mdebug[39m: loadFilesContents
+6:33:33 PM - [34mdebug[39m: loadFilesContents
+6:33:33 PM - [34mdebug[39m: loadFileContents
+6:33:33 PM - [34mdebug[39m: loadFileContents
+6:33:33 PM - [34mdebug[39m: loadFileContents
+6:33:33 PM - [34mdebug[39m: loadFileContents
+6:33:33 PM - [34mdebug[39m: loadFileContents
+6:33:35 PM - [34mdebug[39m: fromDirectory
+6:33:35 PM - [34mdebug[39m: loadFileContents
+6:33:35 PM - [34mdebug[39m: fromDirectory
+6:33:35 PM - [34mdebug[39m: fromDirectory
+6:33:35 PM - [34mdebug[39m: loadFilesContents
+6:33:35 PM - [34mdebug[39m: loadFilesContents
+6:33:35 PM - [34mdebug[39m: loadFilesContents
+6:33:35 PM - [34mdebug[39m: loadFilesContents
+6:33:35 PM - [34mdebug[39m: loadFilesContents
+6:33:35 PM - [34mdebug[39m: loadFileContents
+6:33:36 PM - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.latereturnandpenalty.LateReturnAndPenaltyContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"exceptionCase":true,"penaltyDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"penaltyFee":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"24a07d80-47fa-4c50-804c-da34e3587e91"}
+6:33:36 PM - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.latereturnandpenalty.LateReturnAndPenaltyContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mborrower[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mPaul Power[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mlender[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mRush Library[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mexceptionCase[39m[33m"[39m[33m: [39m[31mtrue[39m[33m,[39m
+  [33m"[39m[32mpenaltyDuration[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.time.Duration[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[36m1[39m[33m,[39m
+    [33m"[39m[32munit[39m[33m"[39m[33m: [39m[33m"[39m[35mdays[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mpenaltyFee[39m[33m"[39m[33m: [39m[36m0.25[39m[33m,[39m
+  [33m"[39m[32mcapPercentage[39m[33m"[39m[33m: [39m[36m50[39m[33m,[39m
+  [33m"[39m[32mfractionalPart[39m[33m"[39m[33m: [39m[33m"[39m[35mdays[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mcontractId[39m[33m"[39m[33m: [39m[33m"[39m[35m24a07d80-47fa-4c50-804c-da34e3587e91[39m[33m"[39m
+[33m}[39m
+6:34:04 PM - [32minfo[39m: Using current directory as template folder
+6:34:04 PM - [32minfo[39m: Loading a default text/sample.md file.
+6:34:04 PM - [31merror[39m: A text/sample.md file is required. Try the --sample flag or create a text/sample.md in your template.
+6:34:48 PM - [32minfo[39m: Using current directory as template folder
+6:34:48 PM - [32minfo[39m: Loading a default text/sample.md file.
+6:34:48 PM - [32minfo[39m: Loading a default request.json file.
+6:34:48 PM - [34mdebug[39m: loadFileContents
+6:34:48 PM - [34mdebug[39m: loadFileBuffer
+6:34:48 PM - [34mdebug[39m: loadFileContents
+6:34:48 PM - [34mdebug[39m: loadFileContents
+6:34:48 PM - [34mdebug[39m: fromDirectory
+6:34:48 PM - [34mdebug[39m: loadFilesContents
+6:34:48 PM - [34mdebug[39m: loadFilesContents
+6:34:48 PM - [34mdebug[39m: loadFilesContents
+6:34:48 PM - [34mdebug[39m: loadFilesContents
+6:34:48 PM - [34mdebug[39m: loadFilesContents
+6:34:48 PM - [34mdebug[39m: loadFilesContents
+6:34:48 PM - [34mdebug[39m: loadFileContents
+6:34:48 PM - [34mdebug[39m: fromDirectory
+6:34:48 PM - [34mdebug[39m: loadFilesContents
+6:34:48 PM - [34mdebug[39m: loadFilesContents
+6:34:48 PM - [34mdebug[39m: loadFilesContents
+6:34:48 PM - [34mdebug[39m: loadFilesContents
+6:34:48 PM - [34mdebug[39m: loadFilesContents
+6:34:48 PM - [34mdebug[39m: loadFileContents
+6:34:48 PM - [34mdebug[39m: loadFileContents
+6:34:48 PM - [34mdebug[39m: loadFileContents
+6:34:48 PM - [34mdebug[39m: loadFileContents
+6:34:48 PM - [34mdebug[39m: loadFileContents
+6:34:48 PM - [34mdebug[39m: loadFilesContents
+6:34:50 PM - [34mdebug[39m: fromDirectory
+6:34:50 PM - [34mdebug[39m: loadFileContents
+6:34:50 PM - [34mdebug[39m: fromDirectory
+6:34:50 PM - [34mdebug[39m: fromDirectory
+6:34:50 PM - [34mdebug[39m: loadFilesContents
+6:34:50 PM - [34mdebug[39m: loadFilesContents
+6:34:50 PM - [34mdebug[39m: loadFilesContents
+6:34:50 PM - [34mdebug[39m: loadFilesContents
+6:34:50 PM - [34mdebug[39m: loadFilesContents
+6:34:50 PM - [34mdebug[39m: loadFileContents
+6:34:50 PM - [34mdebug[39m: loadFilesContents
+6:34:51 PM - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.latereturnandpenalty.LateReturnAndPenaltyContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"exceptionCase":true,"penaltyDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"penaltyFee":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"ac09501a-3c4f-48cb-a82d-c62cc454f32e"}
+6:34:51 PM - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+6:34:51 PM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+6:34:51 PM - [34mdebug[39m: Engine processing request org.accordproject.latereturnandpenalty.LateReturnAndPenaltyRequest with state org.accordproject.cicero.contract.AccordContractState
+6:34:51 PM - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mlatereturnandpenalty@0.61.5-89dadf63e254873a5418a967bc695f3df1d79dc8c9f4a60bff86657c80254bcc[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.latereturnandpenalty.LateReturnAndPenaltyRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mexceptionCase[39m[33m"[39m[33m: [39m[31mfalse[39m[33m,[39m
+    [33m"[39m[32magreedReturn[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-09-13T23:59:59-00:00[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mreturnedOn[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-10-15T23:59:59-00:00[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mitemValue[39m[33m"[39m[33m: [39m[36m42.99[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.latereturnandpenalty.LateReturnAndPenaltyResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpenalty[39m[33m"[39m[33m: [39m[36m8[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35meb739eb8-082f-4646-b759-45029d5d5403[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-10-20T17:34:51.294Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m
+    [33m{[39m
+      [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.runtime.PaymentObligation[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[33m{[39m
+        [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+        [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m8[39m[33m,[39m
+        [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+      [33m}[39m[33m,[39m
+      [33m"[39m[32mdescription[39m[33m"[39m[33m: [39m[33m"[39m[35mPaul Power should pay penalty amount to Rush Library[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.latereturnandpenalty.LateReturnAndPenaltyContract#ac09501a-3c4f-48cb-a82d-c62cc454f32e[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisor[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Rush%20Library[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisee[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Paul%20Power[39m[33m"[39m[33m,[39m
+      [33m"[39m[32meventId[39m[33m"[39m[33m: [39m[33m"[39m[35mvalid[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-10-20T17:34:51.295Z[39m[33m"[39m
+    [33m}[39m
+  [33m][39m
+[33m}[39m
+2:02:09 PM - [32minfo[39m: Using current directory as template folder
+2:02:09 PM - [32minfo[39m: Loading a default text/sample.md file.
+2:02:09 PM - [34mdebug[39m: loadFileContents
+2:02:09 PM - [34mdebug[39m: loadFileBuffer
+2:02:09 PM - [34mdebug[39m: loadFileContents
+2:02:09 PM - [34mdebug[39m: loadFileContents
+2:02:09 PM - [34mdebug[39m: fromDirectory
+2:02:09 PM - [34mdebug[39m: loadFilesContents
+2:02:09 PM - [34mdebug[39m: loadFilesContents
+2:02:09 PM - [34mdebug[39m: loadFilesContents
+2:02:09 PM - [34mdebug[39m: loadFilesContents
+2:02:09 PM - [34mdebug[39m: loadFilesContents
+2:02:09 PM - [34mdebug[39m: loadFilesContents
+2:02:09 PM - [34mdebug[39m: loadFilesContents
+2:02:09 PM - [34mdebug[39m: loadFileContents
+2:02:09 PM - [34mdebug[39m: fromDirectory
+2:02:09 PM - [34mdebug[39m: loadFilesContents
+2:02:09 PM - [34mdebug[39m: loadFilesContents
+2:02:09 PM - [34mdebug[39m: loadFilesContents
+2:02:09 PM - [34mdebug[39m: loadFilesContents
+2:02:09 PM - [34mdebug[39m: loadFilesContents
+2:02:09 PM - [34mdebug[39m: loadFilesContents
+2:02:09 PM - [34mdebug[39m: loadFileContents
+2:02:09 PM - [34mdebug[39m: loadFileContents
+2:02:09 PM - [34mdebug[39m: loadFileContents
+2:02:09 PM - [34mdebug[39m: loadFileContents
+2:02:09 PM - [34mdebug[39m: loadFileContents
+2:02:09 PM - [34mdebug[39m: loadFilesContents
+2:02:10 PM - [34mdebug[39m: fromDirectory
+2:02:10 PM - [34mdebug[39m: loadFileContents
+2:02:10 PM - [34mdebug[39m: fromDirectory
+2:02:10 PM - [34mdebug[39m: fromDirectory
+2:02:10 PM - [34mdebug[39m: loadFilesContents
+2:02:10 PM - [34mdebug[39m: loadFilesContents
+2:02:10 PM - [34mdebug[39m: loadFilesContents
+2:02:10 PM - [34mdebug[39m: loadFilesContents
+2:02:10 PM - [34mdebug[39m: loadFilesContents
+2:02:10 PM - [34mdebug[39m: loadFilesContents
+2:02:10 PM - [34mdebug[39m: loadFileContents
+2:02:10 PM - [34mdebug[39m: loadFilesContents
+2:02:11 PM - [34mdebug[39m: Setting clause data: {"$class":"org.dublincoco.libraries.contracts.latereturns.LateReturnsContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"exceptionCase":true,"penaltyDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"penaltyFee":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"f5a7bb5b-b2c5-40a0-895e-161c54454af6"}
+2:02:11 PM - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mborrower[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mPaul Power[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mlender[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mRush Library[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mexceptionCase[39m[33m"[39m[33m: [39m[31mtrue[39m[33m,[39m
+  [33m"[39m[32mpenaltyDuration[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.time.Duration[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[36m1[39m[33m,[39m
+    [33m"[39m[32munit[39m[33m"[39m[33m: [39m[33m"[39m[35mdays[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mpenaltyFee[39m[33m"[39m[33m: [39m[36m0.25[39m[33m,[39m
+  [33m"[39m[32mcapPercentage[39m[33m"[39m[33m: [39m[36m50[39m[33m,[39m
+  [33m"[39m[32mfractionalPart[39m[33m"[39m[33m: [39m[33m"[39m[35mdays[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mcontractId[39m[33m"[39m[33m: [39m[33m"[39m[35mf5a7bb5b-b2c5-40a0-895e-161c54454af6[39m[33m"[39m
+[33m}[39m
+2:02:17 PM - [32minfo[39m: Using current directory as template folder
+2:02:17 PM - [32minfo[39m: Loading a default text/sample.md file.
+2:02:17 PM - [32minfo[39m: Loading a default request.json file.
+2:02:17 PM - [34mdebug[39m: loadFileContents
+2:02:17 PM - [34mdebug[39m: loadFileBuffer
+2:02:17 PM - [34mdebug[39m: loadFileContents
+2:02:17 PM - [34mdebug[39m: loadFileContents
+2:02:17 PM - [34mdebug[39m: fromDirectory
+2:02:17 PM - [34mdebug[39m: loadFilesContents
+2:02:17 PM - [34mdebug[39m: loadFilesContents
+2:02:17 PM - [34mdebug[39m: loadFilesContents
+2:02:17 PM - [34mdebug[39m: loadFilesContents
+2:02:17 PM - [34mdebug[39m: loadFilesContents
+2:02:17 PM - [34mdebug[39m: loadFilesContents
+2:02:17 PM - [34mdebug[39m: loadFilesContents
+2:02:17 PM - [34mdebug[39m: loadFileContents
+2:02:17 PM - [34mdebug[39m: fromDirectory
+2:02:17 PM - [34mdebug[39m: loadFilesContents
+2:02:17 PM - [34mdebug[39m: loadFilesContents
+2:02:17 PM - [34mdebug[39m: loadFilesContents
+2:02:17 PM - [34mdebug[39m: loadFilesContents
+2:02:17 PM - [34mdebug[39m: loadFilesContents
+2:02:17 PM - [34mdebug[39m: loadFilesContents
+2:02:17 PM - [34mdebug[39m: loadFileContents
+2:02:17 PM - [34mdebug[39m: loadFileContents
+2:02:17 PM - [34mdebug[39m: loadFileContents
+2:02:17 PM - [34mdebug[39m: loadFileContents
+2:02:17 PM - [34mdebug[39m: loadFileContents
+2:02:17 PM - [34mdebug[39m: loadFilesContents
+2:02:18 PM - [34mdebug[39m: fromDirectory
+2:02:18 PM - [34mdebug[39m: loadFileContents
+2:02:18 PM - [34mdebug[39m: fromDirectory
+2:02:18 PM - [34mdebug[39m: fromDirectory
+2:02:18 PM - [34mdebug[39m: loadFilesContents
+2:02:18 PM - [34mdebug[39m: loadFilesContents
+2:02:18 PM - [34mdebug[39m: loadFilesContents
+2:02:18 PM - [34mdebug[39m: loadFilesContents
+2:02:18 PM - [34mdebug[39m: loadFilesContents
+2:02:18 PM - [34mdebug[39m: loadFilesContents
+2:02:18 PM - [34mdebug[39m: loadFileContents
+2:02:18 PM - [34mdebug[39m: loadFilesContents
+2:02:19 PM - [34mdebug[39m: Setting clause data: {"$class":"org.dublincoco.libraries.contracts.latereturns.LateReturnsContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"exceptionCase":true,"penaltyDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"penaltyFee":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"d0484486-d9ae-4942-91c4-3744fe392ed6"}
+2:02:19 PM - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+2:02:19 PM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+2:02:19 PM - [31merror[39m: Namespace is not defined for type org.accordproject.latereturnandpenalty.LateReturnAndPenaltyRequest
+2:02:45 PM - [32minfo[39m: Using current directory as template folder
+2:02:45 PM - [32minfo[39m: Loading a default text/sample.md file.
+2:02:45 PM - [32minfo[39m: Loading a default request.json file.
+2:02:45 PM - [34mdebug[39m: loadFileContents
+2:02:45 PM - [34mdebug[39m: loadFileBuffer
+2:02:45 PM - [34mdebug[39m: loadFileContents
+2:02:45 PM - [34mdebug[39m: loadFileContents
+2:02:45 PM - [34mdebug[39m: fromDirectory
+2:02:45 PM - [34mdebug[39m: loadFilesContents
+2:02:45 PM - [34mdebug[39m: loadFilesContents
+2:02:45 PM - [34mdebug[39m: loadFilesContents
+2:02:45 PM - [34mdebug[39m: loadFilesContents
+2:02:45 PM - [34mdebug[39m: loadFilesContents
+2:02:45 PM - [34mdebug[39m: loadFilesContents
+2:02:45 PM - [34mdebug[39m: loadFilesContents
+2:02:45 PM - [34mdebug[39m: loadFileContents
+2:02:45 PM - [34mdebug[39m: fromDirectory
+2:02:45 PM - [34mdebug[39m: loadFilesContents
+2:02:45 PM - [34mdebug[39m: loadFilesContents
+2:02:45 PM - [34mdebug[39m: loadFilesContents
+2:02:45 PM - [34mdebug[39m: loadFilesContents
+2:02:45 PM - [34mdebug[39m: loadFilesContents
+2:02:45 PM - [34mdebug[39m: loadFilesContents
+2:02:45 PM - [34mdebug[39m: loadFileContents
+2:02:45 PM - [34mdebug[39m: loadFileContents
+2:02:45 PM - [34mdebug[39m: loadFileContents
+2:02:45 PM - [34mdebug[39m: loadFileContents
+2:02:45 PM - [34mdebug[39m: loadFileContents
+2:02:45 PM - [34mdebug[39m: loadFilesContents
+2:02:46 PM - [34mdebug[39m: fromDirectory
+2:02:46 PM - [34mdebug[39m: loadFileContents
+2:02:46 PM - [34mdebug[39m: fromDirectory
+2:02:46 PM - [34mdebug[39m: fromDirectory
+2:02:46 PM - [34mdebug[39m: loadFilesContents
+2:02:46 PM - [34mdebug[39m: loadFilesContents
+2:02:46 PM - [34mdebug[39m: loadFilesContents
+2:02:46 PM - [34mdebug[39m: loadFilesContents
+2:02:46 PM - [34mdebug[39m: loadFilesContents
+2:02:46 PM - [34mdebug[39m: loadFilesContents
+2:02:46 PM - [34mdebug[39m: loadFileContents
+2:02:46 PM - [34mdebug[39m: loadFilesContents
+2:02:47 PM - [34mdebug[39m: Setting clause data: {"$class":"org.dublincoco.libraries.contracts.latereturns.LateReturnsContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"exceptionCase":true,"penaltyDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"penaltyFee":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"6e20a943-0795-4cf6-8e8f-b337b21eaa0d"}
+2:02:47 PM - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+2:02:47 PM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+2:02:47 PM - [34mdebug[39m: Engine processing request org.dublincoco.libraries.contracts.latereturns.LateReturnsContractRequest with state org.accordproject.cicero.contract.AccordContractState
+2:02:47 PM - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mlatereturnandpenalty@1.0-3ab76af36827c5124535e80210de9d09c70a7ff473673aa55bf16ee9653b0c5d[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContractRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mexceptionCase[39m[33m"[39m[33m: [39m[31mfalse[39m[33m,[39m
+    [33m"[39m[32magreedReturn[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-09-13T23:59:59-00:00[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mreturnedOn[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-10-15T23:59:59-00:00[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mitemValue[39m[33m"[39m[33m: [39m[36m42.99[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContractResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpenalty[39m[33m"[39m[33m: [39m[36m8[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35m2e05ed82-7d5e-44b0-871d-b80b842bec32[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-10-22T13:02:47.638Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m
+    [33m{[39m
+      [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.runtime.PaymentObligation[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[33m{[39m
+        [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+        [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m8[39m[33m,[39m
+        [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+      [33m}[39m[33m,[39m
+      [33m"[39m[32mdescription[39m[33m"[39m[33m: [39m[33m"[39m[35mPaul Power should pay penalty amount to Rush Library[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.dublincoco.libraries.contracts.latereturns.LateReturnsContract#6e20a943-0795-4cf6-8e8f-b337b21eaa0d[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisor[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Rush%20Library[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisee[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Paul%20Power[39m[33m"[39m[33m,[39m
+      [33m"[39m[32meventId[39m[33m"[39m[33m: [39m[33m"[39m[35mvalid[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-10-22T13:02:47.639Z[39m[33m"[39m
+    [33m}[39m
+  [33m][39m
+[33m}[39m
+2:42:55 PM - [32minfo[39m: Using current directory as template folder
+2:42:55 PM - [32minfo[39m: Loading a default text/sample.md file.
+2:42:55 PM - [34mdebug[39m: loadFileContents
+2:42:55 PM - [34mdebug[39m: loadFileBuffer
+2:42:55 PM - [34mdebug[39m: loadFileContents
+2:42:55 PM - [34mdebug[39m: loadFileContents
+2:42:55 PM - [34mdebug[39m: fromDirectory
+2:42:55 PM - [34mdebug[39m: loadFilesContents
+2:42:55 PM - [34mdebug[39m: loadFilesContents
+2:42:55 PM - [34mdebug[39m: loadFilesContents
+2:42:55 PM - [34mdebug[39m: loadFilesContents
+2:42:55 PM - [34mdebug[39m: loadFilesContents
+2:42:55 PM - [34mdebug[39m: loadFilesContents
+2:42:55 PM - [34mdebug[39m: loadFilesContents
+2:42:55 PM - [34mdebug[39m: loadFileContents
+2:42:55 PM - [34mdebug[39m: fromDirectory
+2:42:55 PM - [34mdebug[39m: loadFilesContents
+2:42:55 PM - [34mdebug[39m: loadFilesContents
+2:42:55 PM - [34mdebug[39m: loadFilesContents
+2:42:55 PM - [34mdebug[39m: loadFilesContents
+2:42:55 PM - [34mdebug[39m: loadFilesContents
+2:42:55 PM - [34mdebug[39m: loadFilesContents
+2:42:55 PM - [34mdebug[39m: loadFileContents
+2:42:55 PM - [34mdebug[39m: loadFileContents
+2:42:55 PM - [34mdebug[39m: loadFileContents
+2:42:55 PM - [34mdebug[39m: loadFileContents
+2:42:55 PM - [34mdebug[39m: loadFileContents
+2:42:55 PM - [34mdebug[39m: loadFilesContents
+2:42:56 PM - [34mdebug[39m: fromDirectory
+2:42:56 PM - [34mdebug[39m: loadFileContents
+2:42:56 PM - [34mdebug[39m: fromDirectory
+2:42:56 PM - [34mdebug[39m: fromDirectory
+2:42:56 PM - [34mdebug[39m: loadFilesContents
+2:42:56 PM - [34mdebug[39m: loadFilesContents
+2:42:56 PM - [34mdebug[39m: loadFilesContents
+2:42:56 PM - [34mdebug[39m: loadFilesContents
+2:42:56 PM - [34mdebug[39m: loadFilesContents
+2:42:56 PM - [34mdebug[39m: loadFilesContents
+2:42:56 PM - [34mdebug[39m: loadFileContents
+2:42:56 PM - [34mdebug[39m: loadFilesContents
+2:42:57 PM - [34mdebug[39m: Setting clause data: {"$class":"org.dublincoco.libraries.contracts.latereturns.LateReturnsContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineFee":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"24e43b96-6ab2-4328-a0d3-900608ee83ed"}
+2:42:57 PM - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mborrower[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mPaul Power[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mlender[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mRush Library[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mexceptionCase[39m[33m"[39m[33m: [39m[31mtrue[39m[33m,[39m
+  [33m"[39m[32mfineDuration[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.time.Duration[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[36m1[39m[33m,[39m
+    [33m"[39m[32munit[39m[33m"[39m[33m: [39m[33m"[39m[35mdays[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mfineFee[39m[33m"[39m[33m: [39m[36m0.25[39m[33m,[39m
+  [33m"[39m[32mcapPercentage[39m[33m"[39m[33m: [39m[36m50[39m[33m,[39m
+  [33m"[39m[32mfractionalPart[39m[33m"[39m[33m: [39m[33m"[39m[35mdays[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mcontractId[39m[33m"[39m[33m: [39m[33m"[39m[35m24e43b96-6ab2-4328-a0d3-900608ee83ed[39m[33m"[39m
+[33m}[39m
+2:44:28 PM - [32minfo[39m: Using current directory as template folder
+2:44:28 PM - [32minfo[39m: Loading a default text/sample.md file.
+2:44:28 PM - [34mdebug[39m: loadFileContents
+2:44:28 PM - [34mdebug[39m: loadFileBuffer
+2:44:28 PM - [34mdebug[39m: loadFileContents
+2:44:28 PM - [34mdebug[39m: loadFileContents
+2:44:28 PM - [34mdebug[39m: fromDirectory
+2:44:28 PM - [34mdebug[39m: loadFilesContents
+2:44:28 PM - [34mdebug[39m: loadFilesContents
+2:44:28 PM - [34mdebug[39m: loadFilesContents
+2:44:28 PM - [34mdebug[39m: loadFilesContents
+2:44:28 PM - [34mdebug[39m: loadFilesContents
+2:44:28 PM - [34mdebug[39m: loadFilesContents
+2:44:28 PM - [34mdebug[39m: loadFilesContents
+2:44:28 PM - [34mdebug[39m: loadFileContents
+2:44:28 PM - [34mdebug[39m: fromDirectory
+2:44:28 PM - [34mdebug[39m: loadFilesContents
+2:44:28 PM - [34mdebug[39m: loadFilesContents
+2:44:28 PM - [34mdebug[39m: loadFilesContents
+2:44:28 PM - [34mdebug[39m: loadFilesContents
+2:44:28 PM - [34mdebug[39m: loadFilesContents
+2:44:28 PM - [34mdebug[39m: loadFilesContents
+2:44:28 PM - [34mdebug[39m: loadFileContents
+2:44:28 PM - [34mdebug[39m: loadFileContents
+2:44:28 PM - [34mdebug[39m: loadFileContents
+2:44:28 PM - [34mdebug[39m: loadFileContents
+2:44:28 PM - [34mdebug[39m: loadFileContents
+2:44:28 PM - [34mdebug[39m: loadFilesContents
+2:44:29 PM - [34mdebug[39m: fromDirectory
+2:44:29 PM - [34mdebug[39m: loadFileContents
+2:44:29 PM - [34mdebug[39m: fromDirectory
+2:44:29 PM - [34mdebug[39m: fromDirectory
+2:44:29 PM - [34mdebug[39m: loadFilesContents
+2:44:29 PM - [34mdebug[39m: loadFilesContents
+2:44:29 PM - [34mdebug[39m: loadFilesContents
+2:44:29 PM - [34mdebug[39m: loadFilesContents
+2:44:29 PM - [34mdebug[39m: loadFilesContents
+2:44:29 PM - [34mdebug[39m: loadFilesContents
+2:44:29 PM - [34mdebug[39m: loadFileContents
+2:44:29 PM - [34mdebug[39m: loadFilesContents
+2:44:30 PM - [34mdebug[39m: Setting clause data: {"$class":"org.dublincoco.libraries.contracts.latereturns.LateReturnsContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"660d93a9-670e-4e66-9fdb-958b93243e9b"}
+2:44:30 PM - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mborrower[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mPaul Power[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mlender[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mRush Library[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mexceptionCase[39m[33m"[39m[33m: [39m[31mtrue[39m[33m,[39m
+  [33m"[39m[32mfineDuration[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.time.Duration[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[36m1[39m[33m,[39m
+    [33m"[39m[32munit[39m[33m"[39m[33m: [39m[33m"[39m[35mdays[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mfineAmount[39m[33m"[39m[33m: [39m[36m0.25[39m[33m,[39m
+  [33m"[39m[32mcapPercentage[39m[33m"[39m[33m: [39m[36m50[39m[33m,[39m
+  [33m"[39m[32mfractionalPart[39m[33m"[39m[33m: [39m[33m"[39m[35mdays[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mcontractId[39m[33m"[39m[33m: [39m[33m"[39m[35m660d93a9-670e-4e66-9fdb-958b93243e9b[39m[33m"[39m
+[33m}[39m
+2:44:38 PM - [32minfo[39m: Using current directory as template folder
+2:44:38 PM - [32minfo[39m: Loading a default text/sample.md file.
+2:44:38 PM - [32minfo[39m: Loading a default request.json file.
+2:44:38 PM - [34mdebug[39m: loadFileContents
+2:44:38 PM - [34mdebug[39m: loadFileBuffer
+2:44:38 PM - [34mdebug[39m: loadFileContents
+2:44:38 PM - [34mdebug[39m: loadFileContents
+2:44:38 PM - [34mdebug[39m: fromDirectory
+2:44:38 PM - [34mdebug[39m: loadFilesContents
+2:44:38 PM - [34mdebug[39m: loadFilesContents
+2:44:38 PM - [34mdebug[39m: loadFilesContents
+2:44:38 PM - [34mdebug[39m: loadFilesContents
+2:44:38 PM - [34mdebug[39m: loadFilesContents
+2:44:38 PM - [34mdebug[39m: loadFilesContents
+2:44:38 PM - [34mdebug[39m: loadFilesContents
+2:44:38 PM - [34mdebug[39m: loadFileContents
+2:44:38 PM - [34mdebug[39m: fromDirectory
+2:44:38 PM - [34mdebug[39m: loadFilesContents
+2:44:38 PM - [34mdebug[39m: loadFilesContents
+2:44:38 PM - [34mdebug[39m: loadFilesContents
+2:44:38 PM - [34mdebug[39m: loadFilesContents
+2:44:38 PM - [34mdebug[39m: loadFilesContents
+2:44:38 PM - [34mdebug[39m: loadFilesContents
+2:44:38 PM - [34mdebug[39m: loadFileContents
+2:44:38 PM - [34mdebug[39m: loadFileContents
+2:44:38 PM - [34mdebug[39m: loadFileContents
+2:44:38 PM - [34mdebug[39m: loadFileContents
+2:44:38 PM - [34mdebug[39m: loadFileContents
+2:44:38 PM - [34mdebug[39m: loadFilesContents
+2:44:40 PM - [34mdebug[39m: fromDirectory
+2:44:40 PM - [34mdebug[39m: loadFileContents
+2:44:40 PM - [34mdebug[39m: fromDirectory
+2:44:40 PM - [34mdebug[39m: fromDirectory
+2:44:40 PM - [34mdebug[39m: loadFilesContents
+2:44:40 PM - [34mdebug[39m: loadFilesContents
+2:44:40 PM - [34mdebug[39m: loadFilesContents
+2:44:40 PM - [34mdebug[39m: loadFilesContents
+2:44:40 PM - [34mdebug[39m: loadFilesContents
+2:44:40 PM - [34mdebug[39m: loadFilesContents
+2:44:40 PM - [34mdebug[39m: loadFileContents
+2:44:40 PM - [34mdebug[39m: loadFilesContents
+2:44:41 PM - [34mdebug[39m: Setting clause data: {"$class":"org.dublincoco.libraries.contracts.latereturns.LateReturnsContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"c65d451b-6f9e-440b-80e2-5c2af795f8bc"}
+2:44:41 PM - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+2:44:41 PM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+2:44:41 PM - [34mdebug[39m: Engine processing request org.dublincoco.libraries.contracts.latereturns.LateReturnsContractRequest with state org.accordproject.cicero.contract.AccordContractState
+2:44:41 PM - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mlatereturns@1.0-b26922749503cd605307dfe13f76a136688b994c010b51e2a046143c00edc753[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContractRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mexceptionCase[39m[33m"[39m[33m: [39m[31mfalse[39m[33m,[39m
+    [33m"[39m[32magreedReturn[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-09-13T23:59:59-00:00[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mreturnedOn[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-10-15T23:59:59-00:00[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mitemValue[39m[33m"[39m[33m: [39m[36m42.99[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContractResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mfine[39m[33m"[39m[33m: [39m[36m8[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35mfabe5ebe-46a2-40c0-a3b5-0da9429ce6cd[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-10-22T13:44:41.395Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m
+    [33m{[39m
+      [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.runtime.PaymentObligation[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[33m{[39m
+        [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+        [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m8[39m[33m,[39m
+        [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+      [33m}[39m[33m,[39m
+      [33m"[39m[32mdescription[39m[33m"[39m[33m: [39m[33m"[39m[35mPaul Power should pay fine amount to Rush Library[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.dublincoco.libraries.contracts.latereturns.LateReturnsContract#c65d451b-6f9e-440b-80e2-5c2af795f8bc[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisor[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Rush%20Library[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisee[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Paul%20Power[39m[33m"[39m[33m,[39m
+      [33m"[39m[32meventId[39m[33m"[39m[33m: [39m[33m"[39m[35mvalid[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-10-22T13:44:41.396Z[39m[33m"[39m
+    [33m}[39m
+  [33m][39m
+[33m}[39m
+2:59:08 PM - [32minfo[39m: Using current directory as template folder
+2:59:08 PM - [34mdebug[39m: loadFileContents
+2:59:08 PM - [34mdebug[39m: loadFileBuffer
+2:59:08 PM - [34mdebug[39m: loadFileContents
+2:59:08 PM - [34mdebug[39m: loadFileContents
+2:59:08 PM - [34mdebug[39m: fromDirectory
+2:59:08 PM - [34mdebug[39m: loadFilesContents
+2:59:08 PM - [34mdebug[39m: loadFilesContents
+2:59:08 PM - [34mdebug[39m: loadFilesContents
+2:59:08 PM - [34mdebug[39m: loadFilesContents
+2:59:08 PM - [34mdebug[39m: loadFilesContents
+2:59:08 PM - [34mdebug[39m: loadFilesContents
+2:59:08 PM - [34mdebug[39m: loadFilesContents
+2:59:08 PM - [34mdebug[39m: loadFileContents
+2:59:08 PM - [34mdebug[39m: fromDirectory
+2:59:08 PM - [34mdebug[39m: loadFilesContents
+2:59:08 PM - [34mdebug[39m: loadFilesContents
+2:59:08 PM - [34mdebug[39m: loadFilesContents
+2:59:08 PM - [34mdebug[39m: loadFilesContents
+2:59:08 PM - [34mdebug[39m: loadFilesContents
+2:59:08 PM - [34mdebug[39m: loadFilesContents
+2:59:08 PM - [34mdebug[39m: loadFileContents
+2:59:08 PM - [34mdebug[39m: loadFileContents
+2:59:08 PM - [34mdebug[39m: loadFileContents
+2:59:08 PM - [34mdebug[39m: loadFileContents
+2:59:08 PM - [34mdebug[39m: loadFileContents
+2:59:08 PM - [34mdebug[39m: loadFilesContents
+2:59:09 PM - [34mdebug[39m: fromDirectory
+2:59:09 PM - [34mdebug[39m: loadFileContents
+2:59:09 PM - [34mdebug[39m: fromDirectory
+2:59:09 PM - [34mdebug[39m: fromDirectory
+2:59:09 PM - [34mdebug[39m: loadFilesContents
+2:59:09 PM - [34mdebug[39m: loadFilesContents
+2:59:09 PM - [34mdebug[39m: loadFilesContents
+2:59:09 PM - [34mdebug[39m: loadFilesContents
+2:59:09 PM - [34mdebug[39m: loadFilesContents
+2:59:09 PM - [34mdebug[39m: loadFilesContents
+2:59:09 PM - [34mdebug[39m: loadFileContents
+2:59:09 PM - [34mdebug[39m: loadFilesContents
+2:59:10 PM - [34mdebug[39m: Setting clause data: {"$class":"org.dublincoco.libraries.contracts.latereturns.LateReturnsContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"98ccc55f-3404-48ca-8c72-411537006f68"}
+2:59:10 PM - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mborrower[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mPaul Power[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mlender[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mRush Library[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mexceptionCase[39m[33m"[39m[33m: [39m[31mtrue[39m[33m,[39m
+  [33m"[39m[32mfineDuration[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.time.Duration[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[36m1[39m[33m,[39m
+    [33m"[39m[32munit[39m[33m"[39m[33m: [39m[33m"[39m[35mdays[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mfineAmount[39m[33m"[39m[33m: [39m[36m0.25[39m[33m,[39m
+  [33m"[39m[32mcapPercentage[39m[33m"[39m[33m: [39m[36m50[39m[33m,[39m
+  [33m"[39m[32mfractionalPart[39m[33m"[39m[33m: [39m[33m"[39m[35mdays[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mcontractId[39m[33m"[39m[33m: [39m[33m"[39m[35m98ccc55f-3404-48ca-8c72-411537006f68[39m[33m"[39m
+[33m}[39m
+10:38:54 PM - [32minfo[39m: Using current directory as template folder
+10:38:54 PM - [34mdebug[39m: loadFileContents
+10:38:54 PM - [34mdebug[39m: loadFileBuffer
+10:38:54 PM - [34mdebug[39m: loadFileContents
+10:38:54 PM - [34mdebug[39m: loadFileContents
+10:38:54 PM - [34mdebug[39m: fromDirectory
+10:38:54 PM - [34mdebug[39m: loadFilesContents
+10:38:54 PM - [34mdebug[39m: loadFilesContents
+10:38:54 PM - [34mdebug[39m: loadFilesContents
+10:38:54 PM - [34mdebug[39m: loadFilesContents
+10:38:54 PM - [34mdebug[39m: loadFilesContents
+10:38:54 PM - [34mdebug[39m: loadFilesContents
+10:38:54 PM - [34mdebug[39m: loadFilesContents
+10:38:54 PM - [34mdebug[39m: loadFileContents
+10:38:54 PM - [34mdebug[39m: fromDirectory
+10:38:54 PM - [34mdebug[39m: loadFilesContents
+10:38:54 PM - [34mdebug[39m: loadFilesContents
+10:38:54 PM - [34mdebug[39m: loadFilesContents
+10:38:54 PM - [34mdebug[39m: loadFilesContents
+10:38:54 PM - [34mdebug[39m: loadFilesContents
+10:38:54 PM - [34mdebug[39m: loadFilesContents
+10:38:54 PM - [34mdebug[39m: loadFileContents
+10:38:54 PM - [34mdebug[39m: loadFileContents
+10:38:54 PM - [34mdebug[39m: loadFileContents
+10:38:54 PM - [34mdebug[39m: loadFileContents
+10:38:54 PM - [34mdebug[39m: loadFileContents
+10:38:54 PM - [34mdebug[39m: loadFilesContents
+10:38:56 PM - [34mdebug[39m: fromDirectory
+10:38:56 PM - [34mdebug[39m: loadFileContents
+10:38:56 PM - [34mdebug[39m: fromDirectory
+10:38:56 PM - [34mdebug[39m: fromDirectory
+10:38:56 PM - [34mdebug[39m: loadFilesContents
+10:38:56 PM - [34mdebug[39m: loadFilesContents
+10:38:56 PM - [34mdebug[39m: loadFilesContents
+10:38:56 PM - [34mdebug[39m: loadFilesContents
+10:38:56 PM - [34mdebug[39m: loadFilesContents
+10:38:56 PM - [34mdebug[39m: loadFilesContents
+10:38:56 PM - [34mdebug[39m: loadFileContents
+10:38:56 PM - [34mdebug[39m: loadFilesContents
+10:38:57 PM - [34mdebug[39m: Setting clause data: {"$class":"org.dublincoco.libraries.contracts.latereturns.LateReturnsContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"7ae7b58e-d8a3-4875-9bf1-dad33c046c90"}
+10:38:57 PM - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mborrower[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mPaul Power[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mlender[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mRush Library[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mexceptionCase[39m[33m"[39m[33m: [39m[31mtrue[39m[33m,[39m
+  [33m"[39m[32mfineDuration[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.time.Duration[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[36m1[39m[33m,[39m
+    [33m"[39m[32munit[39m[33m"[39m[33m: [39m[33m"[39m[35mdays[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mfineAmount[39m[33m"[39m[33m: [39m[36m0.25[39m[33m,[39m
+  [33m"[39m[32mcapPercentage[39m[33m"[39m[33m: [39m[36m50[39m[33m,[39m
+  [33m"[39m[32mfractionalPart[39m[33m"[39m[33m: [39m[33m"[39m[35mdays[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mcontractId[39m[33m"[39m[33m: [39m[33m"[39m[35m7ae7b58e-d8a3-4875-9bf1-dad33c046c90[39m[33m"[39m
+[33m}[39m
+10:39:27 PM - [32minfo[39m: Using current directory as template folder
+10:39:27 PM - [32minfo[39m: Loading a default text/sample.md file.
+10:39:27 PM - [32minfo[39m: Loading a default request.json file.
+10:39:27 PM - [34mdebug[39m: loadFileContents
+10:39:27 PM - [34mdebug[39m: loadFileBuffer
+10:39:27 PM - [34mdebug[39m: loadFileContents
+10:39:27 PM - [34mdebug[39m: loadFileContents
+10:39:27 PM - [34mdebug[39m: fromDirectory
+10:39:27 PM - [34mdebug[39m: loadFilesContents
+10:39:27 PM - [34mdebug[39m: loadFilesContents
+10:39:27 PM - [34mdebug[39m: loadFilesContents
+10:39:27 PM - [34mdebug[39m: loadFilesContents
+10:39:27 PM - [34mdebug[39m: loadFilesContents
+10:39:27 PM - [34mdebug[39m: loadFilesContents
+10:39:27 PM - [34mdebug[39m: loadFilesContents
+10:39:27 PM - [34mdebug[39m: loadFileContents
+10:39:27 PM - [34mdebug[39m: fromDirectory
+10:39:27 PM - [34mdebug[39m: loadFilesContents
+10:39:27 PM - [34mdebug[39m: loadFilesContents
+10:39:27 PM - [34mdebug[39m: loadFilesContents
+10:39:27 PM - [34mdebug[39m: loadFilesContents
+10:39:27 PM - [34mdebug[39m: loadFilesContents
+10:39:27 PM - [34mdebug[39m: loadFilesContents
+10:39:27 PM - [34mdebug[39m: loadFileContents
+10:39:27 PM - [34mdebug[39m: loadFileContents
+10:39:27 PM - [34mdebug[39m: loadFileContents
+10:39:27 PM - [34mdebug[39m: loadFileContents
+10:39:27 PM - [34mdebug[39m: loadFileContents
+10:39:27 PM - [34mdebug[39m: loadFilesContents
+10:39:28 PM - [34mdebug[39m: fromDirectory
+10:39:28 PM - [34mdebug[39m: loadFileContents
+10:39:28 PM - [34mdebug[39m: fromDirectory
+10:39:28 PM - [34mdebug[39m: fromDirectory
+10:39:28 PM - [34mdebug[39m: loadFilesContents
+10:39:28 PM - [34mdebug[39m: loadFilesContents
+10:39:28 PM - [34mdebug[39m: loadFilesContents
+10:39:28 PM - [34mdebug[39m: loadFilesContents
+10:39:28 PM - [34mdebug[39m: loadFilesContents
+10:39:28 PM - [34mdebug[39m: loadFilesContents
+10:39:28 PM - [34mdebug[39m: loadFileContents
+10:39:28 PM - [34mdebug[39m: loadFilesContents
+10:39:29 PM - [34mdebug[39m: Setting clause data: {"$class":"org.dublincoco.libraries.contracts.latereturns.LateReturnsContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"ba1f26a0-52ec-465c-840f-091debb0a1be"}
+10:39:29 PM - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+10:39:29 PM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+10:39:29 PM - [34mdebug[39m: Engine processing request org.dublincoco.libraries.contracts.latereturns.LateReturnsContractRequest with state org.accordproject.cicero.contract.AccordContractState
+10:39:29 PM - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mlatereturns@1.0-36a456335cb3faec6bfd71bfeeca043aeedb72625ae8d39df39622c4b4eef8b6[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContractRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mexceptionCase[39m[33m"[39m[33m: [39m[31mfalse[39m[33m,[39m
+    [33m"[39m[32magreedReturn[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-09-13T23:59:59-00:00[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mreturnedOn[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-10-15T23:59:59-00:00[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mitemValue[39m[33m"[39m[33m: [39m[36m42.99[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContractResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mfine[39m[33m"[39m[33m: [39m[36m8[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35m3b15aec2-749e-4bcd-98f9-ddb8a62b10bd[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-10-22T21:39:29.732Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m
+    [33m{[39m
+      [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.runtime.PaymentObligation[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[33m{[39m
+        [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+        [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m8[39m[33m,[39m
+        [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+      [33m}[39m[33m,[39m
+      [33m"[39m[32mdescription[39m[33m"[39m[33m: [39m[33m"[39m[35mPaul Power should pay fine amount to Rush Library[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.dublincoco.libraries.contracts.latereturns.LateReturnsContract#ba1f26a0-52ec-465c-840f-091debb0a1be[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisor[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Rush%20Library[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisee[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Paul%20Power[39m[33m"[39m[33m,[39m
+      [33m"[39m[32meventId[39m[33m"[39m[33m: [39m[33m"[39m[35mvalid[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-10-22T21:39:29.733Z[39m[33m"[39m
+    [33m}[39m
+  [33m][39m
+[33m}[39m

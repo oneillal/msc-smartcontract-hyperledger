@@ -1,0 +1,2 @@
+6:34:37 PM - [32minfo[39m: Using current directory as template folder
+6:34:37 PM - [31merror[39m: /home/oneillal/Development/bin/go/src/github.com/fabric/fabric-samples/hlf-cicero-contract_new/contract/text is not a valid cicero template. Make sure that package.json exists and that it has a cicero entry.

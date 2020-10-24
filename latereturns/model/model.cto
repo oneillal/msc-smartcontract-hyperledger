@@ -1,22 +1,81 @@
-namespace org.dublincoco.libraries.contracts
+namespace org.dublincoco.libraries.contracts.latereturns
 
 import org.accordproject.cicero.contract.* from https://models.accordproject.org/cicero/contract.cto
 import org.accordproject.cicero.runtime.* from https://models.accordproject.org/cicero/runtime.cto
+import org.accordproject.time.* from https://models.accordproject.org/v2.0/time.cto
 
-transaction MyRequest extends Request {
-  o String input
-}
+/**
+ * Defines the data model for the LateReturns contract.
+ */
+asset LateReturnsContract extends AccordContract {
+  /**
+   * The borrower
+   */
+  o AccordParty borrower
 
-transaction MyResponse extends Response {
-  o String output
+  /**
+   * The lender
+   */
+  o AccordParty lender
+
+  /**
+   * Does the clause include an exception provision?
+   */
+  o Boolean exceptionCase
+
+  /**
+   * For every fineDuration that the item was overdue
+   */
+  o Duration fineDuration
+
+  /**
+   * Borrower pays the lander fine for overdue item
+   */
+  o Double fineAmount
+
+  /**
+   * Up to capPercentage % of the value of the borrowed item
+   */
+  o Double capPercentage
+
+  /**
+   * Fractional part of a ... is considered a whole ...
+   */
+  o TemporalUnit fractionalPart
 }
 
 /**
- * The model for the contract
+ * Defines the input data required by the contract
  */
-asset MyContract extends AccordContract {
+transaction LateReturnsContractRequest extends Request {
+
   /**
-   * The name for the contract
+   * Are there extenuating circumstances? 
    */
-  o String name
+  o Boolean exceptionCase
+
+  /**
+   * What was the agreed return date?
+   */
+  o DateTime agreedReturn
+
+  /**
+   * When was the item returned?
+   */
+  o DateTime returnedOn
+
+  /**
+   * What is the value of the item?
+   */
+  o Double itemValue
+}
+
+/**
+ * Defines the output data for the contract
+ */
+transaction LateReturnsContractResponse extends Response {
+  /**
+   * The fine to be paid by the lender
+   */
+  o Double fine
 }

@@ -12,11 +12,45 @@
  * limitations under the License.
  */
 
-namespace org.dublincoco.libraries.contracts
+namespace org.dublincoco.libraries.contracts.latereturns
 
-contract MyLogic over MyContract {
-  // Simple Clause
-  clause helloworld(request : MyRequest) : MyResponse {
-    return MyResponse{ output: "Hello " ++ contract.name ++ " " ++ request.input }
+import org.accordproject.cicero.runtime.*
+import org.accordproject.time.*
+import org.accordproject.money.*
+
+contract LateReturns over LateReturnsContract {
+  clause latereturns(request : LateReturnsContractRequest) : LateReturnsContractResponse emits PaymentObligation {
+    // Prevent late return clause before actual return date
+    let agreed = request.agreedReturn;
+    let actual = request.returnedOn;
+    enforce isBefore(agreed,actual) else
+    throw ErgoErrorResponse{ message : "Cannot exercise late return before agreed return date" };
+
+    enforce !contract.exceptionCase or !request.exceptionCase else
+    return LateReturnsContractResponse{
+      fine: 0.0
+    }
+    ;
+    
+    // Calculate difference between the actual return date and agreed return date
+    let diff = diffDurationAs(actual,agreed,~org.accordproject.time.TemporalUnit.days);
+    let diffRatio = divideDuration(diff,durationAs(contract.fineDuration,~org.accordproject.time.TemporalUnit.days));
+    // Calculate total fine
+    let fine = diffRatio * contract.fineAmount;
+    // Cap pelanty fee
+    let capped = min([fine, contract.capPercentage/100.0 * request.itemValue]);
+    // Return the contract payment obligation
+    emit PaymentObligation{
+			contract: contract,
+			promisor: some(contract.lender),
+			promisee: some(contract.borrower),
+			deadline: none,
+			amount: MonetaryAmount{ doubleValue: capped, currencyCode: EUR },
+			description: contract.borrower.partyId ++ " should pay fine amount to " ++ contract.lender.partyId
+		};
+    // Return response with capped fine fee
+    return LateReturnsContractResponse{
+      fine: capped
+    }
   }
 }
