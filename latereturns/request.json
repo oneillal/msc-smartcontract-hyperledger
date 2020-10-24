@@ -1,0 +1,4 @@
+{
+    "$class": "org.dublincoco.libraries.contracts.MyRequest",
+    "input": "World"
+}
