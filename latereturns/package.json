@@ -1,7 +1,7 @@
 {
   "name": "latereturns",
   "displayName": "Late Returns Contract",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "A library contract for late return with a fine clause.",
   "author": "Accord Project",
   "license": "Apache-2.0",
