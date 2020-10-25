@@ -20,3 +20,20 @@ shall not however, exceed {{capPercentage}}% of the total value of the borrowed 
 of extenuating circumstances. This is wholey at the disgresion of the
 Lender and all decisions are final in this matter.{{/if}}
 ```
+### Contract Testing - Parsing 
+TODO
+
+### Contract Testing - Triggering Transaction
+TODO
+
+### Using Mocha for Unit Tests
+TODO
+
+## Setting up the HyperLedger Fabric
+TODO
+
+## Package Smart Contract Chaincode
+TODO
+
+## Install Chaincode
+TODO
