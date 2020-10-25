@@ -1,0 +1,15 @@
+10:08:31 - [34mdebug[39m: loadFileContents
+10:08:31 - [34mdebug[39m: loadFileBuffer
+10:08:31 - [34mdebug[39m: loadFileContents
+10:08:31 - [34mdebug[39m: loadFileContents
+10:08:31 - [34mdebug[39m: fromDirectory
+10:08:31 - [34mdebug[39m: loadFilesContents
+10:08:31 - [34mdebug[39m: loadFilesContents
+10:08:31 - [34mdebug[39m: loadFilesContents
+10:08:31 - [34mdebug[39m: loadFilesContents
+10:08:31 - [34mdebug[39m: loadFilesContents
+10:08:31 - [34mdebug[39m: loadFilesContents
+10:08:31 - [34mdebug[39m: loadFilesContents
+10:08:31 - [34mdebug[39m: loadFileContents
+10:08:31 - [34mdebug[39m: fromDirectory
+10:08:31 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.

@@ -1,0 +1,7 @@
+{
+    "$class": "org.dublincoco.libraries.contracts.latereturns.LateReturnsContractRequest",
+    "exceptionCase": false,
+    "agreedReturn": "2020-10-16T23:59:59-00:00",
+    "returnedOn": "2020-10-24T23:59:59-00:00",
+    "itemValue": 42.99
+}
