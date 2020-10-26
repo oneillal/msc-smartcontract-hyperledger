@@ -28,11 +28,13 @@ Using VS Code...
 
 ### The Contract Text
 
+// TODO: the Cicero language and cli
+
 ```
 ## Dublin CoCo Libraries - Late Returns.
 
-In case of a overdue return of an item {{lender}} (the Lender) shall 
-pay to {{borrower}} (the Borrower) a fine amounting to {{fineAmount}} (EUR)
+In case of a overdue return of an item, {{borrower}} (the Borrower) shall 
+pay to {{lender}} (the Lender) a fine amounting to {{fineAmount}} (EUR)
 for every {{fineDuration}} the item was returned overdue. Any fractional part
 of a {{fractionalPart}} is to be considered a full {{fractionalPart}}. The total amount of fine 
 shall not however, exceed {{capPercentage}}% of the total value of the borrowed item.
@@ -41,6 +43,7 @@ shall not however, exceed {{capPercentage}}% of the total value of the borrowed 
 of extenuating circumstances. This is wholey at the disgresion of the
 Lender and all decisions are final in this matter.{{/if}}
 ```
+
 ### Contract Testing - Parsing 
 ![](docs/images/testing_cicero_contract_parse1.png)
 
@@ -130,15 +133,34 @@ We try to trigger a transaction and we receive a consensus error:
 
 Container orchestration layer such as Kubernetes would attempt to guarantee desired state so this would be beneficial to ensure consistency at the container level and thus ensure consensus.
 
+### Debugging
+// TODO: how to debug smart contracts locally since they cannot be debugged after installed on chain?
+
+### Testing
+
+![](docs/images/fabric-query-contract1.png)
+![](docs/images/fabric-query-data1.png)
 
 ## Developing a HyperLedger Client Application
 
-Using the tutorial sample applications, we develop a client application that interacts with the ledger and smart contract chain-code. We will use Javascript initially and compare the development of other chain-code languages if time permits.
+Real-world smart contracts will likely contain functions using complex types or verbose data that is passed via arguments. This makes testing with the Fabric cli difficult e.g. passing contract verbiage or json payloads. A more realistic and manageable approach would be to develop a client application using a supportted language and leverage common libraries and utilities that are avable.
+
+Using the tutorial sample applications, we develop a client application that interacts with the ledger and smart contract chain-code for the described use-case. We will use Javascript initially and compare the development of other chain-code languages if time permits.
 
 https://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html
 
 The samples provide utilities to create and register users and wallets.
 
+### Errors
+
+User identities from previous tests cannot be reused and must be deleted. The client app will then recreate and register the users.
+
+```
+Failed to register user : Error: fabric-ca request register failed with errors [[ { code: 0,
+    message:
+     'Registration of \'appUser\' failed: Identity \'appUser\' is already registered' } ]]
+******** FAILED to run the application: Error: Identity not found in wallet: appUser
+```
 
 ## Distributed Ledger on PaaS
 // TODO:
