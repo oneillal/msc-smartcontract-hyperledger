@@ -4,7 +4,7 @@
 # 
 # This script uploads the markdown text for a contract to the chaincode
 
-cd client
+cd app
 npm i
-node ./submitTransaction initialize contract.md
+node ./app initialize contract.md
 cd ..

@@ -130,15 +130,34 @@ We try to trigger a transaction and we receive a consensus error:
 
 Container orchestration layer such as Kubernetes would attempt to guarantee desired state so this would be beneficial to ensure consistency at the container level and thus ensure consensus.
 
+### Debugging
+
+
+### Testing
+
+![](docs/images/fabric-query-contract1.png)
+![](docs/images/fabric-query-data1.png)
 
 ## Developing a HyperLedger Client Application
 
-Using the tutorial sample applications, we develop a client application that interacts with the ledger and smart contract chain-code. We will use Javascript initially and compare the development of other chain-code languages if time permits.
+Real-world smart contracts will likely contain functions using complex types or verbose data that is passed via arguments. This makes testing with the Fabric cli difficult e.g. passing contract verbiage or json payloads. A more realistic and manageable approach would be to develop a client application using a supportted language and leverage common libraries and utilities that are avable.
+
+Using the tutorial sample applications, we develop a client application that interacts with the ledger and smart contract chain-code for the described use-case. We will use Javascript initially and compare the development of other chain-code languages if time permits.
 
 https://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html
 
 The samples provide utilities to create and register users and wallets.
 
+### Errors
+
+User identities from previous tests cannot be reused and must be deleted. The client app will then recreate and register the users.
+
+```
+Failed to register user : Error: fabric-ca request register failed with errors [[ { code: 0,
+    message:
+     'Registration of \'appUser\' failed: Identity \'appUser\' is already registered' } ]]
+******** FAILED to run the application: Error: Identity not found in wallet: appUser
+```
 
 ## Distributed Ledger on PaaS
 // TODO:

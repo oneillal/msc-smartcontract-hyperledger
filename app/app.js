@@ -9,8 +9,8 @@ const { Gateway, Wallets } = require('fabric-network');
 const FabricCAServices = require('fabric-ca-client');
 const path = require('path');
 const fs = require('fs');
-const { buildCAClient, registerAndEnrollUser, enrollAdmin } = require('./CAUtil.js');
-const { buildCCPOrg1, buildWallet } = require('./AppUtil.js');
+const { buildCAClient, registerAndEnrollUser, enrollAdmin } = require('./utils/CAUtil.js');
+const { buildCCPOrg1, buildWallet } = require('./utils/AppUtil.js');
 
 const channelName = 'mychannel';
 const chaincodeName = 'latereturns';
