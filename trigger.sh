@@ -1,0 +1,10 @@
+
+#
+# Run this script from the root of the hlf-cicero-contract directory
+# 
+# This script sends a request to the cicero chaincode *run initialize first*
+
+cd app
+npm i
+node ./app trigger request.json BORROW_001
+cd ..
