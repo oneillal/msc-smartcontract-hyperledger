@@ -125,6 +125,14 @@ e5695e4eb7c1        hyperledger/fabric-peer:latest                              
 
 Container orchestration layer such as Kubernetes would attempt to guarantee desired state so this would be beneficial to ensure consistency at the container level and thus ensure consensus.
 
+## Developing a HyperLedger Client Application
+
+Using the tutorial sample applications, we develop a client application that interacts with the ledger and smart contract chain-code. We will use Javascript initially and compare the development of other chain-code languages if time permits.
+
+https://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html
+
+The samples provide utilities to create and register users and wallets.
+
 # Distributed Ledger on PaaS
 // TODO:
 
