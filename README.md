@@ -53,7 +53,10 @@ Lender and all decisions are final in this matter.{{/if}}
 ### Errors
 ![](docs/images/testing_cicero_error1.png)
 
-## Setting up the HyperLedger Fabric
+
+## HyperLedger Fabric
+
+### Setting up the Fabric Network
 Using the HyperLedger Fabric sample "test-network", we create a two org network with a single peer in each org.
 
 ![](docs/images/hlf_network1.png)
@@ -71,10 +74,10 @@ CONTAINER ID        IMAGE                                                       
 e3f72df8a93c        hyperledger/fabric-ca:latest                                                                                                                                                 "sh -c 'fabric-ca-se…"   5 minutes ago       Up 5 minutes              7054/tcp, 0.0.0.0:8054->8054/tcp   ca_org2
 ```
 
-## Package Smart Contract Chaincode
+### Package Smart Contract Chaincode
 `peer lifecycle chaincode package latereturns_1.0.tar.gz --path . --lang node --label latereturns_1.0`
 
-## Target an Org
+### Target an Org
 ```
 export CORE_PEER_TLS_ENABLED=true
 export CORE_PEER_LOCALMSPID="Org1MSP"
@@ -83,22 +86,24 @@ export CORE_PEER_MSPCONFIGPATH=${HLF_TEST_NETWORK}/organizations/peerOrganizatio
 export CORE_PEER_ADDRESS=localhost:7051
 ```
 
-## Install Chaincode (Terminology????)
+### Install Chaincode (Terminology????)
 `peer lifecycle chaincode install latereturns_1.0.tar.gz`
 
-## Query Installed Chaincode
+### Query Installed Chaincode
 ```
 ➜  msc-smartcontract-hyperledger git:(master) ✗ peer lifecycle chaincode queryinstalled
 Installed chaincodes on peer:
 Package ID: latereturns_1.0:b31664a41d11de1ef73e93f2366aed91cd982229f15ce8d16843a88e3236e221, Label: latereturns_1.0
 ```
 
-## Approve the Chaincode (Terminology???)
+### Approve the Chaincode (Terminology???)
 peer lifecycle chaincode approveformyorg -o localhost:7050 --ordererTLSHostnameOverride orderer.example.com --channelID mychannel --name latereturns --version 1.0 --package-id $CC_PACKAGE_ID --sequence 1 --tls --cafile ${HLF_TEST_NETWORK}/organizations/ordererOrganizations/example.com/orderers/orderer.example.com/msp/tlscacerts/tlsca.example.com-cert.pem
 echo "Approved for org2"
 
 
-## Consensus Failure
+## Testing
+
+### Consensus Failure
 Investigation into what happens if any one of the components fails and what is the recovery process etc.
 
 
@@ -112,10 +117,10 @@ e5695e4eb7c1        hyperledger/fabric-peer:latest                              
 03260bb678dc        hyperledger/fabric-orderer:latest                                                                                                                                                "orderer"                About an hour ago   Up 8 minutes        0.0.0.0:7050->7050/tcp             orderer.example.com
 ```
 
-### Stop one of the chain-code containers (Terminology???)
+By stopping one of the chain-code containers, what happens when submitting another transaction?
 `docker stop dev-peer0.org1.example.com-latereturns_1.0.0-ae83f25e52b526eda8126766069f34bd1a3f7a2d79e3c7f5b5aa8ad6eba4ea53`
 
-### Try to Trigger a Transaction
+We try to trigger a transaction and we receive a consensus error:
 
 ```
 2020-10-25T09:42:58.932Z - warn: [TransactionEventHandler]: strategyFail: commit failure for transaction "70944848533e78d554f0f7ec1358913ba70c74a77874a7a25e3145d89346c719": TransactionError: Commit of transaction 70944848533e78d554f0f7ec1358913ba70c74a77874a7a25e3145d89346c719 failed on peer peer0.org1.example.com:7051 with status ENDORSEMENT_POLICY_FAILURE
@@ -125,6 +130,7 @@ e5695e4eb7c1        hyperledger/fabric-peer:latest                              
 
 Container orchestration layer such as Kubernetes would attempt to guarantee desired state so this would be beneficial to ensure consistency at the container level and thus ensure consensus.
 
+
 ## Developing a HyperLedger Client Application
 
 Using the tutorial sample applications, we develop a client application that interacts with the ledger and smart contract chain-code. We will use Javascript initially and compare the development of other chain-code languages if time permits.
@@ -133,8 +139,10 @@ https://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html
 
 The samples provide utilities to create and register users and wallets.
 
-# Distributed Ledger on PaaS
+
+## Distributed Ledger on PaaS
 // TODO:
+
 
 ## References
 https://dl.acm.org/doi/pdf/10.1109/WETSEB.2019.00013?download=true
