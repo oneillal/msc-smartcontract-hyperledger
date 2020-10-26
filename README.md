@@ -20,10 +20,10 @@ jq
 ### Accord Project Contracts
 
 Using VS Code...
-![](doc/images/vscode-contract-wiz1.png)
-![](doc/images/vscode-contract-wiz2.png)
-![](doc/images/vscode-contract-wiz3.png)
-![](doc/images/vscode-contract-wiz4.png)
+![](docs/images/vscode-contract-wiz1.png)
+![](docs/images/vscode-contract-wiz2.png)
+![](docs/images/vscode-contract-wiz3.png)
+![](docs/images/vscode-contract-wiz4.png)
 
 
 ### The Contract Text
@@ -42,21 +42,21 @@ of extenuating circumstances. This is wholey at the disgresion of the
 Lender and all decisions are final in this matter.{{/if}}
 ```
 ### Contract Testing - Parsing 
-![](doc/images/testing_cicero_contract_parse1.png)
+![](docs/images/testing_cicero_contract_parse1.png)
 
 ### Contract Testing - Triggering Transaction
-![](doc/images/testing_cicero_contract_parse1.png)
+![](docs/images/testing_cicero_contract_parse1.png)
 
 ### Using Mocha for Unit Tests
 // TODO:
 
 ### Errors
-![](doc/images/testing_cicero_error1.png)
+![](docs/images/testing_cicero_error1.png)
 
 ## Setting up the HyperLedger Fabric
 Using the HyperLedger Fabric sample "test-network", we create a two org network with a single peer in each org.
 
-![](doc/images/hlf_network1.png)
+![](docs/images/hlf_network1.png)
 
 ```
 ➜  msc-smartcontract-hyperledger git:(master) ✗ docker ps -a
@@ -121,7 +121,7 @@ e5695e4eb7c1        hyperledger/fabric-peer:latest                              
 2020-10-25T09:42:58.932Z - warn: [TransactionEventHandler]: strategyFail: commit failure for transaction "70944848533e78d554f0f7ec1358913ba70c74a77874a7a25e3145d89346c719": TransactionError: Commit of transaction 70944848533e78d554f0f7ec1358913ba70c74a77874a7a25e3145d89346c719 failed on peer peer0.org1.example.com:7051 with status ENDORSEMENT_POLICY_FAILURE
 ******** FAILED to run the application: TransactionError: Commit of transaction 70944848533e78d554f0f7ec1358913ba70c74a77874a7a25e3145d89346c719 failed on peer peer0.org1.example.com:7051 with status ENDORSEMENT_POLICY_FAILURE
 ```
-![](doc/images/consensus_error1.png)
+![](docs/images/consensus_error1.png)
 
 Container orchestration layer such as Kubernetes would attempt to guarantee desired state so this would be beneficial to ensure consistency at the container level and thus ensure consensus.
 
