@@ -1,7 +1,7 @@
 ## Dublin CoCo Libraries - Late Returns.
 
-In case of a overdue return of an item {{lender}} (the Lender) shall 
-pay to {{borrower}} (the Borrower) a fine amounting to {{fineAmount}} (EUR)
+In case of a overdue return of an item, {{borrower}} (the Borrower) shall 
+pay to {{lender}} (the Lender) a fine amounting to {{fineAmount}} (EUR)
 for every {{fineDuration}} the item was returned overdue. Any fractional part
 of a {{fractionalPart}} is to be considered a full {{fractionalPart}}. The total amount of fine 
 shall not however, exceed {{capPercentage}}% of the total value of the borrowed item.
