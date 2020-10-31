@@ -3,7 +3,7 @@
 ## Developing a Smart Contract
 
 ### The Use Case
-This paper examines a Library use-case and the lender/borrower relationship. We provide an in-depth analysis of a development of a smart contract and client application running on the Hyperledger platform. 
+This paper examines a Library use-case and the lender/borrower relationship. We provide an in-depth analysis of a development of a smart contract and client application running on the HyperLedger platform. 
 
 ### Setting Up a Development Environment
 
@@ -40,7 +40,7 @@ of a {{fractionalPart}} is to be considered a full {{fractionalPart}}. The total
 shall not however, exceed {{capPercentage}}% of the total value of the borrowed item.
 
 {{#if exceptionCase}}The contract provides a provision to waive late penalties in the event
-of extenuating circumstances. This is wholey at the disgresion of the
+of extenuating circumstances. This is wholely at the discretion of the
 Lender and all decisions are final in this matter.{{/if}}
 ```
 
@@ -54,7 +54,19 @@ Lender and all decisions are final in this matter.{{/if}}
 // TODO:
 
 ### Errors
+
+Any formatting of the contract text requires careful attention to corresponding requests and tests.
+![](docs/images/testing_cicero_error2.png)
+
+The following error prevented test cases passing successfully.
 ![](docs/images/testing_cicero_error1.png)
+
+### Debugging Contract Issues
+
+From a development perspective, being able to develop locally with minimal dependencies is desireable. Since we cannot attach a debugger directly to chaincode running on-chain, we need to be able to test without a HyperLedger Fabric network involved.
+
+Thankfully, we can use our Mocha tests and attach the debugger as normal.
+![](docs/images/cicero_debugging1.png)
 
 
 ## HyperLedger Fabric
@@ -143,7 +155,7 @@ Container orchestration layer such as Kubernetes would attempt to guarantee desi
 
 ## Developing a HyperLedger Client Application
 
-Real-world smart contracts will likely contain functions using complex types or verbose data that is passed via arguments. This makes testing with the Fabric cli difficult e.g. passing contract verbiage or json payloads. A more realistic and manageable approach would be to develop a client application using a supportted language and leverage common libraries and utilities that are avable.
+Real-world smart contracts will likely contain functions using complex types or verbose data that is passed via arguments. This makes testing with the Fabric cli difficult e.g. passing contract verbiage or json payloads. A more realistic and manageable approach would be to develop a client application using a supported language and leverage common libraries and utilities that are available.
 
 Using the tutorial sample applications, we develop a client application that interacts with the ledger and smart contract chain-code for the described use-case. We will use Javascript initially and compare the development of other chain-code languages if time permits.
 
