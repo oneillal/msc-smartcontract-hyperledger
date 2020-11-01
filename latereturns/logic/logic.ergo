@@ -18,7 +18,7 @@ import org.accordproject.cicero.runtime.*
 import org.accordproject.time.*
 import org.accordproject.money.*
 
-contract LateReturns over LateReturnsContract {
+contract LateReturns over LateReturnsContract state LateReturnsContractState {
   clause latereturns(request : LateReturnsContractRequest) : LateReturnsContractResponse emits PaymentObligation {
     // Prevent late return clause before actual return date
     let agreed = request.agreedReturn;
@@ -28,6 +28,7 @@ contract LateReturns over LateReturnsContract {
 
     enforce !contract.exceptionCase or !request.exceptionCase else
     return LateReturnsContractResponse{
+      itemName: request.itemName,
       fine: 0.0
     }
     ;
@@ -46,10 +47,18 @@ contract LateReturns over LateReturnsContract {
 			promisee: some(contract.borrower),
 			deadline: none,
 			amount: MonetaryAmount{ doubleValue: capped, currencyCode: EUR },
-			description: contract.borrower.partyId ++ " should pay fine amount to " ++ contract.lender.partyId
+			description: contract.borrower.partyId ++ " should pay fine amount to " ++ contract.lender.partyId ++ " for the late return of " ++ request.itemName
 		};
+    let newFinesBalance = state.finesBalance + capped;
+    let newCounter = state.counter + 1.0;
+    set state LateReturnsContractState{
+      stateId: "org.dublincoco.libraries.contracts.latereturns.LateReturnsContractState#"  ++ toString(state.counter),
+      counter: newCounter,
+      finesBalance: newFinesBalance
+    };
     // Return response with capped fine fee
     return LateReturnsContractResponse{
+      itemName: request.itemName,
       fine: capped
     }
   }
