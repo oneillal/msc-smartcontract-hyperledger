@@ -77,69 +77,24 @@ Using the HyperLedger Fabric sample "test-network", we create a two org network 
 ![](docs/images/hlf_network1.png)
 
 ```
-➜  msc-smartcontract-hyperledger git:(master) ✗ docker ps -a
-CONTAINER ID        IMAGE                                                                                                                                                                        COMMAND                  CREATED             STATUS                    PORTS                              NAMES
-1d55e3d36a92        dev-peer0.org1.example.com-cicero_0.61.5-e3b57bb63223f03c3f0544be5438312094bd15de0f113672bf49af4fcf008c70-7bebf5f93175f1ca74b105c03dcfb9472d46da63caafe208d161551afe3bbfba   "docker-entrypoint.s…"   2 minutes ago       Up 2 minutes                                                 dev-peer0.org1.example.com-cicero_0.61.5-e3b57bb63223f03c3f0544be5438312094bd15de0f113672bf49af4fcf008c70
-7c2b46aa9519        dev-peer0.org2.example.com-cicero_0.61.5-e3b57bb63223f03c3f0544be5438312094bd15de0f113672bf49af4fcf008c70-34900bfd119f86581b2ccb84b7607a34ee428e44fd1d4cd5a39226ad18dc5756   "docker-entrypoint.s…"   2 minutes ago       Up 2 minutes                                                 dev-peer0.org2.example.com-cicero_0.61.5-e3b57bb63223f03c3f0544be5438312094bd15de0f113672bf49af4fcf008c70
-7d9faf494574        hyperledger/fabric-orderer:latest                                                                                                                                            "orderer"                5 minutes ago       Up 5 minutes              0.0.0.0:7050->7050/tcp             orderer.example.com
-89300853c250        hyperledger/fabric-peer:latest                                                                                                                                               "peer node start"        5 minutes ago       Up 5 minutes              0.0.0.0:7051->7051/tcp             peer0.org1.example.com
-985d011b3411        hyperledger/fabric-peer:latest                                                                                                                                               "peer node start"        5 minutes ago       Up 5 minutes              7051/tcp, 0.0.0.0:9051->9051/tcp   peer0.org2.example.com
-96ab7ae912b7        hyperledger/fabric-ca:latest                                                                                                                                                 "sh -c 'fabric-ca-se…"   5 minutes ago       Up 5 minutes              7054/tcp, 0.0.0.0:9054->9054/tcp   ca_orderer
-118e291f266f        hyperledger/fabric-ca:latest                                                                                                                                                 "sh -c 'fabric-ca-se…"   5 minutes ago       Up 5 minutes              0.0.0.0:7054->7054/tcp             ca_org1
-e3f72df8a93c        hyperledger/fabric-ca:latest                                                                                                                                                 "sh -c 'fabric-ca-se…"   5 minutes ago       Up 5 minutes              7054/tcp, 0.0.0.0:8054->8054/tcp   ca_org2
-```
-
-### Package Smart Contract Chaincode
-`peer lifecycle chaincode package latereturns_1.0.tar.gz --path . --lang node --label latereturns_1.0`
-
-### Target an Org
-```
-export CORE_PEER_TLS_ENABLED=true
-export CORE_PEER_LOCALMSPID="Org1MSP"
-export CORE_PEER_TLS_ROOTCERT_FILE=${HLF_TEST_NETWORK}/organizations/peerOrganizations/org1.example.com/peers/peer0.org1.example.com/tls/ca.crt
-export CORE_PEER_MSPCONFIGPATH=${HLF_TEST_NETWORK}/organizations/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp
-export CORE_PEER_ADDRESS=localhost:7051
-```
-
-### Install Chaincode (Terminology????)
-`peer lifecycle chaincode install latereturns_1.0.tar.gz`
-
-### Query Installed Chaincode
-```
-➜  msc-smartcontract-hyperledger git:(master) ✗ peer lifecycle chaincode queryinstalled
-Installed chaincodes on peer:
-Package ID: latereturns_1.0:b31664a41d11de1ef73e93f2366aed91cd982229f15ce8d16843a88e3236e221, Label: latereturns_1.0
-```
-
-### Approve the Chaincode (Terminology???)
-peer lifecycle chaincode approveformyorg -o localhost:7050 --ordererTLSHostnameOverride orderer.example.com --channelID mychannel --name latereturns --version 1.0 --package-id $CC_PACKAGE_ID --sequence 1 --tls --cafile ${HLF_TEST_NETWORK}/organizations/ordererOrganizations/example.com/orderers/orderer.example.com/msp/tlscacerts/tlsca.example.com-cert.pem
-echo "Approved for org2"
-
-
-## Testing
-
-### Consensus Failure
-Investigation into what happens if any one of the components fails and what is the recovery process etc.
-
-
-```
-docker ps
-CONTAINER ID        IMAGE                                                                                                                                                                            COMMAND                  CREATED             STATUS              PORTS                              NAMES
-4cd31cdedf71        dev-peer0.org1.example.com-latereturns_1.0.0-ae83f25e52b526eda8126766069f34bd1a3f7a2d79e3c7f5b5aa8ad6eba4ea53-974d61e42d19151e1b415bd3d5c20fb5d9655d161d599afb45ca9e3a4c59e1f1   "docker-entrypoint.s…"   8 minutes ago       Up 8 minutes                                           dev-peer0.org1.example.com-latereturns_1.0.0-ae83f25e52b526eda8126766069f34bd1a3f7a2d79e3c7f5b5aa8ad6eba4ea53
-89e25abe2999        dev-peer0.org2.example.com-latereturns_1.0.0-ae83f25e52b526eda8126766069f34bd1a3f7a2d79e3c7f5b5aa8ad6eba4ea53-c42c0b248b29929e51ce32a2d6d70177a52d5e7102c9d731c5997a012095283d   "docker-entrypoint.s…"   8 minutes ago       Up 8 minutes                                           dev-peer0.org2.example.com-latereturns_1.0.0-ae83f25e52b526eda8126766069f34bd1a3f7a2d79e3c7f5b5aa8ad6eba4ea53
-bdc4f0f6099e        hyperledger/fabric-peer:latest                                                                                                                                                   "peer node start"        About an hour ago   Up 8 minutes        0.0.0.0:7051->7051/tcp             peer0.org1.example.com
-e5695e4eb7c1        hyperledger/fabric-peer:latest                                                                                                                                                   "peer node start"        About an hour ago   Up 8 minutes        7051/tcp, 0.0.0.0:9051->9051/tcp   peer0.org2.example.com
-03260bb678dc        hyperledger/fabric-orderer:latest                                                                                                                                                "orderer"                About an hour ago   Up 8 minutes        0.0.0.0:7050->7050/tcp             orderer.example.com
+➜  msc-smartcontract-hyperledger git:(master) ✗ docker ps  
+CONTAINER ID        IMAGE                               COMMAND                  CREATED             STATUS              PORTS                              NAMES
+8635d83c82d8        hyperledger/fabric-orderer:latest   "orderer"                30 seconds ago      Up 29 seconds       0.0.0.0:7050->7050/tcp             orderer.libraries.dublincoco.org
+069c2f211bcc        hyperledger/fabric-peer:latest      "peer node start"        30 seconds ago      Up 29 seconds       0.0.0.0:7051->7051/tcp             peer0.org1.libraries.dublincoco.org
+076d5fe2f763        hyperledger/fabric-peer:latest      "peer node start"        30 seconds ago      Up 29 seconds       7051/tcp, 0.0.0.0:9051->9051/tcp   peer0.org2.libraries.dublincoco.org
+a7c1de0a1a2a        hyperledger/fabric-ca:latest        "sh -c 'fabric-ca-se…"   36 seconds ago      Up 35 seconds       7054/tcp, 0.0.0.0:9054->9054/tcp   ca_orderer
+9ab1b7d19355        hyperledger/fabric-ca:latest        "sh -c 'fabric-ca-se…"   36 seconds ago      Up 35 seconds       0.0.0.0:7054->7054/tcp             ca_org1
+2cb592d53c8c        hyperledger/fabric-ca:latest        "sh -c 'fabric-ca-se…"   36 seconds ago      Up 35 seconds       7054/tcp, 0.0.0.0:8054->8054/tcp   ca_org2
 ```
 
 By stopping one of the chain-code containers, what happens when submitting another transaction?
-`docker stop dev-peer0.org1.example.com-latereturns_1.0.0-ae83f25e52b526eda8126766069f34bd1a3f7a2d79e3c7f5b5aa8ad6eba4ea53`
+`docker stop dev-peer0.org1.libraries.dublincoco.org-latereturns_1.0.0-ae83f25e52b526eda8126766069f34bd1a3f7a2d79e3c7f5b5aa8ad6eba4ea53`
 
 We try to trigger a transaction and we receive a consensus error:
 
 ```
-2020-10-25T09:42:58.932Z - warn: [TransactionEventHandler]: strategyFail: commit failure for transaction "70944848533e78d554f0f7ec1358913ba70c74a77874a7a25e3145d89346c719": TransactionError: Commit of transaction 70944848533e78d554f0f7ec1358913ba70c74a77874a7a25e3145d89346c719 failed on peer peer0.org1.example.com:7051 with status ENDORSEMENT_POLICY_FAILURE
-******** FAILED to run the application: TransactionError: Commit of transaction 70944848533e78d554f0f7ec1358913ba70c74a77874a7a25e3145d89346c719 failed on peer peer0.org1.example.com:7051 with status ENDORSEMENT_POLICY_FAILURE
+2020-10-25T09:42:58.932Z - warn: [TransactionEventHandler]: strategyFail: commit failure for transaction "70944848533e78d554f0f7ec1358913ba70c74a77874a7a25e3145d89346c719": TransactionError: Commit of transaction 70944848533e78d554f0f7ec1358913ba70c74a77874a7a25e3145d89346c719 failed on peer peer0.org1.libraries.dublincoco.org:7051 with status ENDORSEMENT_POLICY_FAILURE
+******** FAILED to run the application: TransactionError: Commit of transaction 70944848533e78d554f0f7ec1358913ba70c74a77874a7a25e3145d89346c719 failed on peer peer0.org1.libraries.dublincoco.org:7051 with status ENDORSEMENT_POLICY_FAILURE
 ```
 ![](docs/images/consensus_error1.png)
 
@@ -173,6 +128,16 @@ Failed to register user : Error: fabric-ca request register failed with errors [
      'Registration of \'appUser\' failed: Identity \'appUser\' is already registered' } ]]
 ******** FAILED to run the application: Error: Identity not found in wallet: appUser
 ```
+*Upgrade issues*
+`WARNING Local fabric-ca binaries and docker images are out of sync. This may cause problems.`
+
+### CICD
+
+1. Use CLI container
+2. Use docker client to run HLF commands on specific containers. For example:
+
+`docker exec peer0.org1.libraries.dublincoco.org peer chaincode query -C mychannel -n latereturns -c '{"function":"queryState","Args":["CTR_100002"]}'`
+
 
 ## Distributed Ledger on PaaS
 // TODO:
