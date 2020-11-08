@@ -7,17 +7,25 @@
         {
             "type": "node",
             "request": "launch",
-            "name": "Cicero Contract",
+            "name": "Query State",
             "program": "${workspaceFolder}/test/cicero-contract.js",
-            "args": ["initialize", "contract.md"],
+            "args": ["queryState", "CTR_100002"],
             "env": { "HLF_INSTALL_DIR": "/home/oneillal/Development/bin/go/src/github.com/fabric/fabric-samples" }
         },
         {
             "type": "node",
             "request": "launch",
-            "name": "Client Contract Initialise",
+            "name": "Invoke Cicero Contract",
+            "program": "${workspaceFolder}/test/cicero-contract.js",
+            "args": ["invoke", "request.json", "contract.md"],
+            "env": { "HLF_INSTALL_DIR": "/home/oneillal/Development/bin/go/src/github.com/fabric/fabric-samples" }
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "App - Contract Initialise",
             "program": "${workspaceFolder}/app/app.js",
-            "args": ["queryData", "BORROW_001"],
+            "args": ["init", "CTR_100002"],
             "env": { "HLF_INSTALL_DIR": "/home/oneillal/Development/bin/go/src/github.com/fabric/fabric-samples" }
         }
     ]
