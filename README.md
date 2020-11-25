@@ -31,17 +31,20 @@ Using VS Code...
 // TODO: the Cicero language and cli
 
 ```
-## Dublin CoCo Libraries - Late Returns.
+Peer2Peer Library Contract.
+----
+"Paul Power" (the Lender) agrees to lend "Alan O'Neill" (the Borrower)
+the itemName "The Da Vinci Code" (IBSN "9780552149518") which is currently 
+graded as "VG".
 
-In case of a overdue return of an item, {{borrower}} (the Borrower) shall 
-pay to {{lender}} (the Lender) a fine amounting to {{fineAmount}} (EUR)
-for every {{fineDuration}} the item was returned overdue. Any fractional part
-of a {{fractionalPart}} is to be considered a full {{fractionalPart}}. The total amount of fine 
-shall not however, exceed {{capPercentage}}% of the total value of the borrowed item.
+In the case of the late return of the item, the Borrower shall pay to Lender
+a fine amounting to 0.25 (EUR) for every 1 days the item was returned overdue.
+Any fractional part of a days is to be considered a full days. The total amount
+of fine shall not however, exceed 50.0% of the total value of the borrowed item.
 
-{{#if exceptionCase}}The contract provides a provision to waive late penalties in the event
-of extenuating circumstances. This is wholely at the discretion of the
-Lender and all decisions are final in this matter.{{/if}}
+The contract provides a provision to waive late penalties in the event of
+extenuating circumstances. This is wholely at the discretion of the Lender
+and all decisions are final in this matter.
 ```
 
 ### Contract Testing - Parsing 
@@ -77,24 +80,26 @@ Using the HyperLedger Fabric sample "test-network", we create a two org network 
 ![](docs/images/hlf_network1.png)
 
 ```
-➜  msc-smartcontract-hyperledger git:(master) ✗ docker ps  
-CONTAINER ID        IMAGE                               COMMAND                  CREATED             STATUS              PORTS                              NAMES
-8635d83c82d8        hyperledger/fabric-orderer:latest   "orderer"                30 seconds ago      Up 29 seconds       0.0.0.0:7050->7050/tcp             orderer.libraries.dublincoco.org
-069c2f211bcc        hyperledger/fabric-peer:latest      "peer node start"        30 seconds ago      Up 29 seconds       0.0.0.0:7051->7051/tcp             peer0.org1.libraries.dublincoco.org
-076d5fe2f763        hyperledger/fabric-peer:latest      "peer node start"        30 seconds ago      Up 29 seconds       7051/tcp, 0.0.0.0:9051->9051/tcp   peer0.org2.libraries.dublincoco.org
-a7c1de0a1a2a        hyperledger/fabric-ca:latest        "sh -c 'fabric-ca-se…"   36 seconds ago      Up 35 seconds       7054/tcp, 0.0.0.0:9054->9054/tcp   ca_orderer
-9ab1b7d19355        hyperledger/fabric-ca:latest        "sh -c 'fabric-ca-se…"   36 seconds ago      Up 35 seconds       0.0.0.0:7054->7054/tcp             ca_org1
-2cb592d53c8c        hyperledger/fabric-ca:latest        "sh -c 'fabric-ca-se…"   36 seconds ago      Up 35 seconds       7054/tcp, 0.0.0.0:8054->8054/tcp   ca_org2
+➜  msc-smartcontract-hyperledger git:(peer2peerlibrary) ✗ docker ps --format='table {{.ID}}\t{{.Image}}\t{{.Command}}\t{{.RunningFor}}\t{{.Names}}'
+CONTAINER ID        IMAGE                               COMMAND                  CREATED             NAMES
+8e7c5c4fbaa0        hyperledger/fabric-peer:latest      "peer node start"        About an hour ago   peer0.org2.lend.me
+285a4056e6ca        hyperledger/fabric-peer:latest      "peer node start"        About an hour ago   peer0.org1.lend.me
+b5fa8eddfc25        hyperledger/fabric-orderer:latest   "orderer"                About an hour ago   orderer.lend.me
+a78446f8b90b        couchdb:3.1.1                       "tini -- /docker-ent…"   About an hour ago   couchdb0
+99005fdf8795        couchdb:3.1.1                       "tini -- /docker-ent…"   About an hour ago   couchdb1
+6c0e78fac51d        hyperledger/fabric-ca:latest        "sh -c 'fabric-ca-se…"   About an hour ago   ca_org2
+5f9a6585a79e        hyperledger/fabric-ca:latest        "sh -c 'fabric-ca-se…"   About an hour ago   ca_orderer
+fae62de87479        hyperledger/fabric-ca:latest        "sh -c 'fabric-ca-se…"   About an hour ago   ca_org1
 ```
 
 By stopping one of the chain-code containers, what happens when submitting another transaction?
-`docker stop dev-peer0.org1.libraries.dublincoco.org-latereturns_1.0.0-ae83f25e52b526eda8126766069f34bd1a3f7a2d79e3c7f5b5aa8ad6eba4ea53`
+`docker stop dev-peer0.org1.lend.me-peer2peerlibrary_1.0.0-ae83f25e52b526eda8126766069f34bd1a3f7a2d79e3c7f5b5aa8ad6eba4ea53`
 
 We try to trigger a transaction and we receive a consensus error:
 
 ```
-2020-10-25T09:42:58.932Z - warn: [TransactionEventHandler]: strategyFail: commit failure for transaction "70944848533e78d554f0f7ec1358913ba70c74a77874a7a25e3145d89346c719": TransactionError: Commit of transaction 70944848533e78d554f0f7ec1358913ba70c74a77874a7a25e3145d89346c719 failed on peer peer0.org1.libraries.dublincoco.org:7051 with status ENDORSEMENT_POLICY_FAILURE
-******** FAILED to run the application: TransactionError: Commit of transaction 70944848533e78d554f0f7ec1358913ba70c74a77874a7a25e3145d89346c719 failed on peer peer0.org1.libraries.dublincoco.org:7051 with status ENDORSEMENT_POLICY_FAILURE
+2020-10-25T09:42:58.932Z - warn: [TransactionEventHandler]: strategyFail: commit failure for transaction "70944848533e78d554f0f7ec1358913ba70c74a77874a7a25e3145d89346c719": TransactionError: Commit of transaction 70944848533e78d554f0f7ec1358913ba70c74a77874a7a25e3145d89346c719 failed on peer peer0.org1.lend.me:7051 with status ENDORSEMENT_POLICY_FAILURE
+******** FAILED to run the application: TransactionError: Commit of transaction 70944848533e78d554f0f7ec1358913ba70c74a77874a7a25e3145d89346c719 failed on peer peer0.org1.lend.me:7051 with status ENDORSEMENT_POLICY_FAILURE
 ```
 ![](docs/images/consensus_error1.png)
 
@@ -136,7 +141,7 @@ Failed to register user : Error: fabric-ca request register failed with errors [
 1. Use CLI container
 2. Use docker client to run HLF commands on specific containers. For example:
 
-`docker exec peer0.org1.libraries.dublincoco.org peer chaincode query -C mychannel -n latereturns -c '{"function":"queryState","Args":["CTR_100002"]}'`
+`docker exec peer0.org1.lend.me peer chaincode query -C mychannel -n peer2peerlibrary -c '{"function":"queryState","Args":["CTR_100002"]}'`
 
 
 ## Distributed Ledger on PaaS
