@@ -9,7 +9,7 @@ Feature: HelloWorld
     Then it should respond with
 """
 {
-    "$class": "org.dublincoco.libraries.contracts.MyResponse",
+    "$class": "me.lend.contracts.MyResponse",
     "output": "Hello Dan World"
 }
 """

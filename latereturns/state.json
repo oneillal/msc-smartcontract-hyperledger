@@ -1,6 +1,0 @@
-{
-    "$class": "org.dublincoco.libraries.contracts.latereturns.LateReturnsContractState",
-    "stateId": "org.dublincoco.libraries.contracts.latereturns.LateReturnsContractState#0.0",
-    "counter": 0,
-    "finesBalance": 0.0
-  }

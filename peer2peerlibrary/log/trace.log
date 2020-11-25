@@ -1407,10 +1407,10 @@
 2:02:10 PM - [34mdebug[39m: loadFilesContents
 2:02:10 PM - [34mdebug[39m: loadFileContents
 2:02:10 PM - [34mdebug[39m: loadFilesContents
-2:02:11 PM - [34mdebug[39m: Setting clause data: {"$class":"org.dublincoco.libraries.contracts.latereturns.LateReturnsContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"exceptionCase":true,"penaltyDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"penaltyFee":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"f5a7bb5b-b2c5-40a0-895e-161c54454af6"}
+2:02:11 PM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"exceptionCase":true,"penaltyDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"penaltyFee":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"f5a7bb5b-b2c5-40a0-895e-161c54454af6"}
 2:02:11 PM - [32minfo[39m:
 [33m{[39m
-  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.peer2peerlibrary.Peer2PeerLibraryContract[39m[33m"[39m[33m,[39m
   [33m"[39m[32mborrower[39m[33m"[39m[33m: [39m[33m{[39m
     [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
     [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mPaul Power[39m[33m"[39m
@@ -1471,7 +1471,7 @@
 2:02:18 PM - [34mdebug[39m: loadFilesContents
 2:02:18 PM - [34mdebug[39m: loadFileContents
 2:02:18 PM - [34mdebug[39m: loadFilesContents
-2:02:19 PM - [34mdebug[39m: Setting clause data: {"$class":"org.dublincoco.libraries.contracts.latereturns.LateReturnsContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"exceptionCase":true,"penaltyDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"penaltyFee":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"d0484486-d9ae-4942-91c4-3744fe392ed6"}
+2:02:19 PM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"exceptionCase":true,"penaltyDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"penaltyFee":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"d0484486-d9ae-4942-91c4-3744fe392ed6"}
 2:02:19 PM - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
 2:02:19 PM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
 2:02:19 PM - [31merror[39m: Namespace is not defined for type org.accordproject.latereturnandpenalty.LateReturnAndPenaltyRequest
@@ -1516,22 +1516,22 @@
 2:02:46 PM - [34mdebug[39m: loadFilesContents
 2:02:46 PM - [34mdebug[39m: loadFileContents
 2:02:46 PM - [34mdebug[39m: loadFilesContents
-2:02:47 PM - [34mdebug[39m: Setting clause data: {"$class":"org.dublincoco.libraries.contracts.latereturns.LateReturnsContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"exceptionCase":true,"penaltyDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"penaltyFee":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"6e20a943-0795-4cf6-8e8f-b337b21eaa0d"}
+2:02:47 PM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"exceptionCase":true,"penaltyDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"penaltyFee":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"6e20a943-0795-4cf6-8e8f-b337b21eaa0d"}
 2:02:47 PM - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
 2:02:47 PM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
-2:02:47 PM - [34mdebug[39m: Engine processing request org.dublincoco.libraries.contracts.latereturns.LateReturnsContractRequest with state org.accordproject.cicero.contract.AccordContractState
+2:02:47 PM - [34mdebug[39m: Engine processing request me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractRequest with state org.accordproject.cicero.contract.AccordContractState
 2:02:47 PM - [32minfo[39m:
 [33m{[39m
   [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mlatereturnandpenalty@1.0-3ab76af36827c5124535e80210de9d09c70a7ff473673aa55bf16ee9653b0c5d[39m[33m"[39m[33m,[39m
   [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
-    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContractRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.peer2peerlibrary.Peer2PeerLibraryContractRequest[39m[33m"[39m[33m,[39m
     [33m"[39m[32mexceptionCase[39m[33m"[39m[33m: [39m[31mfalse[39m[33m,[39m
     [33m"[39m[32magreedReturn[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-09-13T23:59:59-00:00[39m[33m"[39m[33m,[39m
     [33m"[39m[32mreturnedOn[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-10-15T23:59:59-00:00[39m[33m"[39m[33m,[39m
     [33m"[39m[32mitemValue[39m[33m"[39m[33m: [39m[36m42.99[39m
   [33m}[39m[33m,[39m
   [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
-    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContractResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.peer2peerlibrary.Peer2PeerLibraryContractResponse[39m[33m"[39m[33m,[39m
     [33m"[39m[32mpenalty[39m[33m"[39m[33m: [39m[36m8[39m[33m,[39m
     [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35m2e05ed82-7d5e-44b0-871d-b80b842bec32[39m[33m"[39m[33m,[39m
     [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-10-22T13:02:47.638Z[39m[33m"[39m
@@ -1549,7 +1549,7 @@
         [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
       [33m}[39m[33m,[39m
       [33m"[39m[32mdescription[39m[33m"[39m[33m: [39m[33m"[39m[35mPaul Power should pay penalty amount to Rush Library[39m[33m"[39m[33m,[39m
-      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.dublincoco.libraries.contracts.latereturns.LateReturnsContract#6e20a943-0795-4cf6-8e8f-b337b21eaa0d[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract#6e20a943-0795-4cf6-8e8f-b337b21eaa0d[39m[33m"[39m[33m,[39m
       [33m"[39m[32mpromisor[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Rush%20Library[39m[33m"[39m[33m,[39m
       [33m"[39m[32mpromisee[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Paul%20Power[39m[33m"[39m[33m,[39m
       [33m"[39m[32meventId[39m[33m"[39m[33m: [39m[33m"[39m[35mvalid[39m[33m"[39m[33m,[39m
@@ -1597,10 +1597,10 @@
 2:42:56 PM - [34mdebug[39m: loadFilesContents
 2:42:56 PM - [34mdebug[39m: loadFileContents
 2:42:56 PM - [34mdebug[39m: loadFilesContents
-2:42:57 PM - [34mdebug[39m: Setting clause data: {"$class":"org.dublincoco.libraries.contracts.latereturns.LateReturnsContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineFee":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"24e43b96-6ab2-4328-a0d3-900608ee83ed"}
+2:42:57 PM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineFee":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"24e43b96-6ab2-4328-a0d3-900608ee83ed"}
 2:42:57 PM - [32minfo[39m:
 [33m{[39m
-  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.peer2peerlibrary.Peer2PeerLibraryContract[39m[33m"[39m[33m,[39m
   [33m"[39m[32mborrower[39m[33m"[39m[33m: [39m[33m{[39m
     [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
     [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mPaul Power[39m[33m"[39m
@@ -1660,10 +1660,10 @@
 2:44:29 PM - [34mdebug[39m: loadFilesContents
 2:44:29 PM - [34mdebug[39m: loadFileContents
 2:44:29 PM - [34mdebug[39m: loadFilesContents
-2:44:30 PM - [34mdebug[39m: Setting clause data: {"$class":"org.dublincoco.libraries.contracts.latereturns.LateReturnsContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"660d93a9-670e-4e66-9fdb-958b93243e9b"}
+2:44:30 PM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"660d93a9-670e-4e66-9fdb-958b93243e9b"}
 2:44:30 PM - [32minfo[39m:
 [33m{[39m
-  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.peer2peerlibrary.Peer2PeerLibraryContract[39m[33m"[39m[33m,[39m
   [33m"[39m[32mborrower[39m[33m"[39m[33m: [39m[33m{[39m
     [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
     [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mPaul Power[39m[33m"[39m
@@ -1724,22 +1724,22 @@
 2:44:40 PM - [34mdebug[39m: loadFilesContents
 2:44:40 PM - [34mdebug[39m: loadFileContents
 2:44:40 PM - [34mdebug[39m: loadFilesContents
-2:44:41 PM - [34mdebug[39m: Setting clause data: {"$class":"org.dublincoco.libraries.contracts.latereturns.LateReturnsContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"c65d451b-6f9e-440b-80e2-5c2af795f8bc"}
+2:44:41 PM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"c65d451b-6f9e-440b-80e2-5c2af795f8bc"}
 2:44:41 PM - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
 2:44:41 PM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
-2:44:41 PM - [34mdebug[39m: Engine processing request org.dublincoco.libraries.contracts.latereturns.LateReturnsContractRequest with state org.accordproject.cicero.contract.AccordContractState
+2:44:41 PM - [34mdebug[39m: Engine processing request me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractRequest with state org.accordproject.cicero.contract.AccordContractState
 2:44:41 PM - [32minfo[39m:
 [33m{[39m
-  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mlatereturns@1.0-b26922749503cd605307dfe13f76a136688b994c010b51e2a046143c00edc753[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mpeer2peerlibrary@1.0-b26922749503cd605307dfe13f76a136688b994c010b51e2a046143c00edc753[39m[33m"[39m[33m,[39m
   [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
-    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContractRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.peer2peerlibrary.Peer2PeerLibraryContractRequest[39m[33m"[39m[33m,[39m
     [33m"[39m[32mexceptionCase[39m[33m"[39m[33m: [39m[31mfalse[39m[33m,[39m
     [33m"[39m[32magreedReturn[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-09-13T23:59:59-00:00[39m[33m"[39m[33m,[39m
     [33m"[39m[32mreturnedOn[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-10-15T23:59:59-00:00[39m[33m"[39m[33m,[39m
     [33m"[39m[32mitemValue[39m[33m"[39m[33m: [39m[36m42.99[39m
   [33m}[39m[33m,[39m
   [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
-    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContractResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.peer2peerlibrary.Peer2PeerLibraryContractResponse[39m[33m"[39m[33m,[39m
     [33m"[39m[32mfine[39m[33m"[39m[33m: [39m[36m8[39m[33m,[39m
     [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35mfabe5ebe-46a2-40c0-a3b5-0da9429ce6cd[39m[33m"[39m[33m,[39m
     [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-10-22T13:44:41.395Z[39m[33m"[39m
@@ -1757,7 +1757,7 @@
         [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
       [33m}[39m[33m,[39m
       [33m"[39m[32mdescription[39m[33m"[39m[33m: [39m[33m"[39m[35mPaul Power should pay fine amount to Rush Library[39m[33m"[39m[33m,[39m
-      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.dublincoco.libraries.contracts.latereturns.LateReturnsContract#c65d451b-6f9e-440b-80e2-5c2af795f8bc[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract#c65d451b-6f9e-440b-80e2-5c2af795f8bc[39m[33m"[39m[33m,[39m
       [33m"[39m[32mpromisor[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Rush%20Library[39m[33m"[39m[33m,[39m
       [33m"[39m[32mpromisee[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Paul%20Power[39m[33m"[39m[33m,[39m
       [33m"[39m[32meventId[39m[33m"[39m[33m: [39m[33m"[39m[35mvalid[39m[33m"[39m[33m,[39m
@@ -1804,10 +1804,10 @@
 2:59:09 PM - [34mdebug[39m: loadFilesContents
 2:59:09 PM - [34mdebug[39m: loadFileContents
 2:59:09 PM - [34mdebug[39m: loadFilesContents
-2:59:10 PM - [34mdebug[39m: Setting clause data: {"$class":"org.dublincoco.libraries.contracts.latereturns.LateReturnsContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"98ccc55f-3404-48ca-8c72-411537006f68"}
+2:59:10 PM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"98ccc55f-3404-48ca-8c72-411537006f68"}
 2:59:10 PM - [32minfo[39m:
 [33m{[39m
-  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.peer2peerlibrary.Peer2PeerLibraryContract[39m[33m"[39m[33m,[39m
   [33m"[39m[32mborrower[39m[33m"[39m[33m: [39m[33m{[39m
     [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
     [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mPaul Power[39m[33m"[39m
@@ -1866,10 +1866,10 @@
 10:38:56 PM - [34mdebug[39m: loadFilesContents
 10:38:56 PM - [34mdebug[39m: loadFileContents
 10:38:56 PM - [34mdebug[39m: loadFilesContents
-10:38:57 PM - [34mdebug[39m: Setting clause data: {"$class":"org.dublincoco.libraries.contracts.latereturns.LateReturnsContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"7ae7b58e-d8a3-4875-9bf1-dad33c046c90"}
+10:38:57 PM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"7ae7b58e-d8a3-4875-9bf1-dad33c046c90"}
 10:38:57 PM - [32minfo[39m:
 [33m{[39m
-  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.peer2peerlibrary.Peer2PeerLibraryContract[39m[33m"[39m[33m,[39m
   [33m"[39m[32mborrower[39m[33m"[39m[33m: [39m[33m{[39m
     [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
     [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mPaul Power[39m[33m"[39m
@@ -1930,22 +1930,22 @@
 10:39:28 PM - [34mdebug[39m: loadFilesContents
 10:39:28 PM - [34mdebug[39m: loadFileContents
 10:39:28 PM - [34mdebug[39m: loadFilesContents
-10:39:29 PM - [34mdebug[39m: Setting clause data: {"$class":"org.dublincoco.libraries.contracts.latereturns.LateReturnsContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"ba1f26a0-52ec-465c-840f-091debb0a1be"}
+10:39:29 PM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"ba1f26a0-52ec-465c-840f-091debb0a1be"}
 10:39:29 PM - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
 10:39:29 PM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
-10:39:29 PM - [34mdebug[39m: Engine processing request org.dublincoco.libraries.contracts.latereturns.LateReturnsContractRequest with state org.accordproject.cicero.contract.AccordContractState
+10:39:29 PM - [34mdebug[39m: Engine processing request me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractRequest with state org.accordproject.cicero.contract.AccordContractState
 10:39:29 PM - [32minfo[39m:
 [33m{[39m
-  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mlatereturns@1.0-36a456335cb3faec6bfd71bfeeca043aeedb72625ae8d39df39622c4b4eef8b6[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mpeer2peerlibrary@1.0-36a456335cb3faec6bfd71bfeeca043aeedb72625ae8d39df39622c4b4eef8b6[39m[33m"[39m[33m,[39m
   [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
-    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContractRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.peer2peerlibrary.Peer2PeerLibraryContractRequest[39m[33m"[39m[33m,[39m
     [33m"[39m[32mexceptionCase[39m[33m"[39m[33m: [39m[31mfalse[39m[33m,[39m
     [33m"[39m[32magreedReturn[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-09-13T23:59:59-00:00[39m[33m"[39m[33m,[39m
     [33m"[39m[32mreturnedOn[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-10-15T23:59:59-00:00[39m[33m"[39m[33m,[39m
     [33m"[39m[32mitemValue[39m[33m"[39m[33m: [39m[36m42.99[39m
   [33m}[39m[33m,[39m
   [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
-    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContractResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.peer2peerlibrary.Peer2PeerLibraryContractResponse[39m[33m"[39m[33m,[39m
     [33m"[39m[32mfine[39m[33m"[39m[33m: [39m[36m8[39m[33m,[39m
     [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35m3b15aec2-749e-4bcd-98f9-ddb8a62b10bd[39m[33m"[39m[33m,[39m
     [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-10-22T21:39:29.732Z[39m[33m"[39m
@@ -1963,7 +1963,7 @@
         [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
       [33m}[39m[33m,[39m
       [33m"[39m[32mdescription[39m[33m"[39m[33m: [39m[33m"[39m[35mPaul Power should pay fine amount to Rush Library[39m[33m"[39m[33m,[39m
-      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.dublincoco.libraries.contracts.latereturns.LateReturnsContract#ba1f26a0-52ec-465c-840f-091debb0a1be[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract#ba1f26a0-52ec-465c-840f-091debb0a1be[39m[33m"[39m[33m,[39m
       [33m"[39m[32mpromisor[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Rush%20Library[39m[33m"[39m[33m,[39m
       [33m"[39m[32mpromisee[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Paul%20Power[39m[33m"[39m[33m,[39m
       [33m"[39m[32meventId[39m[33m"[39m[33m: [39m[33m"[39m[35mvalid[39m[33m"[39m[33m,[39m
@@ -2011,10 +2011,10 @@
 8:34:03 AM - [34mdebug[39m: loadFilesContents
 8:34:03 AM - [34mdebug[39m: loadFileContents
 8:34:03 AM - [34mdebug[39m: loadFilesContents
-8:34:04 AM - [34mdebug[39m: Setting clause data: {"$class":"org.dublincoco.libraries.contracts.latereturns.LateReturnsContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"itemName":"The Da Vinci Code","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"e7420280-9bd5-4988-bae9-44d7ec756d87"}
+8:34:04 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"itemName":"The Da Vinci Code","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"e7420280-9bd5-4988-bae9-44d7ec756d87"}
 8:34:04 AM - [32minfo[39m:
 [33m{[39m
-  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.peer2peerlibrary.Peer2PeerLibraryContract[39m[33m"[39m[33m,[39m
   [33m"[39m[32mborrower[39m[33m"[39m[33m: [39m[33m{[39m
     [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
     [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mAlan O'Neill[39m[33m"[39m
@@ -2077,15 +2077,15 @@
 8:34:20 AM - [34mdebug[39m: loadFilesContents
 8:34:20 AM - [34mdebug[39m: loadFileContents
 8:34:20 AM - [34mdebug[39m: loadFilesContents
-8:34:21 AM - [34mdebug[39m: Setting clause data: {"$class":"org.dublincoco.libraries.contracts.latereturns.LateReturnsContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"itemName":"The Da Vinci Code","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"6d4a2dac-de55-475b-8f6f-cc678aa2a9b6"}
+8:34:21 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"itemName":"The Da Vinci Code","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"6d4a2dac-de55-475b-8f6f-cc678aa2a9b6"}
 8:34:21 AM - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
 8:34:21 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
-8:34:21 AM - [34mdebug[39m: Engine processing request org.dublincoco.libraries.contracts.latereturns.LateReturnsContractRequest with state org.accordproject.cicero.contract.AccordContractState
+8:34:21 AM - [34mdebug[39m: Engine processing request me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractRequest with state org.accordproject.cicero.contract.AccordContractState
 8:34:21 AM - [32minfo[39m:
 [33m{[39m
-  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mlatereturns@1.0.0-77e4ec6b210789ad218f0675bf1f711fc3edd0e121b185f60d4e3cd2cb869fc6[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mpeer2peerlibrary@1.0.0-77e4ec6b210789ad218f0675bf1f711fc3edd0e121b185f60d4e3cd2cb869fc6[39m[33m"[39m[33m,[39m
   [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
-    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContractRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.peer2peerlibrary.Peer2PeerLibraryContractRequest[39m[33m"[39m[33m,[39m
     [33m"[39m[32mitemName[39m[33m"[39m[33m: [39m[33m"[39m[35mThe Da Vinci Code[39m[33m"[39m[33m,[39m
     [33m"[39m[32mexceptionCase[39m[33m"[39m[33m: [39m[31mfalse[39m[33m,[39m
     [33m"[39m[32magreedReturn[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-09-13T23:59:59-00:00[39m[33m"[39m[33m,[39m
@@ -2093,7 +2093,7 @@
     [33m"[39m[32mitemValue[39m[33m"[39m[33m: [39m[36m24.99[39m
   [33m}[39m[33m,[39m
   [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
-    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContractResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.peer2peerlibrary.Peer2PeerLibraryContractResponse[39m[33m"[39m[33m,[39m
     [33m"[39m[32mitemName[39m[33m"[39m[33m: [39m[33m"[39m[35mThe Da Vinci Code[39m[33m"[39m[33m,[39m
     [33m"[39m[32mfine[39m[33m"[39m[33m: [39m[36m8[39m[33m,[39m
     [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35mac629434-fbac-460f-9d44-e15f7080d421[39m[33m"[39m[33m,[39m
@@ -2112,7 +2112,7 @@
         [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
       [33m}[39m[33m,[39m
       [33m"[39m[32mdescription[39m[33m"[39m[33m: [39m[33m"[39m[35mAlan O'Neill should pay fine amount to Rush Library for the late return of The Da Vinci Code[39m[33m"[39m[33m,[39m
-      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.dublincoco.libraries.contracts.latereturns.LateReturnsContract#6d4a2dac-de55-475b-8f6f-cc678aa2a9b6[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract#6d4a2dac-de55-475b-8f6f-cc678aa2a9b6[39m[33m"[39m[33m,[39m
       [33m"[39m[32mpromisor[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Rush%20Library[39m[33m"[39m[33m,[39m
       [33m"[39m[32mpromisee[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Alan%20O'Neill[39m[33m"[39m[33m,[39m
       [33m"[39m[32meventId[39m[33m"[39m[33m: [39m[33m"[39m[35mvalid[39m[33m"[39m[33m,[39m
@@ -2160,8 +2160,8 @@
 8:36:48 AM - [34mdebug[39m: loadFilesContents
 8:36:48 AM - [34mdebug[39m: loadFileContents
 8:36:48 AM - [34mdebug[39m: loadFilesContents
-8:36:49 AM - [31merror[39m: Type error (at file logic/logic.ergo line 30 col 11). Unknown field `counter' in type `LateReturnsContractResponse'
-    return LateReturnsContractResponse{
+8:36:49 AM - [31merror[39m: Type error (at file logic/logic.ergo line 30 col 11). Unknown field `counter' in type `Peer2PeerLibraryContractResponse'
+    return Peer2PeerLibraryContractResponse{
                                        
 8:37:48 AM - [32minfo[39m: Using current directory as template folder
 8:37:48 AM - [34mdebug[39m: loadFileContents
@@ -2246,10 +2246,10 @@
 8:41:38 AM - [34mdebug[39m: loadFilesContents
 8:41:38 AM - [34mdebug[39m: loadFileContents
 8:41:38 AM - [34mdebug[39m: loadFilesContents
-8:41:39 AM - [34mdebug[39m: Setting clause data: {"$class":"org.dublincoco.libraries.contracts.latereturns.LateReturnsContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"itemName":"The Da Vinci Code","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"872bd59f-83b8-468c-b75a-0a2d9046f8eb"}
+8:41:39 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"itemName":"The Da Vinci Code","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"872bd59f-83b8-468c-b75a-0a2d9046f8eb"}
 8:41:39 AM - [32minfo[39m:
 [33m{[39m
-  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.peer2peerlibrary.Peer2PeerLibraryContract[39m[33m"[39m[33m,[39m
   [33m"[39m[32mborrower[39m[33m"[39m[33m: [39m[33m{[39m
     [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
     [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mAlan O'Neill[39m[33m"[39m
@@ -2312,15 +2312,15 @@
 8:42:59 AM - [34mdebug[39m: loadFilesContents
 8:42:59 AM - [34mdebug[39m: loadFileContents
 8:42:59 AM - [34mdebug[39m: loadFilesContents
-8:43:00 AM - [34mdebug[39m: Setting clause data: {"$class":"org.dublincoco.libraries.contracts.latereturns.LateReturnsContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"itemName":"The Da Vinci Code","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"09c7c737-c444-4ac3-9809-5661c27b6b35"}
+8:43:00 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"itemName":"The Da Vinci Code","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"09c7c737-c444-4ac3-9809-5661c27b6b35"}
 8:43:00 AM - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
 8:43:00 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
-8:43:00 AM - [34mdebug[39m: Engine processing request org.dublincoco.libraries.contracts.latereturns.LateReturnsContractRequest with state org.accordproject.cicero.contract.AccordContractState
+8:43:00 AM - [34mdebug[39m: Engine processing request me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractRequest with state org.accordproject.cicero.contract.AccordContractState
 8:43:00 AM - [32minfo[39m:
 [33m{[39m
-  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mlatereturns@1.0.0-1d747929414c2dd8e43c3489c09cd7f0e67bdadd57bfd170365e7a9881b43204[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mpeer2peerlibrary@1.0.0-1d747929414c2dd8e43c3489c09cd7f0e67bdadd57bfd170365e7a9881b43204[39m[33m"[39m[33m,[39m
   [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
-    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContractRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.peer2peerlibrary.Peer2PeerLibraryContractRequest[39m[33m"[39m[33m,[39m
     [33m"[39m[32mitemName[39m[33m"[39m[33m: [39m[33m"[39m[35mThe Da Vinci Code[39m[33m"[39m[33m,[39m
     [33m"[39m[32mexceptionCase[39m[33m"[39m[33m: [39m[31mfalse[39m[33m,[39m
     [33m"[39m[32magreedReturn[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-09-13T23:59:59-00:00[39m[33m"[39m[33m,[39m
@@ -2328,17 +2328,17 @@
     [33m"[39m[32mitemValue[39m[33m"[39m[33m: [39m[36m24.99[39m
   [33m}[39m[33m,[39m
   [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
-    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContractResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.peer2peerlibrary.Peer2PeerLibraryContractResponse[39m[33m"[39m[33m,[39m
     [33m"[39m[32mitemName[39m[33m"[39m[33m: [39m[33m"[39m[35mThe Da Vinci Code[39m[33m"[39m[33m,[39m
     [33m"[39m[32mfine[39m[33m"[39m[33m: [39m[36m8[39m[33m,[39m
     [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35m6806ce78-83a5-4946-b602-316d0e13c7e7[39m[33m"[39m[33m,[39m
     [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-10-28T08:43:00.982Z[39m[33m"[39m
   [33m}[39m[33m,[39m
   [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
-    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.peer2peerlibrary.Peer2PeerLibraryContractState[39m[33m"[39m[33m,[39m
     [33m"[39m[32mcounter[39m[33m"[39m[33m: [39m[36m1[39m[33m,[39m
     [33m"[39m[32mfinesBalance[39m[33m"[39m[33m: [39m[36m8[39m[33m,[39m
-    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContractState#null[39m[33m"[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.peer2peerlibrary.Peer2PeerLibraryContractState#null[39m[33m"[39m
   [33m}[39m[33m,[39m
   [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m
     [33m{[39m
@@ -2349,7 +2349,7 @@
         [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
       [33m}[39m[33m,[39m
       [33m"[39m[32mdescription[39m[33m"[39m[33m: [39m[33m"[39m[35mAlan O'Neill should pay fine amount to Rush Library for the late return of The Da Vinci Code[39m[33m"[39m[33m,[39m
-      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.dublincoco.libraries.contracts.latereturns.LateReturnsContract#09c7c737-c444-4ac3-9809-5661c27b6b35[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract#09c7c737-c444-4ac3-9809-5661c27b6b35[39m[33m"[39m[33m,[39m
       [33m"[39m[32mpromisor[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Rush%20Library[39m[33m"[39m[33m,[39m
       [33m"[39m[32mpromisee[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Alan%20O'Neill[39m[33m"[39m[33m,[39m
       [33m"[39m[32meventId[39m[33m"[39m[33m: [39m[33m"[39m[35mvalid[39m[33m"[39m[33m,[39m
@@ -2399,15 +2399,15 @@
 8:43:12 AM - [34mdebug[39m: loadFilesContents
 8:43:12 AM - [34mdebug[39m: loadFileContents
 8:43:12 AM - [34mdebug[39m: loadFilesContents
-8:43:13 AM - [34mdebug[39m: Setting clause data: {"$class":"org.dublincoco.libraries.contracts.latereturns.LateReturnsContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"itemName":"The Da Vinci Code","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"1b74d546-30e8-49e3-8b56-c1f9521cd325"}
+8:43:13 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"itemName":"The Da Vinci Code","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"1b74d546-30e8-49e3-8b56-c1f9521cd325"}
 8:43:13 AM - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
 8:43:13 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
-8:43:13 AM - [34mdebug[39m: Engine processing request org.dublincoco.libraries.contracts.latereturns.LateReturnsContractRequest with state org.accordproject.cicero.contract.AccordContractState
+8:43:13 AM - [34mdebug[39m: Engine processing request me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractRequest with state org.accordproject.cicero.contract.AccordContractState
 8:43:13 AM - [32minfo[39m:
 [33m{[39m
-  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mlatereturns@1.0.0-209136bfb84c095c74cb7c416734017c16ef21f8e395d657979413829d976e1a[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mpeer2peerlibrary@1.0.0-209136bfb84c095c74cb7c416734017c16ef21f8e395d657979413829d976e1a[39m[33m"[39m[33m,[39m
   [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
-    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContractRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.peer2peerlibrary.Peer2PeerLibraryContractRequest[39m[33m"[39m[33m,[39m
     [33m"[39m[32mitemName[39m[33m"[39m[33m: [39m[33m"[39m[35mThe Da Vinci Code[39m[33m"[39m[33m,[39m
     [33m"[39m[32mexceptionCase[39m[33m"[39m[33m: [39m[31mfalse[39m[33m,[39m
     [33m"[39m[32magreedReturn[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-09-13T23:59:59-00:00[39m[33m"[39m[33m,[39m
@@ -2415,17 +2415,17 @@
     [33m"[39m[32mitemValue[39m[33m"[39m[33m: [39m[36m24.99[39m
   [33m}[39m[33m,[39m
   [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
-    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContractResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.peer2peerlibrary.Peer2PeerLibraryContractResponse[39m[33m"[39m[33m,[39m
     [33m"[39m[32mitemName[39m[33m"[39m[33m: [39m[33m"[39m[35mThe Da Vinci Code[39m[33m"[39m[33m,[39m
     [33m"[39m[32mfine[39m[33m"[39m[33m: [39m[36m8[39m[33m,[39m
     [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35maaa57778-14a8-41b2-a44c-a8083f8c8476[39m[33m"[39m[33m,[39m
     [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-10-28T08:43:13.722Z[39m[33m"[39m
   [33m}[39m[33m,[39m
   [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
-    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.peer2peerlibrary.Peer2PeerLibraryContractState[39m[33m"[39m[33m,[39m
     [33m"[39m[32mcounter[39m[33m"[39m[33m: [39m[36m1[39m[33m,[39m
     [33m"[39m[32mfinesBalance[39m[33m"[39m[33m: [39m[36m8[39m[33m,[39m
-    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContractState#null[39m[33m"[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.peer2peerlibrary.Peer2PeerLibraryContractState#null[39m[33m"[39m
   [33m}[39m[33m,[39m
   [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m
     [33m{[39m
@@ -2436,7 +2436,7 @@
         [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
       [33m}[39m[33m,[39m
       [33m"[39m[32mdescription[39m[33m"[39m[33m: [39m[33m"[39m[35mAlan O'Neill should pay fine amount to Rush Library for the late return of The Da Vinci Code[39m[33m"[39m[33m,[39m
-      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.dublincoco.libraries.contracts.latereturns.LateReturnsContract#1b74d546-30e8-49e3-8b56-c1f9521cd325[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract#1b74d546-30e8-49e3-8b56-c1f9521cd325[39m[33m"[39m[33m,[39m
       [33m"[39m[32mpromisor[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Rush%20Library[39m[33m"[39m[33m,[39m
       [33m"[39m[32mpromisee[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Alan%20O'Neill[39m[33m"[39m[33m,[39m
       [33m"[39m[32meventId[39m[33m"[39m[33m: [39m[33m"[39m[35mvalid[39m[33m"[39m[33m,[39m
@@ -2484,10 +2484,10 @@
 8:45:20 AM - [34mdebug[39m: loadFilesContents
 8:45:20 AM - [34mdebug[39m: loadFileContents
 8:45:20 AM - [34mdebug[39m: loadFilesContents
-8:45:21 AM - [34mdebug[39m: Setting clause data: {"$class":"org.dublincoco.libraries.contracts.latereturns.LateReturnsContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"itemName":"The Da Vinci Code","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"fb0da0b6-b06f-49ac-9796-241202089ca0"}
+8:45:21 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"itemName":"The Da Vinci Code","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"fb0da0b6-b06f-49ac-9796-241202089ca0"}
 8:45:21 AM - [32minfo[39m:
 [33m{[39m
-  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.peer2peerlibrary.Peer2PeerLibraryContract[39m[33m"[39m[33m,[39m
   [33m"[39m[32mborrower[39m[33m"[39m[33m: [39m[33m{[39m
     [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
     [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mAlan O'Neill[39m[33m"[39m
@@ -2550,15 +2550,15 @@
 8:45:25 AM - [34mdebug[39m: loadFilesContents
 8:45:25 AM - [34mdebug[39m: loadFileContents
 8:45:25 AM - [34mdebug[39m: loadFilesContents
-8:45:26 AM - [34mdebug[39m: Setting clause data: {"$class":"org.dublincoco.libraries.contracts.latereturns.LateReturnsContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"itemName":"The Da Vinci Code","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"a9206498-c9e4-461c-9935-991ffa2a4d80"}
+8:45:26 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"itemName":"The Da Vinci Code","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"a9206498-c9e4-461c-9935-991ffa2a4d80"}
 8:45:26 AM - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
 8:45:26 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
-8:45:26 AM - [34mdebug[39m: Engine processing request org.dublincoco.libraries.contracts.latereturns.LateReturnsContractRequest with state org.accordproject.cicero.contract.AccordContractState
+8:45:26 AM - [34mdebug[39m: Engine processing request me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractRequest with state org.accordproject.cicero.contract.AccordContractState
 8:45:26 AM - [32minfo[39m:
 [33m{[39m
-  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mlatereturns@1.0.0-bc8b4688cd369aff0d665ca1aace7dc02c7382431e1fcccc82331e087fa1b971[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mpeer2peerlibrary@1.0.0-bc8b4688cd369aff0d665ca1aace7dc02c7382431e1fcccc82331e087fa1b971[39m[33m"[39m[33m,[39m
   [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
-    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContractRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.peer2peerlibrary.Peer2PeerLibraryContractRequest[39m[33m"[39m[33m,[39m
     [33m"[39m[32mitemName[39m[33m"[39m[33m: [39m[33m"[39m[35mThe Da Vinci Code[39m[33m"[39m[33m,[39m
     [33m"[39m[32mexceptionCase[39m[33m"[39m[33m: [39m[31mfalse[39m[33m,[39m
     [33m"[39m[32magreedReturn[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-09-13T23:59:59-00:00[39m[33m"[39m[33m,[39m
@@ -2566,17 +2566,17 @@
     [33m"[39m[32mitemValue[39m[33m"[39m[33m: [39m[36m24.99[39m
   [33m}[39m[33m,[39m
   [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
-    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContractResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.peer2peerlibrary.Peer2PeerLibraryContractResponse[39m[33m"[39m[33m,[39m
     [33m"[39m[32mitemName[39m[33m"[39m[33m: [39m[33m"[39m[35mThe Da Vinci Code[39m[33m"[39m[33m,[39m
     [33m"[39m[32mfine[39m[33m"[39m[33m: [39m[36m8[39m[33m,[39m
     [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35md8036f60-8457-4fe2-8f16-073812400e17[39m[33m"[39m[33m,[39m
     [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-10-28T08:45:26.979Z[39m[33m"[39m
   [33m}[39m[33m,[39m
   [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
-    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.peer2peerlibrary.Peer2PeerLibraryContractState[39m[33m"[39m[33m,[39m
     [33m"[39m[32mcounter[39m[33m"[39m[33m: [39m[36m1[39m[33m,[39m
     [33m"[39m[32mfinesBalance[39m[33m"[39m[33m: [39m[36m8[39m[33m,[39m
-    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContractState#null[39m[33m"[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.peer2peerlibrary.Peer2PeerLibraryContractState#null[39m[33m"[39m
   [33m}[39m[33m,[39m
   [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m
     [33m{[39m
@@ -2587,7 +2587,7 @@
         [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
       [33m}[39m[33m,[39m
       [33m"[39m[32mdescription[39m[33m"[39m[33m: [39m[33m"[39m[35mAlan O'Neill should pay fine amount to Rush Library for the late return of The Da Vinci Code[39m[33m"[39m[33m,[39m
-      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.dublincoco.libraries.contracts.latereturns.LateReturnsContract#a9206498-c9e4-461c-9935-991ffa2a4d80[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract#a9206498-c9e4-461c-9935-991ffa2a4d80[39m[33m"[39m[33m,[39m
       [33m"[39m[32mpromisor[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Rush%20Library[39m[33m"[39m[33m,[39m
       [33m"[39m[32mpromisee[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Alan%20O'Neill[39m[33m"[39m[33m,[39m
       [33m"[39m[32meventId[39m[33m"[39m[33m: [39m[33m"[39m[35mvalid[39m[33m"[39m[33m,[39m
@@ -2637,15 +2637,15 @@
 8:46:28 AM - [34mdebug[39m: loadFilesContents
 8:46:28 AM - [34mdebug[39m: loadFileContents
 8:46:28 AM - [34mdebug[39m: loadFilesContents
-8:46:29 AM - [34mdebug[39m: Setting clause data: {"$class":"org.dublincoco.libraries.contracts.latereturns.LateReturnsContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"itemName":"The Da Vinci Code","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"e2ec2ea8-972b-4674-85ad-87baa649f0bf"}
+8:46:29 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"itemName":"The Da Vinci Code","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"e2ec2ea8-972b-4674-85ad-87baa649f0bf"}
 8:46:29 AM - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
 8:46:29 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
-8:46:29 AM - [34mdebug[39m: Engine processing request org.dublincoco.libraries.contracts.latereturns.LateReturnsContractRequest with state org.accordproject.cicero.contract.AccordContractState
+8:46:29 AM - [34mdebug[39m: Engine processing request me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractRequest with state org.accordproject.cicero.contract.AccordContractState
 8:46:29 AM - [32minfo[39m:
 [33m{[39m
-  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mlatereturns@1.0.0-0551adbae88565493a64f17732ee20b82b423f23b757001af6a6a9c0fec88fc6[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mpeer2peerlibrary@1.0.0-0551adbae88565493a64f17732ee20b82b423f23b757001af6a6a9c0fec88fc6[39m[33m"[39m[33m,[39m
   [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
-    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContractRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.peer2peerlibrary.Peer2PeerLibraryContractRequest[39m[33m"[39m[33m,[39m
     [33m"[39m[32mitemName[39m[33m"[39m[33m: [39m[33m"[39m[35mThe Da Vinci Code[39m[33m"[39m[33m,[39m
     [33m"[39m[32mexceptionCase[39m[33m"[39m[33m: [39m[31mfalse[39m[33m,[39m
     [33m"[39m[32magreedReturn[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-09-13T23:59:59-00:00[39m[33m"[39m[33m,[39m
@@ -2653,17 +2653,17 @@
     [33m"[39m[32mitemValue[39m[33m"[39m[33m: [39m[36m24.99[39m
   [33m}[39m[33m,[39m
   [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
-    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContractResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.peer2peerlibrary.Peer2PeerLibraryContractResponse[39m[33m"[39m[33m,[39m
     [33m"[39m[32mitemName[39m[33m"[39m[33m: [39m[33m"[39m[35mThe Da Vinci Code[39m[33m"[39m[33m,[39m
     [33m"[39m[32mfine[39m[33m"[39m[33m: [39m[36m8[39m[33m,[39m
     [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35mfcadef32-55a9-4ed7-8690-fcadbf2d7f30[39m[33m"[39m[33m,[39m
     [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-10-28T08:46:29.520Z[39m[33m"[39m
   [33m}[39m[33m,[39m
   [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
-    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.peer2peerlibrary.Peer2PeerLibraryContractState[39m[33m"[39m[33m,[39m
     [33m"[39m[32mcounter[39m[33m"[39m[33m: [39m[36m1[39m[33m,[39m
     [33m"[39m[32mfinesBalance[39m[33m"[39m[33m: [39m[36m8[39m[33m,[39m
-    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContractState#null[39m[33m"[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.peer2peerlibrary.Peer2PeerLibraryContractState#null[39m[33m"[39m
   [33m}[39m[33m,[39m
   [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m
     [33m{[39m
@@ -2674,7 +2674,7 @@
         [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
       [33m}[39m[33m,[39m
       [33m"[39m[32mdescription[39m[33m"[39m[33m: [39m[33m"[39m[35mAlan O'Neill should pay fine amount to Rush Library for the late return of The Da Vinci Code[39m[33m"[39m[33m,[39m
-      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.dublincoco.libraries.contracts.latereturns.LateReturnsContract#e2ec2ea8-972b-4674-85ad-87baa649f0bf[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract#e2ec2ea8-972b-4674-85ad-87baa649f0bf[39m[33m"[39m[33m,[39m
       [33m"[39m[32mpromisor[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Rush%20Library[39m[33m"[39m[33m,[39m
       [33m"[39m[32mpromisee[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Alan%20O'Neill[39m[33m"[39m[33m,[39m
       [33m"[39m[32meventId[39m[33m"[39m[33m: [39m[33m"[39m[35mvalid[39m[33m"[39m[33m,[39m
@@ -2724,13 +2724,13 @@
 8:46:55 AM - [34mdebug[39m: loadFilesContents
 8:46:55 AM - [34mdebug[39m: loadFileContents
 8:46:55 AM - [34mdebug[39m: loadFilesContents
-8:46:56 AM - [34mdebug[39m: Setting clause data: {"$class":"org.dublincoco.libraries.contracts.latereturns.LateReturnsContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"itemName":"The Da Vinci Code","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"3dd298c7-54aa-477d-9df1-e48392deddd3"}
-8:46:56 AM - [34mdebug[39m: Engine processing request org.dublincoco.libraries.contracts.latereturns.LateReturnsContractRequest with state org.dublincoco.libraries.contracts.latereturns.LateReturnsContractState
+8:46:56 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"itemName":"The Da Vinci Code","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"3dd298c7-54aa-477d-9df1-e48392deddd3"}
+8:46:56 AM - [34mdebug[39m: Engine processing request me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractRequest with state me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractState
 8:46:56 AM - [32minfo[39m:
 [33m{[39m
-  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mlatereturns@1.0.0-c1f065c7b37a152bcd4e1bc935c51be0d9b5ffa857c70e9d9c4a2b0214989706[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mpeer2peerlibrary@1.0.0-c1f065c7b37a152bcd4e1bc935c51be0d9b5ffa857c70e9d9c4a2b0214989706[39m[33m"[39m[33m,[39m
   [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
-    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContractRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.peer2peerlibrary.Peer2PeerLibraryContractRequest[39m[33m"[39m[33m,[39m
     [33m"[39m[32mitemName[39m[33m"[39m[33m: [39m[33m"[39m[35mThe Da Vinci Code[39m[33m"[39m[33m,[39m
     [33m"[39m[32mexceptionCase[39m[33m"[39m[33m: [39m[31mfalse[39m[33m,[39m
     [33m"[39m[32magreedReturn[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-09-13T23:59:59-00:00[39m[33m"[39m[33m,[39m
@@ -2738,17 +2738,17 @@
     [33m"[39m[32mitemValue[39m[33m"[39m[33m: [39m[36m24.99[39m
   [33m}[39m[33m,[39m
   [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
-    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContractResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.peer2peerlibrary.Peer2PeerLibraryContractResponse[39m[33m"[39m[33m,[39m
     [33m"[39m[32mitemName[39m[33m"[39m[33m: [39m[33m"[39m[35mThe Da Vinci Code[39m[33m"[39m[33m,[39m
     [33m"[39m[32mfine[39m[33m"[39m[33m: [39m[36m8[39m[33m,[39m
     [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35mf422b6b3-ecd1-4378-9621-7bbd9756fa0a[39m[33m"[39m[33m,[39m
     [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-10-28T08:46:56.227Z[39m[33m"[39m
   [33m}[39m[33m,[39m
   [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
-    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.peer2peerlibrary.Peer2PeerLibraryContractState[39m[33m"[39m[33m,[39m
     [33m"[39m[32mcounter[39m[33m"[39m[33m: [39m[36m1[39m[33m,[39m
     [33m"[39m[32mfinesBalance[39m[33m"[39m[33m: [39m[36m8[39m[33m,[39m
-    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.latereturns.LateReturnsContractState#0.0[39m[33m"[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.dublincoco.libraries.contracts.peer2peerlibrary.Peer2PeerLibraryContractState#0.0[39m[33m"[39m
   [33m}[39m[33m,[39m
   [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m
     [33m{[39m
@@ -2759,11 +2759,946 @@
         [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
       [33m}[39m[33m,[39m
       [33m"[39m[32mdescription[39m[33m"[39m[33m: [39m[33m"[39m[35mAlan O'Neill should pay fine amount to Rush Library for the late return of The Da Vinci Code[39m[33m"[39m[33m,[39m
-      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.dublincoco.libraries.contracts.latereturns.LateReturnsContract#3dd298c7-54aa-477d-9df1-e48392deddd3[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract#3dd298c7-54aa-477d-9df1-e48392deddd3[39m[33m"[39m[33m,[39m
       [33m"[39m[32mpromisor[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Rush%20Library[39m[33m"[39m[33m,[39m
       [33m"[39m[32mpromisee[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Alan%20O'Neill[39m[33m"[39m[33m,[39m
       [33m"[39m[32meventId[39m[33m"[39m[33m: [39m[33m"[39m[35mvalid[39m[33m"[39m[33m,[39m
       [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-10-28T08:46:56.228Z[39m[33m"[39m
+    [33m}[39m
+  [33m][39m
+[33m}[39m
+11:44:39 AM - [32minfo[39m: Using current directory as template folder
+11:44:39 AM - [34mdebug[39m: loadFileContents
+11:44:39 AM - [34mdebug[39m: loadFileBuffer
+11:44:39 AM - [34mdebug[39m: loadFileContents
+11:44:39 AM - [34mdebug[39m: loadFileContents
+11:44:39 AM - [34mdebug[39m: fromDirectory
+11:44:39 AM - [34mdebug[39m: loadFilesContents
+11:44:39 AM - [34mdebug[39m: loadFilesContents
+11:44:39 AM - [34mdebug[39m: loadFilesContents
+11:44:39 AM - [34mdebug[39m: loadFilesContents
+11:44:39 AM - [34mdebug[39m: loadFilesContents
+11:44:39 AM - [34mdebug[39m: loadFilesContents
+11:44:39 AM - [34mdebug[39m: loadFilesContents
+11:44:39 AM - [34mdebug[39m: loadFileContents
+11:44:39 AM - [34mdebug[39m: fromDirectory
+11:44:39 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+11:44:39 AM - [34mdebug[39m: loadFilesContents
+11:44:39 AM - [34mdebug[39m: loadFilesContents
+11:44:39 AM - [34mdebug[39m: loadFilesContents
+11:44:39 AM - [34mdebug[39m: loadFilesContents
+11:44:39 AM - [34mdebug[39m: loadFilesContents
+11:44:39 AM - [34mdebug[39m: loadFilesContents
+11:44:39 AM - [34mdebug[39m: loadFileContents
+11:44:39 AM - [34mdebug[39m: loadFileContents
+11:44:39 AM - [34mdebug[39m: loadFileContents
+11:44:39 AM - [34mdebug[39m: loadFileContents
+11:44:39 AM - [34mdebug[39m: loadFileContents
+11:44:39 AM - [34mdebug[39m: loadFilesContents
+11:44:41 AM - [34mdebug[39m: fromDirectory
+11:44:41 AM - [34mdebug[39m: loadFileContents
+11:44:41 AM - [34mdebug[39m: fromDirectory
+11:44:41 AM - [34mdebug[39m: fromDirectory
+11:44:41 AM - [34mdebug[39m: loadFilesContents
+11:44:41 AM - [34mdebug[39m: loadFilesContents
+11:44:41 AM - [34mdebug[39m: loadFilesContents
+11:44:41 AM - [34mdebug[39m: loadFilesContents
+11:44:41 AM - [34mdebug[39m: loadFilesContents
+11:44:41 AM - [34mdebug[39m: loadFilesContents
+11:44:41 AM - [34mdebug[39m: loadFileContents
+11:44:41 AM - [34mdebug[39m: loadFilesContents
+11:44:42 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rush Library"},"itemName":"The Da Vinci Code","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"437e2ecb-8bfb-414c-8ace-d576cf7e086c"}
+11:44:42 AM - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35mme.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mborrower[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mAlan O'Neill[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mlender[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mRush Library[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mitemName[39m[33m"[39m[33m: [39m[33m"[39m[35mThe Da Vinci Code[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mexceptionCase[39m[33m"[39m[33m: [39m[31mtrue[39m[33m,[39m
+  [33m"[39m[32mfineDuration[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.time.Duration[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[36m1[39m[33m,[39m
+    [33m"[39m[32munit[39m[33m"[39m[33m: [39m[33m"[39m[35mdays[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mfineAmount[39m[33m"[39m[33m: [39m[36m0.25[39m[33m,[39m
+  [33m"[39m[32mcapPercentage[39m[33m"[39m[33m: [39m[36m50[39m[33m,[39m
+  [33m"[39m[32mfractionalPart[39m[33m"[39m[33m: [39m[33m"[39m[35mdays[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mcontractId[39m[33m"[39m[33m: [39m[33m"[39m[35m437e2ecb-8bfb-414c-8ace-d576cf7e086c[39m[33m"[39m
+[33m}[39m
+11:48:40 AM - [32minfo[39m: Using current directory as template folder
+11:48:40 AM - [34mdebug[39m: loadFileContents
+11:48:40 AM - [34mdebug[39m: loadFileBuffer
+11:48:40 AM - [34mdebug[39m: loadFileContents
+11:48:40 AM - [34mdebug[39m: loadFileContents
+11:48:40 AM - [34mdebug[39m: fromDirectory
+11:48:40 AM - [34mdebug[39m: loadFilesContents
+11:48:40 AM - [34mdebug[39m: loadFilesContents
+11:48:40 AM - [34mdebug[39m: loadFilesContents
+11:48:40 AM - [34mdebug[39m: loadFilesContents
+11:48:40 AM - [34mdebug[39m: loadFilesContents
+11:48:40 AM - [34mdebug[39m: loadFilesContents
+11:48:40 AM - [34mdebug[39m: loadFilesContents
+11:48:40 AM - [34mdebug[39m: loadFileContents
+11:48:40 AM - [34mdebug[39m: fromDirectory
+11:48:40 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+11:48:40 AM - [34mdebug[39m: loadFilesContents
+11:48:40 AM - [34mdebug[39m: loadFilesContents
+11:48:40 AM - [34mdebug[39m: loadFilesContents
+11:48:40 AM - [34mdebug[39m: loadFilesContents
+11:48:40 AM - [34mdebug[39m: loadFilesContents
+11:48:40 AM - [34mdebug[39m: loadFilesContents
+11:48:40 AM - [34mdebug[39m: loadFileContents
+11:48:40 AM - [34mdebug[39m: loadFileContents
+11:48:40 AM - [34mdebug[39m: loadFileContents
+11:48:40 AM - [34mdebug[39m: loadFileContents
+11:48:40 AM - [34mdebug[39m: loadFileContents
+11:48:40 AM - [34mdebug[39m: loadFilesContents
+11:48:42 AM - [34mdebug[39m: fromDirectory
+11:48:42 AM - [34mdebug[39m: loadFileContents
+11:48:42 AM - [34mdebug[39m: fromDirectory
+11:48:42 AM - [34mdebug[39m: fromDirectory
+11:48:42 AM - [34mdebug[39m: loadFilesContents
+11:48:42 AM - [34mdebug[39m: loadFilesContents
+11:48:42 AM - [34mdebug[39m: loadFilesContents
+11:48:42 AM - [34mdebug[39m: loadFilesContents
+11:48:42 AM - [34mdebug[39m: loadFilesContents
+11:48:42 AM - [34mdebug[39m: loadFilesContents
+11:48:42 AM - [34mdebug[39m: loadFileContents
+11:48:42 AM - [34mdebug[39m: loadFilesContents
+11:48:43 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"itemName":"The Da Vinci Code","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"b04bf9ae-8216-4423-870c-f2d598ed1029"}
+11:48:43 AM - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35mme.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mborrower[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mAlan O'Neill[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mlender[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mPaul Power[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mitemName[39m[33m"[39m[33m: [39m[33m"[39m[35mThe Da Vinci Code[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mexceptionCase[39m[33m"[39m[33m: [39m[31mtrue[39m[33m,[39m
+  [33m"[39m[32mfineDuration[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.time.Duration[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[36m1[39m[33m,[39m
+    [33m"[39m[32munit[39m[33m"[39m[33m: [39m[33m"[39m[35mdays[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mfineAmount[39m[33m"[39m[33m: [39m[36m0.25[39m[33m,[39m
+  [33m"[39m[32mcapPercentage[39m[33m"[39m[33m: [39m[36m50[39m[33m,[39m
+  [33m"[39m[32mfractionalPart[39m[33m"[39m[33m: [39m[33m"[39m[35mdays[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mcontractId[39m[33m"[39m[33m: [39m[33m"[39m[35mb04bf9ae-8216-4423-870c-f2d598ed1029[39m[33m"[39m
+[33m}[39m
+11:48:52 AM - [32minfo[39m: Using current directory as template folder
+11:48:52 AM - [32minfo[39m: Loading a default text/sample.md file.
+11:48:52 AM - [32minfo[39m: Loading a default request.json file.
+11:48:52 AM - [34mdebug[39m: loadFileContents
+11:48:52 AM - [34mdebug[39m: loadFileBuffer
+11:48:52 AM - [34mdebug[39m: loadFileContents
+11:48:52 AM - [34mdebug[39m: loadFileContents
+11:48:52 AM - [34mdebug[39m: fromDirectory
+11:48:52 AM - [34mdebug[39m: loadFilesContents
+11:48:52 AM - [34mdebug[39m: loadFilesContents
+11:48:52 AM - [34mdebug[39m: loadFilesContents
+11:48:52 AM - [34mdebug[39m: loadFilesContents
+11:48:52 AM - [34mdebug[39m: loadFilesContents
+11:48:52 AM - [34mdebug[39m: loadFilesContents
+11:48:52 AM - [34mdebug[39m: loadFilesContents
+11:48:52 AM - [34mdebug[39m: loadFileContents
+11:48:52 AM - [34mdebug[39m: fromDirectory
+11:48:52 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+11:48:52 AM - [34mdebug[39m: loadFilesContents
+11:48:52 AM - [34mdebug[39m: loadFilesContents
+11:48:52 AM - [34mdebug[39m: loadFilesContents
+11:48:52 AM - [34mdebug[39m: loadFilesContents
+11:48:52 AM - [34mdebug[39m: loadFilesContents
+11:48:52 AM - [34mdebug[39m: loadFilesContents
+11:48:52 AM - [34mdebug[39m: loadFileContents
+11:48:52 AM - [34mdebug[39m: loadFileContents
+11:48:52 AM - [34mdebug[39m: loadFileContents
+11:48:52 AM - [34mdebug[39m: loadFileContents
+11:48:52 AM - [34mdebug[39m: loadFileContents
+11:48:52 AM - [34mdebug[39m: loadFilesContents
+11:48:53 AM - [34mdebug[39m: fromDirectory
+11:48:53 AM - [34mdebug[39m: loadFileContents
+11:48:53 AM - [34mdebug[39m: fromDirectory
+11:48:53 AM - [34mdebug[39m: fromDirectory
+11:48:53 AM - [34mdebug[39m: loadFilesContents
+11:48:53 AM - [34mdebug[39m: loadFilesContents
+11:48:53 AM - [34mdebug[39m: loadFilesContents
+11:48:53 AM - [34mdebug[39m: loadFilesContents
+11:48:53 AM - [34mdebug[39m: loadFilesContents
+11:48:53 AM - [34mdebug[39m: loadFilesContents
+11:48:53 AM - [34mdebug[39m: loadFileContents
+11:48:53 AM - [34mdebug[39m: loadFilesContents
+11:48:54 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"itemName":"The Da Vinci Code","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"beaa8309-7424-4385-aae0-e6acb1c23d83"}
+11:48:54 AM - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+11:48:54 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+11:48:54 AM - [34mdebug[39m: Engine processing request me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractRequest with state org.accordproject.cicero.contract.AccordContractState
+11:48:54 AM - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mpeer2peerlibrary@1.0.0-b1044d98f0b705e79da95ea987fbbf58eb5790cf510de87c643a2fee543a72c8[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35mme.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mitemName[39m[33m"[39m[33m: [39m[33m"[39m[35mThe Da Vinci Code[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mexceptionCase[39m[33m"[39m[33m: [39m[31mfalse[39m[33m,[39m
+    [33m"[39m[32magreedReturn[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-09-13T23:59:59-00:00[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mreturnedOn[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-10-15T23:59:59-00:00[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mitemValue[39m[33m"[39m[33m: [39m[36m24.99[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35mme.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mitemName[39m[33m"[39m[33m: [39m[33m"[39m[35mThe Da Vinci Code[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mfine[39m[33m"[39m[33m: [39m[36m8[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35m16f5de50-ff6c-4932-a5b5-613d1896d8c8[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-11-16T11:48:54.651Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35mme.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mcounter[39m[33m"[39m[33m: [39m[36m1[39m[33m,[39m
+    [33m"[39m[32mfinesBalance[39m[33m"[39m[33m: [39m[36m8[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35mme.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractState#null[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m
+    [33m{[39m
+      [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.runtime.PaymentObligation[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[33m{[39m
+        [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+        [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m8[39m[33m,[39m
+        [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+      [33m}[39m[33m,[39m
+      [33m"[39m[32mdescription[39m[33m"[39m[33m: [39m[33m"[39m[35mAlan O'Neill should pay fine amount to Paul Power for the late return of The Da Vinci Code[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract#beaa8309-7424-4385-aae0-e6acb1c23d83[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisor[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Paul%20Power[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisee[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Alan%20O'Neill[39m[33m"[39m[33m,[39m
+      [33m"[39m[32meventId[39m[33m"[39m[33m: [39m[33m"[39m[35mvalid[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-11-16T11:48:54.652Z[39m[33m"[39m
+    [33m}[39m
+  [33m][39m
+[33m}[39m
+12:01:17 PM - [32minfo[39m: Using current directory as template folder
+12:01:17 PM - [34mdebug[39m: loadFileContents
+12:01:17 PM - [34mdebug[39m: loadFileBuffer
+12:01:17 PM - [34mdebug[39m: loadFileContents
+12:01:17 PM - [34mdebug[39m: loadFileContents
+12:01:17 PM - [34mdebug[39m: fromDirectory
+12:01:17 PM - [34mdebug[39m: loadFilesContents
+12:01:17 PM - [34mdebug[39m: loadFilesContents
+12:01:17 PM - [34mdebug[39m: loadFilesContents
+12:01:17 PM - [34mdebug[39m: loadFilesContents
+12:01:17 PM - [34mdebug[39m: loadFilesContents
+12:01:17 PM - [34mdebug[39m: loadFilesContents
+12:01:17 PM - [34mdebug[39m: loadFilesContents
+12:01:17 PM - [34mdebug[39m: loadFileContents
+12:01:17 PM - [34mdebug[39m: fromDirectory
+12:01:17 PM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+12:01:17 PM - [34mdebug[39m: loadFilesContents
+12:01:17 PM - [34mdebug[39m: loadFilesContents
+12:01:17 PM - [34mdebug[39m: loadFilesContents
+12:01:17 PM - [34mdebug[39m: loadFilesContents
+12:01:17 PM - [34mdebug[39m: loadFilesContents
+12:01:17 PM - [34mdebug[39m: loadFilesContents
+12:01:17 PM - [34mdebug[39m: loadFileContents
+12:01:17 PM - [34mdebug[39m: loadFileContents
+12:01:17 PM - [34mdebug[39m: loadFileContents
+12:01:17 PM - [34mdebug[39m: loadFileContents
+12:01:17 PM - [34mdebug[39m: loadFileContents
+12:01:17 PM - [34mdebug[39m: loadFilesContents
+12:01:18 PM - [34mdebug[39m: fromDirectory
+12:01:18 PM - [34mdebug[39m: loadFileContents
+12:01:18 PM - [34mdebug[39m: fromDirectory
+12:01:18 PM - [34mdebug[39m: fromDirectory
+12:01:18 PM - [34mdebug[39m: loadFilesContents
+12:01:18 PM - [34mdebug[39m: loadFilesContents
+12:01:18 PM - [34mdebug[39m: loadFilesContents
+12:01:18 PM - [34mdebug[39m: loadFilesContents
+12:01:18 PM - [34mdebug[39m: loadFilesContents
+12:01:18 PM - [34mdebug[39m: loadFilesContents
+12:01:18 PM - [34mdebug[39m: loadFileContents
+12:01:18 PM - [34mdebug[39m: loadFilesContents
+12:01:19 PM - [31merror[39m: Instance org.accordproject.cicero.contract.AccordParty#Paul Power missing required field isbn
+12:16:23 PM - [32minfo[39m: Using current directory as template folder
+12:16:23 PM - [34mdebug[39m: loadFileContents
+12:16:23 PM - [34mdebug[39m: loadFileBuffer
+12:16:23 PM - [34mdebug[39m: loadFileContents
+12:16:23 PM - [34mdebug[39m: loadFileContents
+12:16:23 PM - [34mdebug[39m: fromDirectory
+12:16:23 PM - [34mdebug[39m: loadFilesContents
+12:16:23 PM - [34mdebug[39m: loadFilesContents
+12:16:23 PM - [34mdebug[39m: loadFilesContents
+12:16:23 PM - [34mdebug[39m: loadFilesContents
+12:16:23 PM - [34mdebug[39m: loadFilesContents
+12:16:23 PM - [34mdebug[39m: loadFilesContents
+12:16:23 PM - [34mdebug[39m: loadFilesContents
+12:16:23 PM - [34mdebug[39m: loadFileContents
+12:16:23 PM - [34mdebug[39m: fromDirectory
+12:16:23 PM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+12:16:23 PM - [34mdebug[39m: loadFilesContents
+12:16:23 PM - [34mdebug[39m: loadFilesContents
+12:16:23 PM - [34mdebug[39m: loadFilesContents
+12:16:23 PM - [34mdebug[39m: loadFilesContents
+12:16:23 PM - [34mdebug[39m: loadFilesContents
+12:16:23 PM - [34mdebug[39m: loadFilesContents
+12:16:23 PM - [34mdebug[39m: loadFileContents
+12:16:23 PM - [34mdebug[39m: loadFileContents
+12:16:23 PM - [34mdebug[39m: loadFileContents
+12:16:23 PM - [34mdebug[39m: loadFileContents
+12:16:23 PM - [34mdebug[39m: loadFileContents
+12:16:23 PM - [34mdebug[39m: loadFilesContents
+12:16:25 PM - [34mdebug[39m: fromDirectory
+12:16:25 PM - [34mdebug[39m: loadFileContents
+12:16:25 PM - [34mdebug[39m: fromDirectory
+12:16:25 PM - [34mdebug[39m: fromDirectory
+12:16:25 PM - [34mdebug[39m: loadFilesContents
+12:16:25 PM - [34mdebug[39m: loadFilesContents
+12:16:25 PM - [34mdebug[39m: loadFilesContents
+12:16:25 PM - [34mdebug[39m: loadFilesContents
+12:16:25 PM - [34mdebug[39m: loadFilesContents
+12:16:25 PM - [34mdebug[39m: loadFilesContents
+12:16:25 PM - [34mdebug[39m: loadFileContents
+12:16:25 PM - [34mdebug[39m: loadFilesContents
+12:16:26 PM - [31merror[39m: Parse error at line 5 column 35
+the itemName "The Da Vinci Code" ({{isbn}}) which is currently graded as M.
+                                  ^^^^^^^^^^^^^^^^^^^^^^
+Expected: A String literal "..."
+12:17:31 PM - [32minfo[39m: Using current directory as template folder
+12:17:31 PM - [34mdebug[39m: loadFileContents
+12:17:31 PM - [34mdebug[39m: loadFileBuffer
+12:17:31 PM - [34mdebug[39m: loadFileContents
+12:17:31 PM - [34mdebug[39m: loadFileContents
+12:17:31 PM - [34mdebug[39m: fromDirectory
+12:17:31 PM - [34mdebug[39m: loadFilesContents
+12:17:31 PM - [34mdebug[39m: loadFilesContents
+12:17:31 PM - [34mdebug[39m: loadFilesContents
+12:17:31 PM - [34mdebug[39m: loadFilesContents
+12:17:31 PM - [34mdebug[39m: loadFilesContents
+12:17:31 PM - [34mdebug[39m: loadFilesContents
+12:17:31 PM - [34mdebug[39m: loadFilesContents
+12:17:31 PM - [34mdebug[39m: loadFileContents
+12:17:31 PM - [34mdebug[39m: fromDirectory
+12:17:31 PM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+12:17:31 PM - [34mdebug[39m: loadFilesContents
+12:17:31 PM - [34mdebug[39m: loadFilesContents
+12:17:31 PM - [34mdebug[39m: loadFilesContents
+12:17:31 PM - [34mdebug[39m: loadFilesContents
+12:17:31 PM - [34mdebug[39m: loadFilesContents
+12:17:31 PM - [34mdebug[39m: loadFilesContents
+12:17:31 PM - [34mdebug[39m: loadFileContents
+12:17:31 PM - [34mdebug[39m: loadFileContents
+12:17:31 PM - [34mdebug[39m: loadFileContents
+12:17:31 PM - [34mdebug[39m: loadFileContents
+12:17:31 PM - [34mdebug[39m: loadFileContents
+12:17:31 PM - [34mdebug[39m: loadFilesContents
+12:17:32 PM - [34mdebug[39m: fromDirectory
+12:17:32 PM - [34mdebug[39m: loadFileContents
+12:17:32 PM - [34mdebug[39m: fromDirectory
+12:17:32 PM - [34mdebug[39m: fromDirectory
+12:17:32 PM - [34mdebug[39m: loadFilesContents
+12:17:32 PM - [34mdebug[39m: loadFilesContents
+12:17:32 PM - [34mdebug[39m: loadFilesContents
+12:17:32 PM - [34mdebug[39m: loadFilesContents
+12:17:32 PM - [34mdebug[39m: loadFilesContents
+12:17:32 PM - [34mdebug[39m: loadFilesContents
+12:17:32 PM - [34mdebug[39m: loadFileContents
+12:17:32 PM - [34mdebug[39m: loadFilesContents
+12:17:33 PM - [31merror[39m: Parse error at line 5 column 35
+the itemName "The Da Vinci Code" (9780552149518) which is currently graded as M.
+                                  ^^^^^^^^^^^^^^^^^^^^^^
+Expected: A String literal "..."
+12:18:40 PM - [32minfo[39m: Using current directory as template folder
+12:18:40 PM - [34mdebug[39m: loadFileContents
+12:18:40 PM - [34mdebug[39m: loadFileBuffer
+12:18:40 PM - [34mdebug[39m: loadFileContents
+12:18:40 PM - [34mdebug[39m: loadFileContents
+12:18:40 PM - [34mdebug[39m: fromDirectory
+12:18:40 PM - [34mdebug[39m: loadFilesContents
+12:18:40 PM - [34mdebug[39m: loadFilesContents
+12:18:40 PM - [34mdebug[39m: loadFilesContents
+12:18:40 PM - [34mdebug[39m: loadFilesContents
+12:18:40 PM - [34mdebug[39m: loadFilesContents
+12:18:40 PM - [34mdebug[39m: loadFilesContents
+12:18:40 PM - [34mdebug[39m: loadFilesContents
+12:18:40 PM - [34mdebug[39m: loadFileContents
+12:18:40 PM - [34mdebug[39m: fromDirectory
+12:18:40 PM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+12:18:40 PM - [34mdebug[39m: loadFilesContents
+12:18:40 PM - [34mdebug[39m: loadFilesContents
+12:18:40 PM - [34mdebug[39m: loadFilesContents
+12:18:40 PM - [34mdebug[39m: loadFilesContents
+12:18:40 PM - [34mdebug[39m: loadFilesContents
+12:18:40 PM - [34mdebug[39m: loadFilesContents
+12:18:40 PM - [34mdebug[39m: loadFileContents
+12:18:40 PM - [34mdebug[39m: loadFileContents
+12:18:40 PM - [34mdebug[39m: loadFileContents
+12:18:40 PM - [34mdebug[39m: loadFileContents
+12:18:40 PM - [34mdebug[39m: loadFileContents
+12:18:40 PM - [34mdebug[39m: loadFilesContents
+12:18:41 PM - [34mdebug[39m: fromDirectory
+12:18:41 PM - [34mdebug[39m: loadFileContents
+12:18:41 PM - [34mdebug[39m: fromDirectory
+12:18:41 PM - [34mdebug[39m: fromDirectory
+12:18:41 PM - [34mdebug[39m: loadFilesContents
+12:18:41 PM - [34mdebug[39m: loadFilesContents
+12:18:41 PM - [34mdebug[39m: loadFilesContents
+12:18:41 PM - [34mdebug[39m: loadFilesContents
+12:18:41 PM - [34mdebug[39m: loadFilesContents
+12:18:41 PM - [34mdebug[39m: loadFilesContents
+12:18:41 PM - [34mdebug[39m: loadFileContents
+12:18:41 PM - [34mdebug[39m: loadFilesContents
+12:18:42 PM - [31merror[39m: Parse error at line 5 column 35
+the itemName "The Da Vinci Code" (9780552149518) which is currently graded as M.
+                                  ^^^^^^^^^^^^^^^^^^^^^^
+Expected: A String literal "..."
+12:19:33 PM - [32minfo[39m: Using current directory as template folder
+12:19:33 PM - [34mdebug[39m: loadFileContents
+12:19:33 PM - [34mdebug[39m: loadFileBuffer
+12:19:33 PM - [34mdebug[39m: loadFileContents
+12:19:33 PM - [34mdebug[39m: loadFileContents
+12:19:33 PM - [34mdebug[39m: fromDirectory
+12:19:33 PM - [34mdebug[39m: loadFilesContents
+12:19:33 PM - [34mdebug[39m: loadFilesContents
+12:19:33 PM - [34mdebug[39m: loadFilesContents
+12:19:33 PM - [34mdebug[39m: loadFilesContents
+12:19:33 PM - [34mdebug[39m: loadFilesContents
+12:19:33 PM - [34mdebug[39m: loadFilesContents
+12:19:33 PM - [34mdebug[39m: loadFilesContents
+12:19:33 PM - [34mdebug[39m: loadFileContents
+12:19:33 PM - [34mdebug[39m: fromDirectory
+12:19:33 PM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+12:19:33 PM - [34mdebug[39m: loadFilesContents
+12:19:33 PM - [34mdebug[39m: loadFilesContents
+12:19:33 PM - [34mdebug[39m: loadFilesContents
+12:19:33 PM - [34mdebug[39m: loadFilesContents
+12:19:33 PM - [34mdebug[39m: loadFilesContents
+12:19:33 PM - [34mdebug[39m: loadFilesContents
+12:19:33 PM - [34mdebug[39m: loadFileContents
+12:19:33 PM - [34mdebug[39m: loadFileContents
+12:19:33 PM - [34mdebug[39m: loadFileContents
+12:19:33 PM - [34mdebug[39m: loadFileContents
+12:19:33 PM - [34mdebug[39m: loadFileContents
+12:19:33 PM - [34mdebug[39m: loadFilesContents
+12:19:34 PM - [34mdebug[39m: fromDirectory
+12:19:34 PM - [34mdebug[39m: loadFileContents
+12:19:34 PM - [34mdebug[39m: fromDirectory
+12:19:34 PM - [34mdebug[39m: fromDirectory
+12:19:34 PM - [34mdebug[39m: loadFilesContents
+12:19:34 PM - [34mdebug[39m: loadFilesContents
+12:19:34 PM - [34mdebug[39m: loadFilesContents
+12:19:34 PM - [34mdebug[39m: loadFilesContents
+12:19:34 PM - [34mdebug[39m: loadFilesContents
+12:19:34 PM - [34mdebug[39m: loadFilesContents
+12:19:34 PM - [34mdebug[39m: loadFileContents
+12:19:34 PM - [34mdebug[39m: loadFilesContents
+12:19:35 PM - [31merror[39m: Parse error at line 5 column 81
+the itemName "The Da Vinci Code" ("9780552149518") which is currently graded as M.
+                                                                                ^^
+Expected: A String literal "..."
+12:20:05 PM - [32minfo[39m: Using current directory as template folder
+12:20:05 PM - [34mdebug[39m: loadFileContents
+12:20:05 PM - [34mdebug[39m: loadFileBuffer
+12:20:05 PM - [34mdebug[39m: loadFileContents
+12:20:05 PM - [34mdebug[39m: loadFileContents
+12:20:05 PM - [34mdebug[39m: fromDirectory
+12:20:05 PM - [34mdebug[39m: loadFilesContents
+12:20:05 PM - [34mdebug[39m: loadFilesContents
+12:20:05 PM - [34mdebug[39m: loadFilesContents
+12:20:05 PM - [34mdebug[39m: loadFilesContents
+12:20:05 PM - [34mdebug[39m: loadFilesContents
+12:20:05 PM - [34mdebug[39m: loadFilesContents
+12:20:05 PM - [34mdebug[39m: loadFilesContents
+12:20:05 PM - [34mdebug[39m: loadFileContents
+12:20:05 PM - [34mdebug[39m: fromDirectory
+12:20:05 PM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+12:20:05 PM - [34mdebug[39m: loadFilesContents
+12:20:05 PM - [34mdebug[39m: loadFilesContents
+12:20:05 PM - [34mdebug[39m: loadFilesContents
+12:20:05 PM - [34mdebug[39m: loadFilesContents
+12:20:05 PM - [34mdebug[39m: loadFilesContents
+12:20:05 PM - [34mdebug[39m: loadFilesContents
+12:20:05 PM - [34mdebug[39m: loadFileContents
+12:20:05 PM - [34mdebug[39m: loadFileContents
+12:20:05 PM - [34mdebug[39m: loadFileContents
+12:20:05 PM - [34mdebug[39m: loadFileContents
+12:20:05 PM - [34mdebug[39m: loadFileContents
+12:20:05 PM - [34mdebug[39m: loadFilesContents
+12:20:06 PM - [34mdebug[39m: fromDirectory
+12:20:06 PM - [34mdebug[39m: loadFileContents
+12:20:06 PM - [34mdebug[39m: fromDirectory
+12:20:06 PM - [34mdebug[39m: fromDirectory
+12:20:06 PM - [34mdebug[39m: loadFilesContents
+12:20:06 PM - [34mdebug[39m: loadFilesContents
+12:20:06 PM - [34mdebug[39m: loadFilesContents
+12:20:06 PM - [34mdebug[39m: loadFilesContents
+12:20:06 PM - [34mdebug[39m: loadFilesContents
+12:20:06 PM - [34mdebug[39m: loadFilesContents
+12:20:06 PM - [34mdebug[39m: loadFileContents
+12:20:06 PM - [34mdebug[39m: loadFilesContents
+12:20:07 PM - [31merror[39m: Parse error at line 7 column 1
+In case of a overdue return of the item, the Borrower shall pay to the Lender
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Expected: 'In case of a overdue return of the item, the Borrower shall pay to Lender'
+12:21:28 PM - [32minfo[39m: Using current directory as template folder
+12:21:28 PM - [34mdebug[39m: loadFileContents
+12:21:28 PM - [34mdebug[39m: loadFileBuffer
+12:21:28 PM - [34mdebug[39m: loadFileContents
+12:21:28 PM - [34mdebug[39m: loadFileContents
+12:21:28 PM - [34mdebug[39m: fromDirectory
+12:21:28 PM - [34mdebug[39m: loadFilesContents
+12:21:28 PM - [34mdebug[39m: loadFilesContents
+12:21:28 PM - [34mdebug[39m: loadFilesContents
+12:21:28 PM - [34mdebug[39m: loadFilesContents
+12:21:28 PM - [34mdebug[39m: loadFilesContents
+12:21:28 PM - [34mdebug[39m: loadFilesContents
+12:21:28 PM - [34mdebug[39m: loadFilesContents
+12:21:28 PM - [34mdebug[39m: loadFileContents
+12:21:28 PM - [34mdebug[39m: fromDirectory
+12:21:28 PM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+12:21:28 PM - [34mdebug[39m: loadFilesContents
+12:21:28 PM - [34mdebug[39m: loadFilesContents
+12:21:28 PM - [34mdebug[39m: loadFilesContents
+12:21:28 PM - [34mdebug[39m: loadFilesContents
+12:21:28 PM - [34mdebug[39m: loadFilesContents
+12:21:28 PM - [34mdebug[39m: loadFilesContents
+12:21:28 PM - [34mdebug[39m: loadFileContents
+12:21:28 PM - [34mdebug[39m: loadFileContents
+12:21:28 PM - [34mdebug[39m: loadFileContents
+12:21:28 PM - [34mdebug[39m: loadFileContents
+12:21:28 PM - [34mdebug[39m: loadFileContents
+12:21:28 PM - [34mdebug[39m: loadFilesContents
+12:21:29 PM - [34mdebug[39m: fromDirectory
+12:21:29 PM - [34mdebug[39m: loadFileContents
+12:21:29 PM - [34mdebug[39m: fromDirectory
+12:21:29 PM - [34mdebug[39m: fromDirectory
+12:21:29 PM - [34mdebug[39m: loadFilesContents
+12:21:29 PM - [34mdebug[39m: loadFilesContents
+12:21:29 PM - [34mdebug[39m: loadFilesContents
+12:21:29 PM - [34mdebug[39m: loadFilesContents
+12:21:29 PM - [34mdebug[39m: loadFilesContents
+12:21:29 PM - [34mdebug[39m: loadFilesContents
+12:21:29 PM - [34mdebug[39m: loadFileContents
+12:21:29 PM - [34mdebug[39m: loadFilesContents
+12:21:30 PM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"4769bc39-36ef-4869-917f-9526981a1901"}
+12:21:30 PM - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35mme.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mborrower[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mAlan O'Neill[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mlender[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mPaul Power[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32misbn[39m[33m"[39m[33m: [39m[33m"[39m[35m9780552149518[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mitemName[39m[33m"[39m[33m: [39m[33m"[39m[35mThe Da Vinci Code[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mgrade[39m[33m"[39m[33m: [39m[33m"[39m[35mM[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mexceptionCase[39m[33m"[39m[33m: [39m[31mtrue[39m[33m,[39m
+  [33m"[39m[32mfineDuration[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.time.Duration[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[36m1[39m[33m,[39m
+    [33m"[39m[32munit[39m[33m"[39m[33m: [39m[33m"[39m[35mdays[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mfineAmount[39m[33m"[39m[33m: [39m[36m0.25[39m[33m,[39m
+  [33m"[39m[32mcapPercentage[39m[33m"[39m[33m: [39m[36m50[39m[33m,[39m
+  [33m"[39m[32mfractionalPart[39m[33m"[39m[33m: [39m[33m"[39m[35mdays[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mcontractId[39m[33m"[39m[33m: [39m[33m"[39m[35m4769bc39-36ef-4869-917f-9526981a1901[39m[33m"[39m
+[33m}[39m
+12:22:11 PM - [32minfo[39m: Using current directory as template folder
+12:22:11 PM - [34mdebug[39m: loadFileContents
+12:22:11 PM - [34mdebug[39m: loadFileBuffer
+12:22:11 PM - [34mdebug[39m: loadFileContents
+12:22:11 PM - [34mdebug[39m: loadFileContents
+12:22:11 PM - [34mdebug[39m: fromDirectory
+12:22:11 PM - [34mdebug[39m: loadFilesContents
+12:22:11 PM - [34mdebug[39m: loadFilesContents
+12:22:11 PM - [34mdebug[39m: loadFilesContents
+12:22:11 PM - [34mdebug[39m: loadFilesContents
+12:22:11 PM - [34mdebug[39m: loadFilesContents
+12:22:11 PM - [34mdebug[39m: loadFilesContents
+12:22:11 PM - [34mdebug[39m: loadFilesContents
+12:22:11 PM - [34mdebug[39m: loadFileContents
+12:22:11 PM - [34mdebug[39m: fromDirectory
+12:22:11 PM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+12:22:11 PM - [34mdebug[39m: loadFilesContents
+12:22:11 PM - [34mdebug[39m: loadFilesContents
+12:22:11 PM - [34mdebug[39m: loadFilesContents
+12:22:11 PM - [34mdebug[39m: loadFilesContents
+12:22:11 PM - [34mdebug[39m: loadFilesContents
+12:22:11 PM - [34mdebug[39m: loadFilesContents
+12:22:11 PM - [34mdebug[39m: loadFileContents
+12:22:11 PM - [34mdebug[39m: loadFileContents
+12:22:11 PM - [34mdebug[39m: loadFileContents
+12:22:11 PM - [34mdebug[39m: loadFileContents
+12:22:11 PM - [34mdebug[39m: loadFileContents
+12:22:11 PM - [34mdebug[39m: loadFilesContents
+12:22:12 PM - [34mdebug[39m: fromDirectory
+12:22:12 PM - [34mdebug[39m: loadFileContents
+12:22:12 PM - [34mdebug[39m: fromDirectory
+12:22:12 PM - [34mdebug[39m: fromDirectory
+12:22:12 PM - [34mdebug[39m: loadFilesContents
+12:22:12 PM - [34mdebug[39m: loadFilesContents
+12:22:12 PM - [34mdebug[39m: loadFilesContents
+12:22:12 PM - [34mdebug[39m: loadFilesContents
+12:22:12 PM - [34mdebug[39m: loadFilesContents
+12:22:12 PM - [34mdebug[39m: loadFilesContents
+12:22:12 PM - [34mdebug[39m: loadFileContents
+12:22:12 PM - [34mdebug[39m: loadFilesContents
+12:22:13 PM - [31merror[39m: Parse error at line 7 column 1
+In the case of an late return of the item, the Borrower shall pay to Lender
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Expected: 'In the case of an overdue return of the item, the Borrower shall pay to Lender'
+12:22:55 PM - [32minfo[39m: Using current directory as template folder
+12:22:55 PM - [34mdebug[39m: loadFileContents
+12:22:55 PM - [34mdebug[39m: loadFileBuffer
+12:22:55 PM - [34mdebug[39m: loadFileContents
+12:22:55 PM - [34mdebug[39m: loadFileContents
+12:22:55 PM - [34mdebug[39m: fromDirectory
+12:22:55 PM - [34mdebug[39m: loadFilesContents
+12:22:55 PM - [34mdebug[39m: loadFilesContents
+12:22:55 PM - [34mdebug[39m: loadFilesContents
+12:22:55 PM - [34mdebug[39m: loadFilesContents
+12:22:55 PM - [34mdebug[39m: loadFilesContents
+12:22:55 PM - [34mdebug[39m: loadFilesContents
+12:22:55 PM - [34mdebug[39m: loadFilesContents
+12:22:55 PM - [34mdebug[39m: loadFileContents
+12:22:55 PM - [34mdebug[39m: fromDirectory
+12:22:55 PM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+12:22:55 PM - [34mdebug[39m: loadFilesContents
+12:22:55 PM - [34mdebug[39m: loadFilesContents
+12:22:55 PM - [34mdebug[39m: loadFilesContents
+12:22:55 PM - [34mdebug[39m: loadFilesContents
+12:22:55 PM - [34mdebug[39m: loadFilesContents
+12:22:55 PM - [34mdebug[39m: loadFilesContents
+12:22:55 PM - [34mdebug[39m: loadFileContents
+12:22:55 PM - [34mdebug[39m: loadFileContents
+12:22:55 PM - [34mdebug[39m: loadFileContents
+12:22:55 PM - [34mdebug[39m: loadFileContents
+12:22:55 PM - [34mdebug[39m: loadFileContents
+12:22:55 PM - [34mdebug[39m: loadFilesContents
+12:22:56 PM - [34mdebug[39m: fromDirectory
+12:22:56 PM - [34mdebug[39m: loadFileContents
+12:22:56 PM - [34mdebug[39m: fromDirectory
+12:22:56 PM - [34mdebug[39m: fromDirectory
+12:22:56 PM - [34mdebug[39m: loadFilesContents
+12:22:56 PM - [34mdebug[39m: loadFilesContents
+12:22:56 PM - [34mdebug[39m: loadFilesContents
+12:22:56 PM - [34mdebug[39m: loadFilesContents
+12:22:56 PM - [34mdebug[39m: loadFilesContents
+12:22:56 PM - [34mdebug[39m: loadFilesContents
+12:22:56 PM - [34mdebug[39m: loadFileContents
+12:22:56 PM - [34mdebug[39m: loadFilesContents
+12:22:57 PM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"1a8969e6-f511-41a8-aaf5-0c31a15f93ec"}
+12:22:57 PM - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35mme.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mborrower[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mAlan O'Neill[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mlender[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mPaul Power[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32misbn[39m[33m"[39m[33m: [39m[33m"[39m[35m9780552149518[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mitemName[39m[33m"[39m[33m: [39m[33m"[39m[35mThe Da Vinci Code[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mgrade[39m[33m"[39m[33m: [39m[33m"[39m[35mM[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mexceptionCase[39m[33m"[39m[33m: [39m[31mtrue[39m[33m,[39m
+  [33m"[39m[32mfineDuration[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.time.Duration[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[36m1[39m[33m,[39m
+    [33m"[39m[32munit[39m[33m"[39m[33m: [39m[33m"[39m[35mdays[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mfineAmount[39m[33m"[39m[33m: [39m[36m0.25[39m[33m,[39m
+  [33m"[39m[32mcapPercentage[39m[33m"[39m[33m: [39m[36m50[39m[33m,[39m
+  [33m"[39m[32mfractionalPart[39m[33m"[39m[33m: [39m[33m"[39m[35mdays[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mcontractId[39m[33m"[39m[33m: [39m[33m"[39m[35m1a8969e6-f511-41a8-aaf5-0c31a15f93ec[39m[33m"[39m
+[33m}[39m
+12:23:39 PM - [32minfo[39m: Using current directory as template folder
+12:23:39 PM - [32minfo[39m: Loading a default text/sample.md file.
+12:23:39 PM - [32minfo[39m: Loading a default request.json file.
+12:23:39 PM - [34mdebug[39m: loadFileContents
+12:23:39 PM - [34mdebug[39m: loadFileBuffer
+12:23:39 PM - [34mdebug[39m: loadFileContents
+12:23:39 PM - [34mdebug[39m: loadFileContents
+12:23:39 PM - [34mdebug[39m: fromDirectory
+12:23:39 PM - [34mdebug[39m: loadFilesContents
+12:23:39 PM - [34mdebug[39m: loadFilesContents
+12:23:39 PM - [34mdebug[39m: loadFilesContents
+12:23:39 PM - [34mdebug[39m: loadFilesContents
+12:23:39 PM - [34mdebug[39m: loadFilesContents
+12:23:39 PM - [34mdebug[39m: loadFilesContents
+12:23:39 PM - [34mdebug[39m: loadFilesContents
+12:23:39 PM - [34mdebug[39m: loadFileContents
+12:23:39 PM - [34mdebug[39m: fromDirectory
+12:23:39 PM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+12:23:39 PM - [34mdebug[39m: loadFilesContents
+12:23:39 PM - [34mdebug[39m: loadFilesContents
+12:23:39 PM - [34mdebug[39m: loadFilesContents
+12:23:39 PM - [34mdebug[39m: loadFilesContents
+12:23:39 PM - [34mdebug[39m: loadFilesContents
+12:23:39 PM - [34mdebug[39m: loadFilesContents
+12:23:39 PM - [34mdebug[39m: loadFileContents
+12:23:39 PM - [34mdebug[39m: loadFileContents
+12:23:39 PM - [34mdebug[39m: loadFileContents
+12:23:39 PM - [34mdebug[39m: loadFileContents
+12:23:39 PM - [34mdebug[39m: loadFileContents
+12:23:39 PM - [34mdebug[39m: loadFilesContents
+12:23:41 PM - [34mdebug[39m: fromDirectory
+12:23:41 PM - [34mdebug[39m: loadFileContents
+12:23:41 PM - [34mdebug[39m: fromDirectory
+12:23:41 PM - [34mdebug[39m: fromDirectory
+12:23:41 PM - [34mdebug[39m: loadFilesContents
+12:23:41 PM - [34mdebug[39m: loadFilesContents
+12:23:41 PM - [34mdebug[39m: loadFilesContents
+12:23:41 PM - [34mdebug[39m: loadFilesContents
+12:23:41 PM - [34mdebug[39m: loadFilesContents
+12:23:41 PM - [34mdebug[39m: loadFilesContents
+12:23:41 PM - [34mdebug[39m: loadFileContents
+12:23:41 PM - [34mdebug[39m: loadFilesContents
+12:23:42 PM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"ff8a68e7-defb-47f7-a8a5-37a4c9ce30c2"}
+12:23:42 PM - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+12:23:42 PM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+12:23:42 PM - [34mdebug[39m: Engine processing request me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractRequest with state org.accordproject.cicero.contract.AccordContractState
+12:23:42 PM - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mpeer2peerlibrary@1.0.0-c7fd777f1b07dbb986245c4e8a6420900ef06494cca170fcaeccbd18993adb6d[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35mme.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mitemName[39m[33m"[39m[33m: [39m[33m"[39m[35mThe Da Vinci Code[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mexceptionCase[39m[33m"[39m[33m: [39m[31mfalse[39m[33m,[39m
+    [33m"[39m[32magreedReturn[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-09-13T23:59:59-00:00[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mreturnedOn[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-10-15T23:59:59-00:00[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mitemValue[39m[33m"[39m[33m: [39m[36m24.99[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35mme.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mitemName[39m[33m"[39m[33m: [39m[33m"[39m[35mThe Da Vinci Code[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mfine[39m[33m"[39m[33m: [39m[36m8[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35m094042e7-0c82-40bd-bdb7-371096079fd0[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-11-16T12:23:42.137Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35mme.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mcounter[39m[33m"[39m[33m: [39m[36m1[39m[33m,[39m
+    [33m"[39m[32mfinesBalance[39m[33m"[39m[33m: [39m[36m8[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35mme.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractState#null[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m
+    [33m{[39m
+      [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.runtime.PaymentObligation[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[33m{[39m
+        [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+        [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m8[39m[33m,[39m
+        [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+      [33m}[39m[33m,[39m
+      [33m"[39m[32mdescription[39m[33m"[39m[33m: [39m[33m"[39m[35mAlan O'Neill should pay fine amount to Paul Power for the late return of The Da Vinci Code[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract#ff8a68e7-defb-47f7-a8a5-37a4c9ce30c2[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisor[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Paul%20Power[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisee[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Alan%20O'Neill[39m[33m"[39m[33m,[39m
+      [33m"[39m[32meventId[39m[33m"[39m[33m: [39m[33m"[39m[35mvalid[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-11-16T12:23:42.139Z[39m[33m"[39m
+    [33m}[39m
+  [33m][39m
+[33m}[39m
+6:25:02 AM - [32minfo[39m: Using current directory as template folder
+6:25:02 AM - [34mdebug[39m: loadFileContents
+6:25:02 AM - [34mdebug[39m: loadFileBuffer
+6:25:02 AM - [34mdebug[39m: loadFileContents
+6:25:02 AM - [34mdebug[39m: loadFileContents
+6:25:02 AM - [34mdebug[39m: fromDirectory
+6:25:02 AM - [34mdebug[39m: loadFilesContents
+6:25:02 AM - [34mdebug[39m: loadFilesContents
+6:25:02 AM - [34mdebug[39m: loadFilesContents
+6:25:02 AM - [34mdebug[39m: loadFilesContents
+6:25:02 AM - [34mdebug[39m: loadFilesContents
+6:25:02 AM - [34mdebug[39m: loadFilesContents
+6:25:02 AM - [34mdebug[39m: loadFilesContents
+6:25:02 AM - [34mdebug[39m: loadFileContents
+6:25:02 AM - [34mdebug[39m: fromDirectory
+6:25:02 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+6:25:02 AM - [34mdebug[39m: loadFilesContents
+6:25:02 AM - [34mdebug[39m: loadFilesContents
+6:25:02 AM - [34mdebug[39m: loadFilesContents
+6:25:02 AM - [34mdebug[39m: loadFilesContents
+6:25:02 AM - [34mdebug[39m: loadFilesContents
+6:25:02 AM - [34mdebug[39m: loadFilesContents
+6:25:02 AM - [34mdebug[39m: loadFileContents
+6:25:02 AM - [34mdebug[39m: loadFileContents
+6:25:02 AM - [34mdebug[39m: loadFileContents
+6:25:02 AM - [34mdebug[39m: loadFileContents
+6:25:02 AM - [34mdebug[39m: loadFileContents
+6:25:02 AM - [34mdebug[39m: loadFilesContents
+6:25:04 AM - [34mdebug[39m: fromDirectory
+6:25:04 AM - [34mdebug[39m: loadFileContents
+6:25:04 AM - [34mdebug[39m: fromDirectory
+6:25:04 AM - [34mdebug[39m: fromDirectory
+6:25:04 AM - [34mdebug[39m: loadFilesContents
+6:25:04 AM - [34mdebug[39m: loadFilesContents
+6:25:04 AM - [34mdebug[39m: loadFilesContents
+6:25:04 AM - [34mdebug[39m: loadFilesContents
+6:25:04 AM - [34mdebug[39m: loadFilesContents
+6:25:04 AM - [34mdebug[39m: loadFilesContents
+6:25:04 AM - [34mdebug[39m: loadFileContents
+6:25:04 AM - [34mdebug[39m: loadFilesContents
+6:25:04 AM - [31merror[39m: Compilation error (at file logic/logic.ergo line 21 col 31). Cannot find type with name 'Peer2PeerLibraryContract'
+contract Peer2PeerLibrary over Peer2PeerLibraryContract state Peer2PeerLibraryContractState {
+                               ^^^^^^^^^^^^^^^^^^^^^^^^                                      
+6:27:42 AM - [32minfo[39m: Using current directory as template folder
+6:27:42 AM - [34mdebug[39m: loadFileContents
+6:27:42 AM - [34mdebug[39m: loadFileBuffer
+6:27:42 AM - [34mdebug[39m: loadFileContents
+6:27:42 AM - [34mdebug[39m: loadFileContents
+6:27:42 AM - [34mdebug[39m: fromDirectory
+6:27:42 AM - [34mdebug[39m: loadFilesContents
+6:27:42 AM - [34mdebug[39m: loadFilesContents
+6:27:42 AM - [34mdebug[39m: loadFilesContents
+6:27:42 AM - [34mdebug[39m: loadFilesContents
+6:27:42 AM - [34mdebug[39m: loadFilesContents
+6:27:42 AM - [34mdebug[39m: loadFilesContents
+6:27:42 AM - [34mdebug[39m: loadFileContents
+6:27:42 AM - [34mdebug[39m: loadFilesContents
+6:27:42 AM - [34mdebug[39m: fromDirectory
+6:27:42 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+6:27:42 AM - [34mdebug[39m: loadFilesContents
+6:27:42 AM - [34mdebug[39m: loadFilesContents
+6:27:42 AM - [34mdebug[39m: loadFilesContents
+6:27:42 AM - [34mdebug[39m: loadFilesContents
+6:27:42 AM - [34mdebug[39m: loadFilesContents
+6:27:42 AM - [34mdebug[39m: loadFilesContents
+6:27:42 AM - [34mdebug[39m: loadFileContents
+6:27:42 AM - [34mdebug[39m: loadFileContents
+6:27:42 AM - [34mdebug[39m: loadFileContents
+6:27:42 AM - [34mdebug[39m: loadFileContents
+6:27:42 AM - [34mdebug[39m: loadFileContents
+6:27:42 AM - [34mdebug[39m: loadFilesContents
+6:27:43 AM - [34mdebug[39m: fromDirectory
+6:27:43 AM - [34mdebug[39m: loadFileContents
+6:27:43 AM - [34mdebug[39m: fromDirectory
+6:27:43 AM - [34mdebug[39m: fromDirectory
+6:27:43 AM - [34mdebug[39m: loadFilesContents
+6:27:43 AM - [34mdebug[39m: loadFilesContents
+6:27:43 AM - [34mdebug[39m: loadFilesContents
+6:27:43 AM - [34mdebug[39m: loadFilesContents
+6:27:43 AM - [34mdebug[39m: loadFilesContents
+6:27:43 AM - [34mdebug[39m: loadFilesContents
+6:27:43 AM - [34mdebug[39m: loadFileContents
+6:27:43 AM - [34mdebug[39m: loadFilesContents
+6:27:44 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"8e2bf829-7d47-45b2-a26a-9058e612949e"}
+6:27:44 AM - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35mme.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mborrower[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mAlan O'Neill[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mlender[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mPaul Power[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32misbn[39m[33m"[39m[33m: [39m[33m"[39m[35m9780552149518[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mitemName[39m[33m"[39m[33m: [39m[33m"[39m[35mThe Da Vinci Code[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mgrade[39m[33m"[39m[33m: [39m[33m"[39m[35mM[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mexceptionCase[39m[33m"[39m[33m: [39m[31mtrue[39m[33m,[39m
+  [33m"[39m[32mfineDuration[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.time.Duration[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[36m1[39m[33m,[39m
+    [33m"[39m[32munit[39m[33m"[39m[33m: [39m[33m"[39m[35mdays[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mfineAmount[39m[33m"[39m[33m: [39m[36m0.25[39m[33m,[39m
+  [33m"[39m[32mcapPercentage[39m[33m"[39m[33m: [39m[36m50[39m[33m,[39m
+  [33m"[39m[32mfractionalPart[39m[33m"[39m[33m: [39m[33m"[39m[35mdays[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mcontractId[39m[33m"[39m[33m: [39m[33m"[39m[35m8e2bf829-7d47-45b2-a26a-9058e612949e[39m[33m"[39m
+[33m}[39m
+6:28:02 AM - [32minfo[39m: Using current directory as template folder
+6:28:02 AM - [32minfo[39m: Loading a default text/sample.md file.
+6:28:02 AM - [32minfo[39m: Loading a default request.json file.
+6:28:02 AM - [34mdebug[39m: loadFileContents
+6:28:02 AM - [34mdebug[39m: loadFileBuffer
+6:28:02 AM - [34mdebug[39m: loadFileContents
+6:28:02 AM - [34mdebug[39m: loadFileContents
+6:28:02 AM - [34mdebug[39m: fromDirectory
+6:28:02 AM - [34mdebug[39m: loadFilesContents
+6:28:02 AM - [34mdebug[39m: loadFilesContents
+6:28:02 AM - [34mdebug[39m: loadFilesContents
+6:28:02 AM - [34mdebug[39m: loadFilesContents
+6:28:02 AM - [34mdebug[39m: loadFilesContents
+6:28:02 AM - [34mdebug[39m: loadFilesContents
+6:28:02 AM - [34mdebug[39m: loadFilesContents
+6:28:02 AM - [34mdebug[39m: loadFileContents
+6:28:02 AM - [34mdebug[39m: fromDirectory
+6:28:02 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+6:28:02 AM - [34mdebug[39m: loadFilesContents
+6:28:02 AM - [34mdebug[39m: loadFilesContents
+6:28:02 AM - [34mdebug[39m: loadFilesContents
+6:28:02 AM - [34mdebug[39m: loadFilesContents
+6:28:02 AM - [34mdebug[39m: loadFilesContents
+6:28:02 AM - [34mdebug[39m: loadFilesContents
+6:28:02 AM - [34mdebug[39m: loadFileContents
+6:28:02 AM - [34mdebug[39m: loadFileContents
+6:28:02 AM - [34mdebug[39m: loadFileContents
+6:28:02 AM - [34mdebug[39m: loadFileContents
+6:28:02 AM - [34mdebug[39m: loadFileContents
+6:28:02 AM - [34mdebug[39m: loadFilesContents
+6:28:04 AM - [34mdebug[39m: fromDirectory
+6:28:04 AM - [34mdebug[39m: loadFileContents
+6:28:04 AM - [34mdebug[39m: fromDirectory
+6:28:04 AM - [34mdebug[39m: fromDirectory
+6:28:04 AM - [34mdebug[39m: loadFilesContents
+6:28:04 AM - [34mdebug[39m: loadFilesContents
+6:28:04 AM - [34mdebug[39m: loadFilesContents
+6:28:04 AM - [34mdebug[39m: loadFilesContents
+6:28:04 AM - [34mdebug[39m: loadFilesContents
+6:28:04 AM - [34mdebug[39m: loadFilesContents
+6:28:04 AM - [34mdebug[39m: loadFileContents
+6:28:04 AM - [34mdebug[39m: loadFilesContents
+6:28:05 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"9e0f8532-fb80-4f4d-b8ae-ffa907f22de9"}
+6:28:05 AM - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+6:28:05 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+6:28:05 AM - [34mdebug[39m: Engine processing request me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractRequest with state org.accordproject.cicero.contract.AccordContractState
+6:28:05 AM - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mpeer2peerlibrary@1.0.0-8e6b06131f0e8df3e822952291d165a8f589ecb57e1ced7d0372299dd1840134[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35mme.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mitemName[39m[33m"[39m[33m: [39m[33m"[39m[35mThe Da Vinci Code[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mexceptionCase[39m[33m"[39m[33m: [39m[31mfalse[39m[33m,[39m
+    [33m"[39m[32magreedReturn[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-09-13T23:59:59-00:00[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mreturnedOn[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-10-15T23:59:59-00:00[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mitemValue[39m[33m"[39m[33m: [39m[36m24.99[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35mme.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mitemName[39m[33m"[39m[33m: [39m[33m"[39m[35mThe Da Vinci Code[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mfine[39m[33m"[39m[33m: [39m[36m8[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35m9bb35385-dc01-4c39-80fd-3e0453a3f5f3[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-11-25T06:28:05.247Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35mme.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mcounter[39m[33m"[39m[33m: [39m[36m1[39m[33m,[39m
+    [33m"[39m[32mfinesBalance[39m[33m"[39m[33m: [39m[36m8[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35mme.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractState#null[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m
+    [33m{[39m
+      [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.runtime.PaymentObligation[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[33m{[39m
+        [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+        [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m8[39m[33m,[39m
+        [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+      [33m}[39m[33m,[39m
+      [33m"[39m[32mdescription[39m[33m"[39m[33m: [39m[33m"[39m[35mAlan O'Neill should pay fine amount to Paul Power for the late return of The Da Vinci Code[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract#9e0f8532-fb80-4f4d-b8ae-ffa907f22de9[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisor[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Paul%20Power[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisee[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Alan%20O'Neill[39m[33m"[39m[33m,[39m
+      [33m"[39m[32meventId[39m[33m"[39m[33m: [39m[33m"[39m[35mvalid[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-11-25T06:28:05.248Z[39m[33m"[39m
     [33m}[39m
   [33m][39m
 [33m}[39m

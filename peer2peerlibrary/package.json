@@ -1,8 +1,8 @@
 {
-  "name": "latereturns",
-  "displayName": "Late Returns Contract",
+  "name": "peer2peerlibrary",
+  "displayName": "Peer2Peer Book Lending Contract",
   "version": "1.0.0",
-  "description": "A library contract for late return with a fine clause.",
+  "description": "A Peer2Peer book lending contract with fine clause for overdue returns.",
   "author": "Accord Project",
   "license": "Apache-2.0",
   "accordproject": {
@@ -17,12 +17,12 @@
     "test": "cucumber-js test -r .cucumber.js"
   },
   "keywords": [
-    "late",
-    "return",
+    "peer2peer",
+    "lending",
     "fine",
     "delayed",
-    "Majeure",
-    "seller",
+    "lender",
+    "borrower",
     "pay",
     "exceed",
     "terimate",

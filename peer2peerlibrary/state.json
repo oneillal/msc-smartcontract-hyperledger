@@ -1,0 +1,6 @@
+{
+    "$class": "me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractState",
+    "stateId": "me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractState#0.0",
+    "counter": 0,
+    "finesBalance": 0.0
+  }
