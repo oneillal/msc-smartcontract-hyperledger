@@ -4,7 +4,7 @@
 
 'use strict';
 
-const CiceroContract = require('./lib/cicero-contract');
+const Peer2PeerLibrary = require('./lib/contract');
 
-module.exports.CiceroContract = CiceroContract;
-module.exports.contracts = [ CiceroContract ];
+module.exports.Peer2PeerLibrary = Peer2PeerLibrary;
+module.exports.contracts = [ Peer2PeerLibrary ];
