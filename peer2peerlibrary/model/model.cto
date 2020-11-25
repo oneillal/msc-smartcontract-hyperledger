@@ -1,13 +1,13 @@
-namespace org.dublincoco.libraries.contracts.latereturns
+namespace me.lend.contracts.peer2peerlibrary
 
 import org.accordproject.cicero.contract.* from https://models.accordproject.org/cicero/contract.cto
 import org.accordproject.cicero.runtime.* from https://models.accordproject.org/cicero/runtime.cto
 import org.accordproject.time.* from https://models.accordproject.org/v2.0/time.cto
 
 /**
- * Defines the data model for the LateReturns contract.
+ * Defines the data model for the Peer2PeerLibrary contract.
  */
-asset LateReturnsContract extends AccordContract {
+asset Peer2PeerLibraryContract extends AccordContract {
   /**
    * The borrower
    */
@@ -19,10 +19,20 @@ asset LateReturnsContract extends AccordContract {
   o AccordParty lender
 
   /**
+   * The ISBN of the item 
+   */
+  o String isbn
+
+  /**
    * The name of the item 
    */
   o String itemName
-  
+
+/**
+   * The grade of the item 
+   */
+  o String grade
+
   /**
    * Does the clause include an exception provision?
    */
@@ -49,7 +59,7 @@ asset LateReturnsContract extends AccordContract {
   o TemporalUnit fractionalPart
 }
 
-asset LateReturnsContractState extends AccordContractState {
+asset Peer2PeerLibraryContractState extends AccordContractState {
   /**
    * A state id counter
    */
@@ -64,7 +74,7 @@ asset LateReturnsContractState extends AccordContractState {
 /**
  * Defines the input data required by the contract
  */
-transaction LateReturnsContractRequest extends Request {
+transaction Peer2PeerLibraryContractRequest extends Request {
 
   /**
    * The name of the item 
@@ -95,7 +105,7 @@ transaction LateReturnsContractRequest extends Request {
 /**
  * Defines the output data for the contract
  */
-transaction LateReturnsContractResponse extends Response {
+transaction Peer2PeerLibraryContractResponse extends Response {
   /**
    * The name of the item
    */
