@@ -13,7 +13,7 @@ const { buildCAClient, registerAndEnrollUser, enrollAdmin } = require('./utils/C
 const { buildCCPOrg1, buildWallet } = require('./utils/AppUtil.js');
 
 const channelName = 'mychannel';
-const chaincodeName = 'latereturns';
+const chaincodeName = 'peer2peerlibrary';
 const mspOrg1 = 'Org1MSP';
 const walletPath = path.join(__dirname, 'wallet');
 const org1UserId = 'appUser';
@@ -56,7 +56,7 @@ async function main(chaincodeFunction, fileName, args) {
 
         // build an instance of the fabric ca services client based on
         // the information in the network configuration
-        const caClient = buildCAClient(FabricCAServices, ccp, 'ca.org1.libraries.dublincoco.org');
+        const caClient = buildCAClient(FabricCAServices, ccp, 'ca.org1.lend.me');
 
         // setup the wallet to hold the credentials of the application user
         const wallet = await buildWallet(Wallets, walletPath);

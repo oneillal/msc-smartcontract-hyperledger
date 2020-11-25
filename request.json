@@ -1,0 +1,8 @@
+{
+    "$class": "me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractRequest",
+    "itemName":"The Da Vinci Code",
+    "exceptionCase": false,
+    "agreedReturn": "2020-09-13T23:59:59-00:00",
+    "returnedOn": "2020-10-15T23:59:59-00:00",
+    "itemValue": 24.99
+}
