@@ -8,9 +8,9 @@ component queryState as "queryState()"
 component queryData as "queryData()"
 
 module -- contract
-node -- init
-node -- invoke
-node -- queryContract
-node -- queryState
-node -- queryData
+contract -- init
+contract -- invoke
+contract -- queryContract
+contract -- queryState
+contract -- queryData
 @enduml
