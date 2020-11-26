@@ -1,11 +1,11 @@
 @startuml
-node module as "contract.js"
-node contract as "Peer2PeerLibrary()"
-node init as "init()"
-node invoke as "invoke()"
-node queryContract as "queryContract()"
-node queryState as "queryState()"
-node queryData as "queryData()"
+package module as "contract.js"
+frame contract as "Peer2PeerLibrary()"
+component init as "init()"
+component invoke as "invoke()"
+component queryContract as "queryContract()"
+component queryState as "queryState()"
+component queryData as "queryData()"
 
 module -- contract
 contract -- init
