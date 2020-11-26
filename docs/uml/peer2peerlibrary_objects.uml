@@ -1,0 +1,16 @@
+@startuml
+node module as "contract.js"
+node contract as "Peer2PeerLibrary()"
+node init as "init()"
+node invoke as "invoke()"
+node queryContract as "queryContract()"
+node queryState as "queryState()"
+node queryData as "queryData()"
+
+module -- contract
+contract -- init
+contract -- invoke
+contract -- queryContract
+contract -- queryState
+contract -- queryData
+@enduml
