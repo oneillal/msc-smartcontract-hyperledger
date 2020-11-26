@@ -1,0 +1,104 @@
+@startuml
+title
+Model
+endtitle
+class org.accordproject.base.Asset << (A,green) >> {
+}
+class org.accordproject.base.Participant << (P,lightblue) >> {
+}
+class org.accordproject.base.Transaction << (T,yellow) >> {
+   + String transactionId
+   + DateTime timestamp
+}
+class org.accordproject.base.Event {
+   + String eventId
+   + DateTime timestamp
+}
+class me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract << (A,green) >> {
+   + AccordParty borrower
+   + AccordParty lender
+   + String isbn
+   + String itemName
+   + String grade
+   + Boolean exceptionCase
+   + Duration fineDuration
+   + Double fineAmount
+   + Double capPercentage
+   + TemporalUnit fractionalPart
+}
+me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract --|> org.accordproject.cicero.contract.AccordContract
+class me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractState << (A,green) >> {
+   + Double counter
+   + Double finesBalance
+}
+me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractState --|> org.accordproject.cicero.contract.AccordContractState
+class me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractRequest << (T,yellow) >> {
+   + String itemName
+   + Boolean exceptionCase
+   + DateTime agreedReturn
+   + DateTime returnedOn
+   + Double itemValue
+}
+me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractRequest --|> org.accordproject.cicero.runtime.Request
+class me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractResponse << (T,yellow) >> {
+   + String itemName
+   + Double fine
+}
+me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractResponse --|> org.accordproject.cicero.runtime.Response
+class org.accordproject.cicero.contract.AccordContractState << (A,green) >> {
+   + String stateId
+}
+org.accordproject.cicero.contract.AccordContractState --|> org.accordproject.base.Asset
+class org.accordproject.cicero.contract.AccordParty << (P,lightblue) >> {
+   + String partyId
+}
+org.accordproject.cicero.contract.AccordParty --|> org.accordproject.base.Participant
+class org.accordproject.cicero.contract.AccordContract << (A,green) >> {
+   + String contractId
+   + AccordParty[] parties
+}
+org.accordproject.cicero.contract.AccordContract --|> org.accordproject.base.Asset
+class org.accordproject.cicero.contract.AccordClause << (A,green) >> {
+   + String clauseId
+}
+org.accordproject.cicero.contract.AccordClause --|> org.accordproject.base.Asset
+class org.accordproject.cicero.runtime.Request << (T,yellow) >> {
+}
+org.accordproject.cicero.runtime.Request --|> org.accordproject.base.Transaction
+class org.accordproject.cicero.runtime.Response << (T,yellow) >> {
+}
+org.accordproject.cicero.runtime.Response --|> org.accordproject.base.Transaction
+class org.accordproject.cicero.runtime.ErrorResponse << (T,yellow) >> {
+}
+org.accordproject.cicero.runtime.ErrorResponse --|> org.accordproject.base.Transaction
+class org.accordproject.cicero.runtime.Obligation {
+   + AccordContract contract
+   + Participant promisor
+   + Participant promisee
+   + DateTime deadline
+}
+org.accordproject.cicero.runtime.Obligation --|> org.accordproject.base.Event
+class org.accordproject.cicero.runtime.PaymentObligation {
+   + MonetaryAmount amount
+   + String description
+}
+org.accordproject.cicero.runtime.PaymentObligation --|> org.accordproject.cicero.runtime.Obligation
+class org.accordproject.cicero.runtime.NotificationObligation {
+   + String title
+   + String message
+}
+org.accordproject.cicero.runtime.NotificationObligation --|> org.accordproject.cicero.runtime.Obligation
+class org.accordproject.cicero.runtime.Payload {
+   + AccordContract contract
+   + Request request
+   + AccordContractState state
+}
+class org.accordproject.cicero.runtime.Success {
+   + Response response
+   + AccordContractState state
+   + Event[] emit
+}
+class org.accordproject.cicero.runtime.Failure {
+   + ErrorResponse error
+}
+@enduml
