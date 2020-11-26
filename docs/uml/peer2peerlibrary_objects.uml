@@ -11,6 +11,6 @@ module -- contract
 node -- init
 node -- invoke
 node -- queryContract
-contract -- queryState
+node -- queryState
 contract -- queryData
 @enduml
