@@ -8,7 +8,7 @@ component queryState as "queryState()"
 component queryData as "queryData()"
 
 module -- contract
-contract -- init
+node -- init
 contract -- invoke
 contract -- queryContract
 contract -- queryState
