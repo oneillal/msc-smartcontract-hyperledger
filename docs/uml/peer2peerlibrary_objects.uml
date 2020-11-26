@@ -12,5 +12,5 @@ node -- init
 node -- invoke
 node -- queryContract
 node -- queryState
-contract -- queryData
+node -- queryData
 @enduml
