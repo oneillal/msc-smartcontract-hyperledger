@@ -10,7 +10,7 @@ component queryData as "queryData()"
 module -- contract
 node -- init
 node -- invoke
-contract -- queryContract
+node -- queryContract
 contract -- queryState
 contract -- queryData
 @enduml
