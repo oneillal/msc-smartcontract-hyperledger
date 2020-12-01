@@ -1,0 +1,15 @@
+@startuml
+left to right direction
+actor Lender as lender
+package "P2P Library"{
+  usecase "Lend Book" as UC1
+  usecase "Borrow Book" as UC2
+  usecase "Return Book" as UC3
+  usecase "Pay Fine" as UC4
+}
+actor Borrower as borrower
+UC2 <-- borrower
+UC3 <-- borrower
+UC4 <-- borrower
+lender --> UC1
+@enduml
