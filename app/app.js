@@ -1,8 +1,3 @@
-/*
- *
- * SPDX-License-Identifier: Apache-2.0
- */
-
 'use strict';
 
 const { Gateway, Wallets } = require('fabric-network');
@@ -18,37 +13,7 @@ const mspOrg1 = 'Org1MSP';
 const walletPath = path.join(__dirname, 'wallet');
 const org1UserId = 'appUser';
 
-// pre-requisites:
-// - fabric-sample two organization test-network setup with two peers, ordering service,
-//   and 2 certificate authorities
-//         ===> from directory /fabric-samples/test-network
-//         ./network.sh up createChannel -ca
-// - Deploy the cicero chaincode on the channel "mychannel"
 
-// NOTE: If you see  kind an error like these:
-/*
-    2020-08-07T20:23:17.590Z - error: [DiscoveryService]: send[mychannel] - Channel:mychannel received discovery error:access denied
-    ******** FAILED to run the application: Error: DiscoveryService: mychannel error: access denied
-
-   OR
-
-   Failed to register user : Error: fabric-ca request register failed with errors [[ { code: 20, message: 'Authentication failure' } ]]
-   ******** FAILED to run the application: Error: Identity not found in wallet: appUser
-*/
-// Delete the ./wallet directory
-// and retry this application.
-//
-// The certificate authority must have been restarted and the saved certificates for the
-// admin and application user are not valid. Deleting the wallet store will force these to be reset
-// with the new certificate authority.
-//
-
-/**
- * Triggers functions in the Cicero chaincode, submitting files and additional arguments.
- *
- * To see the SDK workings, try setting the logging to show on the console before running
- *        export HFC_LOGGING='{"debug":"console"}'
- */
 async function main(chaincodeFunction, fileName, args) {
     try {
         // build an in memory object with the network configuration (also known as a connection profile)
