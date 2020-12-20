@@ -21,7 +21,7 @@ async function main(chaincodeFunction, fileName, args) {
 
         // build an instance of the fabric ca services client based on
         // the information in the network configuration
-        const caClient = buildCAClient(FabricCAServices, ccp, 'ca2.org1.lend.me');
+        const caClient = buildCAClient(FabricCAServices, ccp, 'ca.org1.lend.me');
 
         // setup the wallet to hold the credentials of the application user
         const wallet = await buildWallet(Wallets, walletPath);
