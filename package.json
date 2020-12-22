@@ -1,15 +1,15 @@
 {
-    "name": "cicero-contract",
-    "version": "1.0.0",
-    "description": "Accord Project Cicero contracts on Hyperledger Fabric",
+    "name": "peer2peerlibrary-contract",
+    "version": "1.0.1",
+    "description": "Peer2Peer Library use-case using Accord Project Cicero contracts on Hyperledger Fabric",
     "main": "index.js",
     "engines": {
         "node": ">=12",
         "npm": ">=5"
     },
     "scripts": {
-        "lint": "eslint .",
-        "pretest": "npm run lint",
+        "_lint": "eslint .",
+        "_pretest": "npm run lint",
         "test": "nyc mocha --recursive --timeout 10000",
         "start": "fabric-chaincode-node start"
     },
@@ -46,7 +46,7 @@
             "html"
         ],
         "all": true,
-        "check-coverage": true,
+        "check-coverage": false,
         "statements": 100,
         "branches": 100,
         "functions": 100,
