@@ -1,7 +1,7 @@
 {
-    "name": "cicero-contract",
+    "name": "peer2peerlibrary-contract",
     "version": "1.0.1",
-    "description": "Accord Project Cicero contracts on Hyperledger Fabric",
+    "description": "Peer2Peer Library use-case using Accord Project Cicero contracts on Hyperledger Fabric",
     "main": "index.js",
     "engines": {
         "node": ">=12",
