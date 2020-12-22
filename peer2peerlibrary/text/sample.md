@@ -1,7 +1,7 @@
 Peer2Peer Library Contract.
 ----
 "Paul Power" (the Lender) agrees to lend "Alan O'Neill" (the Borrower)
-the itemName "The Da Vinci Code" ("9780552149518") which is currently graded as "M".
+the itemName "The Da Vinci Code" ("9780552149518") which is currently graded as "VG+".
 
 In the case of the late return of the item, the Borrower shall pay to Lender
 a fine amounting to 0.25 (EUR) for every 1 days the item was returned overdue.
