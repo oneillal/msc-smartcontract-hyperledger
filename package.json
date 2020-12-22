@@ -1,6 +1,6 @@
 {
     "name": "cicero-contract",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Accord Project Cicero contracts on Hyperledger Fabric",
     "main": "index.js",
     "engines": {
@@ -8,8 +8,8 @@
         "npm": ">=5"
     },
     "scripts": {
-        "lint": "eslint .",
-        "pretest": "npm run lint",
+        "_lint": "eslint .",
+        "_pretest": "npm run lint",
         "test": "nyc mocha --recursive --timeout 10000",
         "start": "fabric-chaincode-node start"
     },
