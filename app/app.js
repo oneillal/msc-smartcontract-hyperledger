@@ -7,7 +7,7 @@ const fs = require('fs');
 const { buildCAClient, registerAndEnrollUser, enrollAdmin } = require('./utils/CAUtil.js');
 const { buildCCPOrg1, buildWallet } = require('./utils/AppUtil.js');
 
-const channelName = 'mychannel';
+const channelName = 'channel1';
 const chaincodeName = 'peer2peerlibrary';
 const mspOrg1 = 'Org1MSP';
 const walletPath = path.join(__dirname, 'wallet');

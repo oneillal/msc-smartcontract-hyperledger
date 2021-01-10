@@ -1,0 +1,2985 @@
+06:16:03 - [34mdebug[39m: loadFileContents
+06:16:03 - [34mdebug[39m: loadFileBuffer
+06:16:03 - [34mdebug[39m: loadFileContents
+06:16:03 - [34mdebug[39m: loadFileContents
+06:16:03 - [34mdebug[39m: fromDirectory
+06:16:03 - [34mdebug[39m: loadFilesContents
+06:16:04 - [34mdebug[39m: loadFilesContents
+06:16:04 - [34mdebug[39m: loadFilesContents
+06:16:04 - [34mdebug[39m: loadFilesContents
+06:16:04 - [34mdebug[39m: loadFilesContents
+06:16:04 - [34mdebug[39m: loadFilesContents
+06:16:04 - [34mdebug[39m: loadFilesContents
+06:16:04 - [34mdebug[39m: loadFileContents
+06:16:04 - [34mdebug[39m: fromDirectory
+06:16:04 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+06:17:23 - [34mdebug[39m: loadFileContents
+06:17:23 - [34mdebug[39m: loadFileBuffer
+06:17:23 - [34mdebug[39m: loadFileContents
+06:17:23 - [34mdebug[39m: loadFileContents
+06:17:23 - [34mdebug[39m: fromDirectory
+06:17:23 - [34mdebug[39m: loadFilesContents
+06:17:24 - [34mdebug[39m: loadFileContents
+06:17:24 - [34mdebug[39m: loadFileBuffer
+06:17:24 - [34mdebug[39m: loadFileContents
+06:17:24 - [34mdebug[39m: loadFileContents
+06:17:24 - [34mdebug[39m: fromDirectory
+06:17:24 - [34mdebug[39m: loadFilesContents
+06:17:24 - [34mdebug[39m: loadFilesContents
+06:17:24 - [34mdebug[39m: loadFilesContents
+06:17:24 - [34mdebug[39m: loadFilesContents
+06:17:24 - [34mdebug[39m: loadFilesContents
+06:17:24 - [34mdebug[39m: loadFilesContents
+06:17:24 - [34mdebug[39m: loadFilesContents
+06:17:24 - [34mdebug[39m: loadFilesContents
+06:17:24 - [34mdebug[39m: loadFilesContents
+06:17:24 - [34mdebug[39m: loadFilesContents
+06:17:24 - [34mdebug[39m: loadFilesContents
+06:17:24 - [34mdebug[39m: loadFilesContents
+06:17:24 - [34mdebug[39m: loadFileContents
+06:17:24 - [34mdebug[39m: loadFilesContents
+06:17:24 - [34mdebug[39m: loadFileContents
+06:17:24 - [34mdebug[39m: fromDirectory
+06:17:24 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+06:17:24 - [34mdebug[39m: fromDirectory
+06:17:24 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+06:17:26 - [34mdebug[39m: loadFileContents
+06:17:26 - [34mdebug[39m: loadFileBuffer
+06:17:26 - [34mdebug[39m: loadFileContents
+06:17:26 - [34mdebug[39m: loadFileContents
+06:17:26 - [34mdebug[39m: fromDirectory
+06:17:26 - [34mdebug[39m: loadFilesContents
+06:17:27 - [34mdebug[39m: loadFileContents
+06:17:27 - [34mdebug[39m: loadFileBuffer
+06:17:27 - [34mdebug[39m: loadFileContents
+06:17:27 - [34mdebug[39m: loadFileContents
+06:17:27 - [34mdebug[39m: fromDirectory
+06:17:27 - [34mdebug[39m: loadFilesContents
+06:17:27 - [34mdebug[39m: loadFilesContents
+06:17:27 - [34mdebug[39m: loadFilesContents
+06:17:27 - [34mdebug[39m: loadFilesContents
+06:17:27 - [34mdebug[39m: loadFilesContents
+06:17:27 - [34mdebug[39m: loadFilesContents
+06:17:27 - [34mdebug[39m: loadFilesContents
+06:17:27 - [34mdebug[39m: loadFilesContents
+06:17:27 - [34mdebug[39m: loadFilesContents
+06:17:27 - [34mdebug[39m: loadFilesContents
+06:17:27 - [34mdebug[39m: loadFilesContents
+06:17:27 - [34mdebug[39m: loadFilesContents
+06:17:27 - [34mdebug[39m: loadFileContents
+06:17:27 - [34mdebug[39m: loadFilesContents
+06:17:27 - [34mdebug[39m: loadFileContents
+06:17:27 - [34mdebug[39m: fromDirectory
+06:17:27 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+06:17:27 - [34mdebug[39m: fromDirectory
+06:17:27 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+06:17:28 - [34mdebug[39m: loadFileContents
+06:17:28 - [34mdebug[39m: loadFileBuffer
+06:17:28 - [34mdebug[39m: loadFileContents
+06:17:28 - [34mdebug[39m: loadFileContents
+06:17:28 - [34mdebug[39m: fromDirectory
+06:17:28 - [34mdebug[39m: loadFilesContents
+06:17:29 - [34mdebug[39m: loadFileContents
+06:17:29 - [34mdebug[39m: loadFileBuffer
+06:17:29 - [34mdebug[39m: loadFileContents
+06:17:29 - [34mdebug[39m: loadFileContents
+06:17:29 - [34mdebug[39m: fromDirectory
+06:17:29 - [34mdebug[39m: loadFilesContents
+06:17:29 - [34mdebug[39m: loadFilesContents
+06:17:29 - [34mdebug[39m: loadFilesContents
+06:17:29 - [34mdebug[39m: loadFilesContents
+06:17:29 - [34mdebug[39m: loadFilesContents
+06:17:29 - [34mdebug[39m: loadFilesContents
+06:17:29 - [34mdebug[39m: loadFilesContents
+06:17:29 - [34mdebug[39m: loadFilesContents
+06:17:29 - [34mdebug[39m: loadFilesContents
+06:17:29 - [34mdebug[39m: loadFilesContents
+06:17:29 - [34mdebug[39m: loadFilesContents
+06:17:29 - [34mdebug[39m: loadFilesContents
+06:17:29 - [34mdebug[39m: loadFileContents
+06:17:29 - [34mdebug[39m: loadFilesContents
+06:17:29 - [34mdebug[39m: loadFileContents
+06:17:29 - [34mdebug[39m: fromDirectory
+06:17:29 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+06:17:29 - [34mdebug[39m: fromDirectory
+06:17:29 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+06:26:15 - [34mdebug[39m: loadFileContents
+06:26:15 - [34mdebug[39m: loadFileBuffer
+06:26:15 - [34mdebug[39m: loadFileContents
+06:26:15 - [34mdebug[39m: loadFileContents
+06:26:15 - [34mdebug[39m: fromDirectory
+06:26:15 - [34mdebug[39m: loadFilesContents
+06:26:15 - [34mdebug[39m: loadFilesContents
+06:26:15 - [34mdebug[39m: loadFilesContents
+06:26:15 - [34mdebug[39m: loadFilesContents
+06:26:15 - [34mdebug[39m: loadFilesContents
+06:26:15 - [34mdebug[39m: loadFilesContents
+06:26:15 - [34mdebug[39m: loadFilesContents
+06:26:15 - [34mdebug[39m: loadFileContents
+06:26:15 - [34mdebug[39m: fromDirectory
+06:26:15 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+06:26:19 - [34mdebug[39m: loadFileContents
+06:26:19 - [34mdebug[39m: loadFileBuffer
+06:26:19 - [34mdebug[39m: loadFileContents
+06:26:19 - [34mdebug[39m: loadFileContents
+06:26:19 - [34mdebug[39m: fromDirectory
+06:26:19 - [34mdebug[39m: loadFilesContents
+06:26:19 - [34mdebug[39m: loadFilesContents
+06:26:19 - [34mdebug[39m: loadFilesContents
+06:26:19 - [34mdebug[39m: loadFilesContents
+06:26:19 - [34mdebug[39m: loadFilesContents
+06:26:19 - [34mdebug[39m: loadFilesContents
+06:26:19 - [34mdebug[39m: loadFilesContents
+06:26:19 - [34mdebug[39m: loadFileContents
+06:26:19 - [34mdebug[39m: fromDirectory
+06:26:19 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+06:26:22 - [34mdebug[39m: loadFileContents
+06:26:22 - [34mdebug[39m: loadFileBuffer
+06:26:22 - [34mdebug[39m: loadFileContents
+06:26:22 - [34mdebug[39m: loadFileContents
+06:26:22 - [34mdebug[39m: fromDirectory
+06:26:22 - [34mdebug[39m: loadFilesContents
+06:26:22 - [34mdebug[39m: loadFilesContents
+06:26:22 - [34mdebug[39m: loadFilesContents
+06:26:22 - [34mdebug[39m: loadFilesContents
+06:26:22 - [34mdebug[39m: loadFilesContents
+06:26:22 - [34mdebug[39m: loadFilesContents
+06:26:22 - [34mdebug[39m: loadFilesContents
+06:26:22 - [34mdebug[39m: loadFileContents
+06:26:22 - [34mdebug[39m: fromDirectory
+06:26:22 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+06:26:22 - [34mdebug[39m: loadFileContents
+06:26:22 - [34mdebug[39m: loadFileBuffer
+06:26:22 - [34mdebug[39m: loadFileContents
+06:26:22 - [34mdebug[39m: loadFileContents
+06:26:22 - [34mdebug[39m: fromDirectory
+06:26:22 - [34mdebug[39m: loadFilesContents
+06:26:22 - [34mdebug[39m: loadFilesContents
+06:26:22 - [34mdebug[39m: loadFilesContents
+06:26:22 - [34mdebug[39m: loadFilesContents
+06:26:22 - [34mdebug[39m: loadFilesContents
+06:26:22 - [34mdebug[39m: loadFilesContents
+06:26:22 - [34mdebug[39m: loadFilesContents
+06:26:22 - [34mdebug[39m: loadFileContents
+06:26:22 - [34mdebug[39m: fromDirectory
+06:26:22 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+06:26:22 - [34mdebug[39m: loadFileContents
+06:26:22 - [34mdebug[39m: loadFileBuffer
+06:26:22 - [34mdebug[39m: loadFileContents
+06:26:22 - [34mdebug[39m: loadFileContents
+06:26:22 - [34mdebug[39m: fromDirectory
+06:26:22 - [34mdebug[39m: loadFilesContents
+06:26:22 - [34mdebug[39m: loadFilesContents
+06:26:22 - [34mdebug[39m: loadFilesContents
+06:26:22 - [34mdebug[39m: loadFilesContents
+06:26:22 - [34mdebug[39m: loadFilesContents
+06:26:22 - [34mdebug[39m: loadFilesContents
+06:26:22 - [34mdebug[39m: loadFilesContents
+06:26:22 - [34mdebug[39m: loadFileContents
+06:26:22 - [34mdebug[39m: fromDirectory
+06:26:22 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+06:26:22 - [34mdebug[39m: loadFileContents
+06:26:22 - [34mdebug[39m: loadFileBuffer
+06:26:22 - [34mdebug[39m: loadFileContents
+06:26:22 - [34mdebug[39m: loadFileContents
+06:26:22 - [34mdebug[39m: fromDirectory
+06:26:22 - [34mdebug[39m: loadFilesContents
+06:26:22 - [34mdebug[39m: loadFilesContents
+06:26:22 - [34mdebug[39m: loadFilesContents
+06:26:22 - [34mdebug[39m: loadFilesContents
+06:26:22 - [34mdebug[39m: loadFilesContents
+06:26:22 - [34mdebug[39m: loadFilesContents
+06:26:23 - [34mdebug[39m: loadFilesContents
+06:26:23 - [34mdebug[39m: loadFileContents
+06:26:23 - [34mdebug[39m: fromDirectory
+06:26:23 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+06:26:23 - [34mdebug[39m: loadFileContents
+06:26:23 - [34mdebug[39m: loadFileBuffer
+06:26:23 - [34mdebug[39m: loadFileContents
+06:26:23 - [34mdebug[39m: loadFileContents
+06:26:23 - [34mdebug[39m: fromDirectory
+06:26:23 - [34mdebug[39m: loadFilesContents
+06:26:23 - [34mdebug[39m: loadFilesContents
+06:26:23 - [34mdebug[39m: loadFilesContents
+06:26:23 - [34mdebug[39m: loadFilesContents
+06:26:23 - [34mdebug[39m: loadFilesContents
+06:26:23 - [34mdebug[39m: loadFilesContents
+06:26:23 - [34mdebug[39m: loadFilesContents
+06:26:23 - [34mdebug[39m: loadFileContents
+06:26:23 - [34mdebug[39m: fromDirectory
+06:26:23 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+06:26:24 - [34mdebug[39m: loadFileContents
+06:26:24 - [34mdebug[39m: loadFileBuffer
+06:26:24 - [34mdebug[39m: loadFileContents
+06:26:24 - [34mdebug[39m: loadFileContents
+06:26:24 - [34mdebug[39m: fromDirectory
+06:26:24 - [34mdebug[39m: loadFilesContents
+06:26:24 - [34mdebug[39m: loadFilesContents
+06:26:24 - [34mdebug[39m: loadFilesContents
+06:26:24 - [34mdebug[39m: loadFilesContents
+06:26:24 - [34mdebug[39m: loadFilesContents
+06:26:24 - [34mdebug[39m: loadFilesContents
+06:26:24 - [34mdebug[39m: loadFilesContents
+06:26:24 - [34mdebug[39m: loadFileContents
+06:26:24 - [34mdebug[39m: fromDirectory
+06:26:24 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+06:26:30 - [34mdebug[39m: loadFileContents
+06:26:30 - [34mdebug[39m: loadFileBuffer
+06:26:30 - [34mdebug[39m: loadFileContents
+06:26:30 - [34mdebug[39m: loadFileContents
+06:26:30 - [34mdebug[39m: fromDirectory
+06:26:30 - [34mdebug[39m: loadFilesContents
+06:26:30 - [34mdebug[39m: loadFileContents
+06:26:30 - [34mdebug[39m: loadFileBuffer
+06:26:30 - [34mdebug[39m: loadFileContents
+06:26:30 - [34mdebug[39m: loadFileContents
+06:26:30 - [34mdebug[39m: fromDirectory
+06:26:30 - [34mdebug[39m: loadFilesContents
+06:26:30 - [34mdebug[39m: loadFilesContents
+06:26:30 - [34mdebug[39m: loadFilesContents
+06:26:30 - [34mdebug[39m: loadFilesContents
+06:26:30 - [34mdebug[39m: loadFilesContents
+06:26:30 - [34mdebug[39m: loadFilesContents
+06:26:30 - [34mdebug[39m: loadFilesContents
+06:26:30 - [34mdebug[39m: loadFilesContents
+06:26:30 - [34mdebug[39m: loadFilesContents
+06:26:30 - [34mdebug[39m: loadFilesContents
+06:26:30 - [34mdebug[39m: loadFilesContents
+06:26:30 - [34mdebug[39m: loadFilesContents
+06:26:30 - [34mdebug[39m: loadFileContents
+06:26:30 - [34mdebug[39m: loadFilesContents
+06:26:30 - [34mdebug[39m: loadFileContents
+06:26:30 - [34mdebug[39m: fromDirectory
+06:26:30 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+06:26:30 - [34mdebug[39m: fromDirectory
+06:26:30 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+06:26:33 - [34mdebug[39m: loadFileContents
+06:26:33 - [34mdebug[39m: loadFileBuffer
+06:26:33 - [34mdebug[39m: loadFileContents
+06:26:33 - [34mdebug[39m: loadFileContents
+06:26:33 - [34mdebug[39m: fromDirectory
+06:26:33 - [34mdebug[39m: loadFilesContents
+06:26:33 - [34mdebug[39m: loadFilesContents
+06:26:33 - [34mdebug[39m: loadFilesContents
+06:26:33 - [34mdebug[39m: loadFilesContents
+06:26:33 - [34mdebug[39m: loadFilesContents
+06:26:33 - [34mdebug[39m: loadFilesContents
+06:26:33 - [34mdebug[39m: loadFileContents
+06:26:33 - [34mdebug[39m: loadFileBuffer
+06:26:33 - [34mdebug[39m: loadFileContents
+06:26:33 - [34mdebug[39m: loadFileContents
+06:26:33 - [34mdebug[39m: fromDirectory
+06:26:33 - [34mdebug[39m: loadFilesContents
+06:26:33 - [34mdebug[39m: loadFilesContents
+06:26:33 - [34mdebug[39m: loadFileContents
+06:26:33 - [34mdebug[39m: loadFilesContents
+06:26:33 - [34mdebug[39m: loadFilesContents
+06:26:33 - [34mdebug[39m: loadFilesContents
+06:26:33 - [34mdebug[39m: loadFilesContents
+06:26:33 - [34mdebug[39m: loadFilesContents
+06:26:33 - [34mdebug[39m: fromDirectory
+06:26:33 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+06:26:33 - [34mdebug[39m: loadFilesContents
+06:26:33 - [34mdebug[39m: loadFileContents
+06:26:33 - [34mdebug[39m: fromDirectory
+06:26:33 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+06:26:33 - [34mdebug[39m: loadFileContents
+06:26:33 - [34mdebug[39m: loadFileBuffer
+06:26:33 - [34mdebug[39m: loadFileContents
+06:26:33 - [34mdebug[39m: loadFileContents
+06:26:33 - [34mdebug[39m: fromDirectory
+06:26:33 - [34mdebug[39m: loadFilesContents
+06:26:33 - [34mdebug[39m: loadFilesContents
+06:26:33 - [34mdebug[39m: loadFilesContents
+06:26:33 - [34mdebug[39m: loadFilesContents
+06:26:33 - [34mdebug[39m: loadFilesContents
+06:26:33 - [34mdebug[39m: loadFilesContents
+06:26:33 - [34mdebug[39m: loadFilesContents
+06:26:33 - [34mdebug[39m: loadFileContents
+06:26:33 - [34mdebug[39m: fromDirectory
+06:26:33 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+06:26:34 - [34mdebug[39m: loadFileContents
+06:26:34 - [34mdebug[39m: loadFileBuffer
+06:26:34 - [34mdebug[39m: loadFileContents
+06:26:34 - [34mdebug[39m: loadFileContents
+06:26:34 - [34mdebug[39m: fromDirectory
+06:26:34 - [34mdebug[39m: loadFilesContents
+06:26:34 - [34mdebug[39m: loadFilesContents
+06:26:34 - [34mdebug[39m: loadFilesContents
+06:26:34 - [34mdebug[39m: loadFilesContents
+06:26:34 - [34mdebug[39m: loadFilesContents
+06:26:34 - [34mdebug[39m: loadFilesContents
+06:26:34 - [34mdebug[39m: loadFilesContents
+06:26:34 - [34mdebug[39m: loadFileContents
+06:26:34 - [34mdebug[39m: fromDirectory
+06:26:34 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+06:26:34 - [34mdebug[39m: loadFileContents
+06:26:34 - [34mdebug[39m: loadFileBuffer
+06:26:34 - [34mdebug[39m: loadFileContents
+06:26:34 - [34mdebug[39m: loadFileContents
+06:26:34 - [34mdebug[39m: fromDirectory
+06:26:34 - [34mdebug[39m: loadFilesContents
+06:26:34 - [34mdebug[39m: loadFilesContents
+06:26:34 - [34mdebug[39m: loadFilesContents
+06:26:34 - [34mdebug[39m: loadFilesContents
+06:26:34 - [34mdebug[39m: loadFilesContents
+06:26:34 - [34mdebug[39m: loadFilesContents
+06:26:34 - [34mdebug[39m: loadFilesContents
+06:26:34 - [34mdebug[39m: loadFileContents
+06:26:34 - [34mdebug[39m: fromDirectory
+06:26:34 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+06:26:35 - [34mdebug[39m: loadFileContents
+06:26:35 - [34mdebug[39m: loadFileBuffer
+06:26:35 - [34mdebug[39m: loadFileContents
+06:26:35 - [34mdebug[39m: loadFileContents
+06:26:35 - [34mdebug[39m: fromDirectory
+06:26:35 - [34mdebug[39m: loadFilesContents
+06:26:35 - [34mdebug[39m: loadFilesContents
+06:26:35 - [34mdebug[39m: loadFilesContents
+06:26:35 - [34mdebug[39m: loadFilesContents
+06:26:35 - [34mdebug[39m: loadFilesContents
+06:26:35 - [34mdebug[39m: loadFilesContents
+06:26:35 - [34mdebug[39m: loadFilesContents
+06:26:35 - [34mdebug[39m: loadFileContents
+06:26:35 - [34mdebug[39m: fromDirectory
+06:26:35 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+06:26:35 - [34mdebug[39m: loadFileContents
+06:26:35 - [34mdebug[39m: loadFileBuffer
+06:26:35 - [34mdebug[39m: loadFileContents
+06:26:35 - [34mdebug[39m: loadFileContents
+06:26:35 - [34mdebug[39m: fromDirectory
+06:26:35 - [34mdebug[39m: loadFilesContents
+06:26:35 - [34mdebug[39m: loadFileContents
+06:26:35 - [34mdebug[39m: loadFileBuffer
+06:26:35 - [34mdebug[39m: loadFileContents
+06:26:35 - [34mdebug[39m: loadFileContents
+06:26:35 - [34mdebug[39m: fromDirectory
+06:26:35 - [34mdebug[39m: loadFilesContents
+06:26:35 - [34mdebug[39m: loadFilesContents
+06:26:35 - [34mdebug[39m: loadFilesContents
+06:26:35 - [34mdebug[39m: loadFilesContents
+06:26:35 - [34mdebug[39m: loadFilesContents
+06:26:35 - [34mdebug[39m: loadFilesContents
+06:26:35 - [34mdebug[39m: loadFilesContents
+06:26:35 - [34mdebug[39m: loadFilesContents
+06:26:35 - [34mdebug[39m: loadFilesContents
+06:26:35 - [34mdebug[39m: loadFilesContents
+06:26:35 - [34mdebug[39m: loadFilesContents
+06:26:35 - [34mdebug[39m: loadFilesContents
+06:26:35 - [34mdebug[39m: loadFileContents
+06:26:35 - [34mdebug[39m: loadFilesContents
+06:26:35 - [34mdebug[39m: loadFileContents
+06:26:35 - [34mdebug[39m: fromDirectory
+06:26:35 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+06:26:35 - [34mdebug[39m: fromDirectory
+06:26:35 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+06:26:51 - [34mdebug[39m: loadFileContents
+06:26:51 - [34mdebug[39m: loadFileBuffer
+06:26:51 - [34mdebug[39m: loadFileContents
+06:26:51 - [34mdebug[39m: loadFileContents
+06:26:51 - [34mdebug[39m: fromDirectory
+06:26:51 - [34mdebug[39m: loadFilesContents
+06:26:51 - [34mdebug[39m: loadFileContents
+06:26:51 - [34mdebug[39m: loadFileBuffer
+06:26:51 - [34mdebug[39m: loadFileContents
+06:26:51 - [34mdebug[39m: loadFileContents
+06:26:51 - [34mdebug[39m: fromDirectory
+06:26:51 - [34mdebug[39m: loadFilesContents
+06:26:51 - [34mdebug[39m: loadFilesContents
+06:26:51 - [34mdebug[39m: loadFilesContents
+06:26:51 - [34mdebug[39m: loadFilesContents
+06:26:51 - [34mdebug[39m: loadFilesContents
+06:26:51 - [34mdebug[39m: loadFilesContents
+06:26:51 - [34mdebug[39m: loadFilesContents
+06:26:51 - [34mdebug[39m: loadFilesContents
+06:26:51 - [34mdebug[39m: loadFilesContents
+06:26:51 - [34mdebug[39m: loadFilesContents
+06:26:51 - [34mdebug[39m: loadFilesContents
+06:26:51 - [34mdebug[39m: loadFilesContents
+06:26:51 - [34mdebug[39m: loadFileContents
+06:26:51 - [34mdebug[39m: loadFilesContents
+06:26:51 - [34mdebug[39m: loadFileContents
+06:26:51 - [34mdebug[39m: fromDirectory
+06:26:51 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+06:26:51 - [34mdebug[39m: fromDirectory
+06:26:51 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+06:27:33 - [34mdebug[39m: loadFileContents
+06:27:33 - [34mdebug[39m: loadFileBuffer
+06:27:33 - [34mdebug[39m: loadFileContents
+06:27:33 - [34mdebug[39m: loadFileContents
+06:27:33 - [34mdebug[39m: fromDirectory
+06:27:33 - [34mdebug[39m: loadFilesContents
+06:27:33 - [34mdebug[39m: loadFilesContents
+06:27:33 - [34mdebug[39m: loadFilesContents
+06:27:33 - [34mdebug[39m: loadFilesContents
+06:27:33 - [34mdebug[39m: loadFilesContents
+06:27:33 - [34mdebug[39m: loadFilesContents
+06:27:33 - [34mdebug[39m: loadFilesContents
+06:27:33 - [34mdebug[39m: loadFileContents
+06:27:33 - [34mdebug[39m: fromDirectory
+06:27:33 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+06:27:34 - [34mdebug[39m: loadFileContents
+06:27:34 - [34mdebug[39m: loadFileBuffer
+06:27:34 - [34mdebug[39m: loadFileContents
+06:27:34 - [34mdebug[39m: loadFileContents
+06:27:34 - [34mdebug[39m: fromDirectory
+06:27:34 - [34mdebug[39m: loadFilesContents
+06:27:34 - [34mdebug[39m: loadFileContents
+06:27:34 - [34mdebug[39m: loadFileBuffer
+06:27:34 - [34mdebug[39m: loadFileContents
+06:27:34 - [34mdebug[39m: loadFileContents
+06:27:34 - [34mdebug[39m: fromDirectory
+06:27:34 - [34mdebug[39m: loadFilesContents
+06:27:35 - [34mdebug[39m: loadFileContents
+06:27:35 - [34mdebug[39m: loadFileBuffer
+06:27:35 - [34mdebug[39m: loadFileContents
+06:27:35 - [34mdebug[39m: loadFileContents
+06:27:35 - [34mdebug[39m: fromDirectory
+06:27:35 - [34mdebug[39m: loadFilesContents
+06:27:35 - [34mdebug[39m: loadFilesContents
+06:27:35 - [34mdebug[39m: loadFilesContents
+06:27:35 - [34mdebug[39m: loadFilesContents
+06:27:35 - [34mdebug[39m: loadFilesContents
+06:27:35 - [34mdebug[39m: loadFilesContents
+06:27:35 - [34mdebug[39m: loadFilesContents
+06:27:35 - [34mdebug[39m: loadFilesContents
+06:27:35 - [34mdebug[39m: loadFilesContents
+06:27:35 - [34mdebug[39m: loadFilesContents
+06:27:35 - [34mdebug[39m: loadFilesContents
+06:27:35 - [34mdebug[39m: loadFilesContents
+06:27:35 - [34mdebug[39m: loadFilesContents
+06:27:35 - [34mdebug[39m: loadFilesContents
+06:27:35 - [34mdebug[39m: loadFilesContents
+06:27:35 - [34mdebug[39m: loadFilesContents
+06:27:35 - [34mdebug[39m: loadFilesContents
+06:27:35 - [34mdebug[39m: loadFileContents
+06:27:35 - [34mdebug[39m: loadFilesContents
+06:27:35 - [34mdebug[39m: loadFileContents
+06:27:35 - [34mdebug[39m: loadFilesContents
+06:27:35 - [34mdebug[39m: loadFileContents
+06:27:35 - [34mdebug[39m: fromDirectory
+06:27:35 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+06:27:35 - [34mdebug[39m: fromDirectory
+06:27:35 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+06:27:35 - [34mdebug[39m: fromDirectory
+06:27:35 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+06:53:13 - [34mdebug[39m: loadFileContents
+06:53:13 - [34mdebug[39m: loadFileBuffer
+06:53:13 - [34mdebug[39m: loadFileContents
+06:53:13 - [34mdebug[39m: loadFileContents
+06:53:13 - [34mdebug[39m: fromDirectory
+06:53:13 - [34mdebug[39m: loadFilesContents
+06:53:13 - [34mdebug[39m: loadFilesContents
+06:53:13 - [34mdebug[39m: loadFilesContents
+06:53:13 - [34mdebug[39m: loadFilesContents
+06:53:13 - [34mdebug[39m: loadFilesContents
+06:53:13 - [34mdebug[39m: loadFilesContents
+06:53:13 - [34mdebug[39m: loadFilesContents
+06:53:13 - [34mdebug[39m: loadFileContents
+06:53:13 - [34mdebug[39m: fromDirectory
+06:53:13 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+06:53:35 - [34mdebug[39m: loadFileContents
+06:53:35 - [34mdebug[39m: loadFileBuffer
+06:53:35 - [34mdebug[39m: loadFileContents
+06:53:35 - [34mdebug[39m: loadFileContents
+06:53:35 - [34mdebug[39m: fromDirectory
+06:53:35 - [34mdebug[39m: loadFilesContents
+06:53:35 - [34mdebug[39m: loadFilesContents
+06:53:35 - [34mdebug[39m: loadFilesContents
+06:53:35 - [34mdebug[39m: loadFilesContents
+06:53:35 - [34mdebug[39m: loadFilesContents
+06:53:35 - [34mdebug[39m: loadFilesContents
+06:53:35 - [34mdebug[39m: loadFilesContents
+06:53:35 - [34mdebug[39m: loadFileContents
+06:53:35 - [34mdebug[39m: fromDirectory
+06:53:35 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+06:53:36 - [34mdebug[39m: loadFileContents
+06:53:36 - [34mdebug[39m: loadFileBuffer
+06:53:36 - [34mdebug[39m: loadFileContents
+06:53:36 - [34mdebug[39m: loadFileContents
+06:53:36 - [34mdebug[39m: fromDirectory
+06:53:36 - [34mdebug[39m: loadFilesContents
+06:53:36 - [34mdebug[39m: loadFilesContents
+06:53:36 - [34mdebug[39m: loadFilesContents
+06:53:36 - [34mdebug[39m: loadFilesContents
+06:53:36 - [34mdebug[39m: loadFilesContents
+06:53:36 - [34mdebug[39m: loadFilesContents
+06:53:36 - [34mdebug[39m: loadFilesContents
+06:53:36 - [34mdebug[39m: loadFileContents
+06:53:36 - [34mdebug[39m: fromDirectory
+06:53:36 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+08:12:40 - [34mdebug[39m: loadFileContents
+08:12:40 - [34mdebug[39m: loadFileBuffer
+08:12:40 - [34mdebug[39m: loadFileContents
+08:12:40 - [34mdebug[39m: loadFileContents
+08:12:40 - [34mdebug[39m: fromDirectory
+08:12:40 - [34mdebug[39m: loadFilesContents
+08:12:40 - [34mdebug[39m: loadFileContents
+08:12:40 - [34mdebug[39m: loadFileBuffer
+08:12:40 - [34mdebug[39m: loadFileContents
+08:12:40 - [34mdebug[39m: loadFileContents
+08:12:40 - [34mdebug[39m: fromDirectory
+08:12:40 - [34mdebug[39m: loadFilesContents
+08:12:40 - [34mdebug[39m: loadFilesContents
+08:12:40 - [34mdebug[39m: loadFilesContents
+08:12:40 - [34mdebug[39m: loadFilesContents
+08:12:40 - [34mdebug[39m: loadFilesContents
+08:12:40 - [34mdebug[39m: loadFilesContents
+08:12:40 - [34mdebug[39m: loadFilesContents
+08:12:40 - [34mdebug[39m: loadFilesContents
+08:12:40 - [34mdebug[39m: loadFilesContents
+08:12:40 - [34mdebug[39m: loadFilesContents
+08:12:40 - [34mdebug[39m: loadFilesContents
+08:12:40 - [34mdebug[39m: loadFilesContents
+08:12:40 - [34mdebug[39m: loadFileContents
+08:12:40 - [34mdebug[39m: loadFilesContents
+08:12:40 - [34mdebug[39m: loadFileContents
+08:12:40 - [34mdebug[39m: fromDirectory
+08:12:40 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+08:12:40 - [34mdebug[39m: fromDirectory
+08:12:40 - [31merror[39m: The template targets Cicero version ^0.21.0 but the current Cicero version is 0.20.10.
+1:34:34 PM - [32minfo[39m: Using current directory as template folder
+1:34:34 PM - [31merror[39m: /home/oneillal/Development/bin/go/src/github.com/fabric/fabric-samples/msc-smartcontract-hyperledger is not a valid cicero template. Make sure that package.json exists and that it has a cicero entry.
+2:27:09 PM - [32minfo[39m: Using current directory as template folder
+2:27:09 PM - [31merror[39m: /home/oneillal/Development/bin/go/src/github.com/fabric/fabric-samples/msc-smartcontract-hyperledger is not a valid cicero template. Make sure that package.json exists and that it has a cicero entry.
+3:28:41 PM - [32minfo[39m: Using current directory as template folder
+3:28:41 PM - [31merror[39m: /home/oneillal/Development/bin/go/src/github.com/fabric/fabric-samples/msc-smartcontract-hyperledger is not a valid cicero template. Make sure that package.json exists and that it has a cicero entry.
+8:29:24 AM - [32minfo[39m: Using current directory as template folder
+8:29:24 AM - [31merror[39m: /home/oneillal/Development/bin/go/src/github.com/fabric/fabric-samples/msc-smartcontract-hyperledger is not a valid cicero template. Make sure that package.json exists and that it has a cicero entry.
+5:13:23 AM - [34mdebug[39m: loadFileContents
+5:13:23 AM - [34mdebug[39m: loadFileBuffer
+5:13:23 AM - [34mdebug[39m: loadFileContents
+5:13:23 AM - [34mdebug[39m: loadFileContents
+5:13:23 AM - [34mdebug[39m: fromDirectory
+5:13:23 AM - [34mdebug[39m: loadFilesContents
+5:13:23 AM - [34mdebug[39m: loadFilesContents
+5:13:23 AM - [34mdebug[39m: loadFilesContents
+5:13:23 AM - [34mdebug[39m: loadFilesContents
+5:13:23 AM - [34mdebug[39m: loadFilesContents
+5:13:23 AM - [34mdebug[39m: loadFilesContents
+5:13:23 AM - [34mdebug[39m: loadFilesContents
+5:13:23 AM - [34mdebug[39m: loadFileContents
+5:13:23 AM - [34mdebug[39m: fromDirectory
+5:13:23 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+5:13:23 AM - [34mdebug[39m: loadFilesContents
+5:13:23 AM - [34mdebug[39m: loadFilesContents
+5:13:23 AM - [34mdebug[39m: loadFilesContents
+5:13:23 AM - [34mdebug[39m: loadFilesContents
+5:13:23 AM - [34mdebug[39m: loadFilesContents
+5:13:23 AM - [34mdebug[39m: loadFilesContents
+5:13:23 AM - [34mdebug[39m: loadFileContents
+5:13:23 AM - [34mdebug[39m: loadFileContents
+5:13:23 AM - [34mdebug[39m: loadFileContents
+5:13:23 AM - [34mdebug[39m: loadFileContents
+5:13:23 AM - [34mdebug[39m: loadFileContents
+5:13:23 AM - [34mdebug[39m: loadFilesContents
+5:13:24 AM - [34mdebug[39m: fromDirectory
+5:13:24 AM - [34mdebug[39m: loadFileContents
+5:13:24 AM - [34mdebug[39m: fromDirectory
+5:13:24 AM - [34mdebug[39m: fromDirectory
+5:13:24 AM - [34mdebug[39m: loadFilesContents
+5:13:24 AM - [34mdebug[39m: loadFilesContents
+5:13:24 AM - [34mdebug[39m: loadFilesContents
+5:13:24 AM - [34mdebug[39m: loadFilesContents
+5:13:24 AM - [34mdebug[39m: loadFilesContents
+5:13:24 AM - [34mdebug[39m: loadFilesContents
+5:13:24 AM - [34mdebug[39m: loadFileContents
+5:13:24 AM - [34mdebug[39m: loadFilesContents
+5:16:51 AM - [34mdebug[39m: loadFileContents
+5:16:51 AM - [34mdebug[39m: loadFileBuffer
+5:16:51 AM - [34mdebug[39m: loadFileContents
+5:16:51 AM - [34mdebug[39m: loadFileContents
+5:16:51 AM - [34mdebug[39m: fromDirectory
+5:16:51 AM - [34mdebug[39m: loadFilesContents
+5:16:51 AM - [34mdebug[39m: loadFilesContents
+5:16:51 AM - [34mdebug[39m: loadFilesContents
+5:16:51 AM - [34mdebug[39m: loadFilesContents
+5:16:51 AM - [34mdebug[39m: loadFilesContents
+5:16:51 AM - [34mdebug[39m: loadFilesContents
+5:16:51 AM - [34mdebug[39m: loadFilesContents
+5:16:51 AM - [34mdebug[39m: loadFileContents
+5:16:51 AM - [34mdebug[39m: fromDirectory
+5:16:51 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+5:16:51 AM - [34mdebug[39m: loadFilesContents
+5:16:51 AM - [34mdebug[39m: loadFilesContents
+5:16:51 AM - [34mdebug[39m: loadFilesContents
+5:16:51 AM - [34mdebug[39m: loadFilesContents
+5:16:51 AM - [34mdebug[39m: loadFilesContents
+5:16:51 AM - [34mdebug[39m: loadFilesContents
+5:16:51 AM - [34mdebug[39m: loadFileContents
+5:16:51 AM - [34mdebug[39m: loadFileContents
+5:16:51 AM - [34mdebug[39m: loadFileContents
+5:16:51 AM - [34mdebug[39m: loadFileContents
+5:16:51 AM - [34mdebug[39m: loadFileContents
+5:16:51 AM - [34mdebug[39m: loadFilesContents
+5:16:52 AM - [34mdebug[39m: fromDirectory
+5:16:52 AM - [34mdebug[39m: loadFileContents
+5:16:53 AM - [34mdebug[39m: fromDirectory
+5:16:53 AM - [34mdebug[39m: fromDirectory
+5:16:53 AM - [34mdebug[39m: loadFilesContents
+5:16:53 AM - [34mdebug[39m: loadFilesContents
+5:16:53 AM - [34mdebug[39m: loadFilesContents
+5:16:53 AM - [34mdebug[39m: loadFilesContents
+5:16:53 AM - [34mdebug[39m: loadFilesContents
+5:16:53 AM - [34mdebug[39m: loadFilesContents
+5:16:53 AM - [34mdebug[39m: loadFileContents
+5:16:53 AM - [34mdebug[39m: loadFilesContents
+5:18:38 AM - [34mdebug[39m: loadFileContents
+5:18:38 AM - [34mdebug[39m: loadFileBuffer
+5:18:38 AM - [34mdebug[39m: loadFileContents
+5:18:38 AM - [34mdebug[39m: loadFileContents
+5:18:38 AM - [34mdebug[39m: fromDirectory
+5:18:38 AM - [34mdebug[39m: loadFilesContents
+5:18:38 AM - [34mdebug[39m: loadFilesContents
+5:18:38 AM - [34mdebug[39m: loadFilesContents
+5:18:38 AM - [34mdebug[39m: loadFilesContents
+5:18:38 AM - [34mdebug[39m: loadFilesContents
+5:18:38 AM - [34mdebug[39m: loadFilesContents
+5:18:38 AM - [34mdebug[39m: loadFilesContents
+5:18:39 AM - [34mdebug[39m: loadFileContents
+5:18:39 AM - [34mdebug[39m: fromDirectory
+5:18:39 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+5:18:39 AM - [34mdebug[39m: loadFilesContents
+5:18:39 AM - [34mdebug[39m: loadFilesContents
+5:18:39 AM - [34mdebug[39m: loadFilesContents
+5:18:39 AM - [34mdebug[39m: loadFilesContents
+5:18:39 AM - [34mdebug[39m: loadFilesContents
+5:18:39 AM - [34mdebug[39m: loadFilesContents
+5:18:39 AM - [34mdebug[39m: loadFileContents
+5:18:39 AM - [34mdebug[39m: loadFileContents
+5:18:39 AM - [34mdebug[39m: loadFileContents
+5:18:39 AM - [34mdebug[39m: loadFileContents
+5:18:39 AM - [34mdebug[39m: loadFileContents
+5:18:39 AM - [34mdebug[39m: loadFilesContents
+5:18:40 AM - [34mdebug[39m: fromDirectory
+5:18:40 AM - [34mdebug[39m: loadFileContents
+5:18:40 AM - [34mdebug[39m: fromDirectory
+5:18:40 AM - [34mdebug[39m: fromDirectory
+5:18:40 AM - [34mdebug[39m: loadFilesContents
+5:18:40 AM - [34mdebug[39m: loadFilesContents
+5:18:40 AM - [34mdebug[39m: loadFilesContents
+5:18:40 AM - [34mdebug[39m: loadFilesContents
+5:18:40 AM - [34mdebug[39m: loadFilesContents
+5:18:40 AM - [34mdebug[39m: loadFilesContents
+5:18:40 AM - [34mdebug[39m: loadFileContents
+5:18:40 AM - [34mdebug[39m: loadFilesContents
+5:19:19 AM - [34mdebug[39m: loadFileContents
+5:19:19 AM - [34mdebug[39m: loadFileBuffer
+5:19:19 AM - [34mdebug[39m: loadFileContents
+5:19:19 AM - [34mdebug[39m: loadFileContents
+5:19:19 AM - [34mdebug[39m: fromDirectory
+5:19:19 AM - [34mdebug[39m: loadFilesContents
+5:19:19 AM - [34mdebug[39m: loadFilesContents
+5:19:19 AM - [34mdebug[39m: loadFilesContents
+5:19:19 AM - [34mdebug[39m: loadFilesContents
+5:19:19 AM - [34mdebug[39m: loadFilesContents
+5:19:19 AM - [34mdebug[39m: loadFilesContents
+5:19:19 AM - [34mdebug[39m: loadFilesContents
+5:19:19 AM - [34mdebug[39m: loadFileContents
+5:19:19 AM - [34mdebug[39m: fromDirectory
+5:19:19 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+5:19:19 AM - [34mdebug[39m: loadFilesContents
+5:19:19 AM - [34mdebug[39m: loadFilesContents
+5:19:19 AM - [34mdebug[39m: loadFilesContents
+5:19:19 AM - [34mdebug[39m: loadFilesContents
+5:19:19 AM - [34mdebug[39m: loadFilesContents
+5:19:19 AM - [34mdebug[39m: loadFilesContents
+5:19:19 AM - [34mdebug[39m: loadFileContents
+5:19:19 AM - [34mdebug[39m: loadFileContents
+5:19:19 AM - [34mdebug[39m: loadFileContents
+5:19:19 AM - [34mdebug[39m: loadFileContents
+5:19:19 AM - [34mdebug[39m: loadFileContents
+5:19:19 AM - [34mdebug[39m: loadFilesContents
+5:19:20 AM - [34mdebug[39m: fromDirectory
+5:19:20 AM - [34mdebug[39m: loadFileContents
+5:19:20 AM - [34mdebug[39m: fromDirectory
+5:19:20 AM - [34mdebug[39m: fromDirectory
+5:19:20 AM - [34mdebug[39m: loadFilesContents
+5:19:20 AM - [34mdebug[39m: loadFilesContents
+5:19:20 AM - [34mdebug[39m: loadFilesContents
+5:19:20 AM - [34mdebug[39m: loadFilesContents
+5:19:20 AM - [34mdebug[39m: loadFilesContents
+5:19:20 AM - [34mdebug[39m: loadFilesContents
+5:19:20 AM - [34mdebug[39m: loadFileContents
+5:19:20 AM - [34mdebug[39m: loadFilesContents
+5:19:21 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"065757cc-03d0-4c02-8c17-fd289b092b11"}
+5:19:21 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+5:21:43 AM - [34mdebug[39m: loadFileContents
+5:21:43 AM - [34mdebug[39m: loadFileBuffer
+5:21:43 AM - [34mdebug[39m: loadFileContents
+5:21:43 AM - [34mdebug[39m: loadFileContents
+5:21:43 AM - [34mdebug[39m: fromDirectory
+5:21:43 AM - [34mdebug[39m: loadFilesContents
+5:21:43 AM - [34mdebug[39m: loadFilesContents
+5:21:43 AM - [34mdebug[39m: loadFilesContents
+5:21:43 AM - [34mdebug[39m: loadFilesContents
+5:21:43 AM - [34mdebug[39m: loadFilesContents
+5:21:43 AM - [34mdebug[39m: loadFilesContents
+5:21:43 AM - [34mdebug[39m: loadFilesContents
+5:21:43 AM - [34mdebug[39m: loadFileContents
+5:21:43 AM - [34mdebug[39m: fromDirectory
+5:21:43 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+5:21:43 AM - [34mdebug[39m: loadFilesContents
+5:21:43 AM - [34mdebug[39m: loadFilesContents
+5:21:43 AM - [34mdebug[39m: loadFilesContents
+5:21:43 AM - [34mdebug[39m: loadFilesContents
+5:21:43 AM - [34mdebug[39m: loadFilesContents
+5:21:43 AM - [34mdebug[39m: loadFilesContents
+5:21:43 AM - [34mdebug[39m: loadFileContents
+5:21:43 AM - [34mdebug[39m: loadFileContents
+5:21:43 AM - [34mdebug[39m: loadFileContents
+5:21:43 AM - [34mdebug[39m: loadFileContents
+5:21:43 AM - [34mdebug[39m: loadFileContents
+5:21:43 AM - [34mdebug[39m: loadFilesContents
+5:21:45 AM - [34mdebug[39m: fromDirectory
+5:21:45 AM - [34mdebug[39m: loadFileContents
+5:21:45 AM - [34mdebug[39m: fromDirectory
+5:21:45 AM - [34mdebug[39m: fromDirectory
+5:21:45 AM - [34mdebug[39m: loadFilesContents
+5:21:45 AM - [34mdebug[39m: loadFilesContents
+5:21:45 AM - [34mdebug[39m: loadFilesContents
+5:21:45 AM - [34mdebug[39m: loadFilesContents
+5:21:45 AM - [34mdebug[39m: loadFilesContents
+5:21:45 AM - [34mdebug[39m: loadFilesContents
+5:21:45 AM - [34mdebug[39m: loadFileContents
+5:21:45 AM - [34mdebug[39m: loadFilesContents
+5:21:46 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"8ce50c95-ca0b-4978-aa01-e65597e6a30b"}
+5:21:46 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+5:22:05 AM - [34mdebug[39m: loadFileContents
+5:22:05 AM - [34mdebug[39m: loadFileBuffer
+5:22:05 AM - [34mdebug[39m: loadFileContents
+5:22:05 AM - [34mdebug[39m: loadFileContents
+5:22:05 AM - [34mdebug[39m: fromDirectory
+5:22:05 AM - [34mdebug[39m: loadFilesContents
+5:22:05 AM - [34mdebug[39m: loadFilesContents
+5:22:05 AM - [34mdebug[39m: loadFilesContents
+5:22:05 AM - [34mdebug[39m: loadFilesContents
+5:22:05 AM - [34mdebug[39m: loadFilesContents
+5:22:05 AM - [34mdebug[39m: loadFilesContents
+5:22:05 AM - [34mdebug[39m: loadFilesContents
+5:22:05 AM - [34mdebug[39m: loadFileContents
+5:22:05 AM - [34mdebug[39m: fromDirectory
+5:22:05 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+5:22:05 AM - [34mdebug[39m: loadFilesContents
+5:22:05 AM - [34mdebug[39m: loadFilesContents
+5:22:05 AM - [34mdebug[39m: loadFilesContents
+5:22:05 AM - [34mdebug[39m: loadFilesContents
+5:22:05 AM - [34mdebug[39m: loadFilesContents
+5:22:05 AM - [34mdebug[39m: loadFilesContents
+5:22:05 AM - [34mdebug[39m: loadFileContents
+5:22:05 AM - [34mdebug[39m: loadFileContents
+5:22:05 AM - [34mdebug[39m: loadFileContents
+5:22:05 AM - [34mdebug[39m: loadFileContents
+5:22:05 AM - [34mdebug[39m: loadFileContents
+5:22:05 AM - [34mdebug[39m: loadFilesContents
+5:22:06 AM - [34mdebug[39m: fromDirectory
+5:22:06 AM - [34mdebug[39m: loadFileContents
+5:22:06 AM - [34mdebug[39m: fromDirectory
+5:22:06 AM - [34mdebug[39m: fromDirectory
+5:22:06 AM - [34mdebug[39m: loadFilesContents
+5:22:06 AM - [34mdebug[39m: loadFilesContents
+5:22:06 AM - [34mdebug[39m: loadFilesContents
+5:22:06 AM - [34mdebug[39m: loadFilesContents
+5:22:06 AM - [34mdebug[39m: loadFilesContents
+5:22:06 AM - [34mdebug[39m: loadFilesContents
+5:22:06 AM - [34mdebug[39m: loadFileContents
+5:22:06 AM - [34mdebug[39m: loadFilesContents
+5:22:07 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"7ff8c4a5-a4e3-4fb0-a882-2e04f5f9a2a5"}
+5:22:07 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+5:22:07 AM - [34mdebug[39m: loadFileContents
+5:22:07 AM - [34mdebug[39m: loadFileBuffer
+5:22:07 AM - [34mdebug[39m: loadFileContents
+5:22:07 AM - [34mdebug[39m: loadFileContents
+5:22:07 AM - [34mdebug[39m: fromDirectory
+5:22:07 AM - [34mdebug[39m: loadFilesContents
+5:22:07 AM - [34mdebug[39m: loadFilesContents
+5:22:07 AM - [34mdebug[39m: loadFilesContents
+5:22:07 AM - [34mdebug[39m: loadFilesContents
+5:22:07 AM - [34mdebug[39m: loadFilesContents
+5:22:07 AM - [34mdebug[39m: loadFilesContents
+5:22:07 AM - [34mdebug[39m: loadFilesContents
+5:22:07 AM - [34mdebug[39m: loadFileContents
+5:22:07 AM - [34mdebug[39m: fromDirectory
+5:22:07 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+5:22:07 AM - [34mdebug[39m: loadFilesContents
+5:22:07 AM - [34mdebug[39m: loadFilesContents
+5:22:07 AM - [34mdebug[39m: loadFilesContents
+5:22:07 AM - [34mdebug[39m: loadFilesContents
+5:22:07 AM - [34mdebug[39m: loadFilesContents
+5:22:07 AM - [34mdebug[39m: loadFilesContents
+5:22:07 AM - [34mdebug[39m: loadFileContents
+5:22:07 AM - [34mdebug[39m: loadFileContents
+5:22:07 AM - [34mdebug[39m: loadFileContents
+5:22:07 AM - [34mdebug[39m: loadFileContents
+5:22:07 AM - [34mdebug[39m: loadFileContents
+5:22:07 AM - [34mdebug[39m: loadFilesContents
+5:22:08 AM - [34mdebug[39m: fromDirectory
+5:22:08 AM - [34mdebug[39m: loadFileContents
+5:22:08 AM - [34mdebug[39m: fromDirectory
+5:22:08 AM - [34mdebug[39m: fromDirectory
+5:22:08 AM - [34mdebug[39m: loadFilesContents
+5:22:08 AM - [34mdebug[39m: loadFilesContents
+5:22:08 AM - [34mdebug[39m: loadFilesContents
+5:22:08 AM - [34mdebug[39m: loadFilesContents
+5:22:08 AM - [34mdebug[39m: loadFilesContents
+5:22:08 AM - [34mdebug[39m: loadFilesContents
+5:22:08 AM - [34mdebug[39m: loadFileContents
+5:22:08 AM - [34mdebug[39m: loadFilesContents
+5:22:09 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"2e21ff8c-6ceb-4f89-a8b5-fb39d18e8a8d"}
+5:22:09 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+5:24:23 AM - [34mdebug[39m: loadFileContents
+5:24:23 AM - [34mdebug[39m: loadFileBuffer
+5:24:23 AM - [34mdebug[39m: loadFileContents
+5:24:23 AM - [34mdebug[39m: loadFileContents
+5:24:23 AM - [34mdebug[39m: fromDirectory
+5:24:23 AM - [34mdebug[39m: loadFilesContents
+5:24:23 AM - [34mdebug[39m: loadFilesContents
+5:24:23 AM - [34mdebug[39m: loadFilesContents
+5:24:23 AM - [34mdebug[39m: loadFilesContents
+5:24:23 AM - [34mdebug[39m: loadFilesContents
+5:24:23 AM - [34mdebug[39m: loadFilesContents
+5:24:23 AM - [34mdebug[39m: loadFilesContents
+5:24:23 AM - [34mdebug[39m: loadFileContents
+5:24:23 AM - [34mdebug[39m: fromDirectory
+5:24:23 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+5:24:23 AM - [34mdebug[39m: loadFilesContents
+5:24:23 AM - [34mdebug[39m: loadFilesContents
+5:24:23 AM - [34mdebug[39m: loadFilesContents
+5:24:23 AM - [34mdebug[39m: loadFilesContents
+5:24:23 AM - [34mdebug[39m: loadFilesContents
+5:24:23 AM - [34mdebug[39m: loadFilesContents
+5:24:23 AM - [34mdebug[39m: loadFileContents
+5:24:23 AM - [34mdebug[39m: loadFileContents
+5:24:23 AM - [34mdebug[39m: loadFileContents
+5:24:23 AM - [34mdebug[39m: loadFileContents
+5:24:23 AM - [34mdebug[39m: loadFileContents
+5:24:23 AM - [34mdebug[39m: loadFilesContents
+5:24:25 AM - [34mdebug[39m: fromDirectory
+5:24:25 AM - [34mdebug[39m: loadFileContents
+5:24:25 AM - [34mdebug[39m: fromDirectory
+5:24:25 AM - [34mdebug[39m: fromDirectory
+5:24:25 AM - [34mdebug[39m: loadFilesContents
+5:24:25 AM - [34mdebug[39m: loadFilesContents
+5:24:25 AM - [34mdebug[39m: loadFilesContents
+5:24:25 AM - [34mdebug[39m: loadFilesContents
+5:24:25 AM - [34mdebug[39m: loadFilesContents
+5:24:25 AM - [34mdebug[39m: loadFilesContents
+5:24:25 AM - [34mdebug[39m: loadFileContents
+5:24:25 AM - [34mdebug[39m: loadFilesContents
+5:24:26 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"a46e1abf-073e-4cb9-a17b-8ad90892f67e"}
+5:24:26 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+5:27:03 AM - [34mdebug[39m: loadFileContents
+5:27:03 AM - [34mdebug[39m: loadFileBuffer
+5:27:03 AM - [34mdebug[39m: loadFileContents
+5:27:03 AM - [34mdebug[39m: loadFileContents
+5:27:03 AM - [34mdebug[39m: fromDirectory
+5:27:03 AM - [34mdebug[39m: loadFilesContents
+5:27:03 AM - [34mdebug[39m: loadFilesContents
+5:27:03 AM - [34mdebug[39m: loadFilesContents
+5:27:03 AM - [34mdebug[39m: loadFilesContents
+5:27:03 AM - [34mdebug[39m: loadFilesContents
+5:27:03 AM - [34mdebug[39m: loadFilesContents
+5:27:03 AM - [34mdebug[39m: loadFilesContents
+5:27:03 AM - [34mdebug[39m: loadFileContents
+5:27:03 AM - [34mdebug[39m: fromDirectory
+5:27:03 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+5:27:03 AM - [34mdebug[39m: loadFilesContents
+5:27:03 AM - [34mdebug[39m: loadFilesContents
+5:27:03 AM - [34mdebug[39m: loadFilesContents
+5:27:03 AM - [34mdebug[39m: loadFilesContents
+5:27:03 AM - [34mdebug[39m: loadFilesContents
+5:27:03 AM - [34mdebug[39m: loadFilesContents
+5:27:03 AM - [34mdebug[39m: loadFileContents
+5:27:03 AM - [34mdebug[39m: loadFileContents
+5:27:03 AM - [34mdebug[39m: loadFileContents
+5:27:03 AM - [34mdebug[39m: loadFileContents
+5:27:03 AM - [34mdebug[39m: loadFileContents
+5:27:03 AM - [34mdebug[39m: loadFilesContents
+5:27:05 AM - [34mdebug[39m: fromDirectory
+5:27:05 AM - [34mdebug[39m: loadFileContents
+5:27:05 AM - [34mdebug[39m: fromDirectory
+5:27:05 AM - [34mdebug[39m: fromDirectory
+5:27:05 AM - [34mdebug[39m: loadFilesContents
+5:27:05 AM - [34mdebug[39m: loadFilesContents
+5:27:05 AM - [34mdebug[39m: loadFilesContents
+5:27:05 AM - [34mdebug[39m: loadFilesContents
+5:27:05 AM - [34mdebug[39m: loadFilesContents
+5:27:05 AM - [34mdebug[39m: loadFilesContents
+5:27:05 AM - [34mdebug[39m: loadFileContents
+5:27:05 AM - [34mdebug[39m: loadFilesContents
+5:27:06 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"cb08aa59-06c8-4bdc-85df-9b953bdeb19e"}
+5:27:06 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+5:41:35 AM - [34mdebug[39m: loadFileContents
+5:41:35 AM - [34mdebug[39m: loadFileBuffer
+5:41:35 AM - [34mdebug[39m: loadFileContents
+5:41:35 AM - [34mdebug[39m: loadFileContents
+5:41:35 AM - [34mdebug[39m: fromDirectory
+5:41:35 AM - [34mdebug[39m: loadFilesContents
+5:41:36 AM - [34mdebug[39m: loadFilesContents
+5:41:36 AM - [34mdebug[39m: loadFilesContents
+5:41:36 AM - [34mdebug[39m: loadFilesContents
+5:41:36 AM - [34mdebug[39m: loadFilesContents
+5:41:36 AM - [34mdebug[39m: loadFilesContents
+5:41:36 AM - [34mdebug[39m: loadFilesContents
+5:41:36 AM - [34mdebug[39m: loadFileContents
+5:41:36 AM - [34mdebug[39m: fromDirectory
+5:41:36 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+5:41:36 AM - [34mdebug[39m: loadFilesContents
+5:41:36 AM - [34mdebug[39m: loadFilesContents
+5:41:36 AM - [34mdebug[39m: loadFilesContents
+5:41:36 AM - [34mdebug[39m: loadFilesContents
+5:41:36 AM - [34mdebug[39m: loadFilesContents
+5:41:36 AM - [34mdebug[39m: loadFilesContents
+5:41:36 AM - [34mdebug[39m: loadFileContents
+5:41:36 AM - [34mdebug[39m: loadFileContents
+5:41:36 AM - [34mdebug[39m: loadFileContents
+5:41:36 AM - [34mdebug[39m: loadFileContents
+5:41:36 AM - [34mdebug[39m: loadFileContents
+5:41:36 AM - [34mdebug[39m: loadFilesContents
+5:41:37 AM - [34mdebug[39m: fromDirectory
+5:41:37 AM - [34mdebug[39m: loadFileContents
+5:41:37 AM - [34mdebug[39m: fromDirectory
+5:41:37 AM - [34mdebug[39m: fromDirectory
+5:41:37 AM - [34mdebug[39m: loadFilesContents
+5:41:37 AM - [34mdebug[39m: loadFilesContents
+5:41:37 AM - [34mdebug[39m: loadFilesContents
+5:41:37 AM - [34mdebug[39m: loadFilesContents
+5:41:37 AM - [34mdebug[39m: loadFilesContents
+5:41:37 AM - [34mdebug[39m: loadFilesContents
+5:41:37 AM - [34mdebug[39m: loadFileContents
+5:41:37 AM - [34mdebug[39m: loadFilesContents
+5:41:38 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"30e98b2b-884b-4d3b-9346-4fd397ddb8cc"}
+5:41:38 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+5:43:30 AM - [34mdebug[39m: loadFileContents
+5:43:30 AM - [34mdebug[39m: loadFileBuffer
+5:43:30 AM - [34mdebug[39m: loadFileContents
+5:43:30 AM - [34mdebug[39m: loadFileContents
+5:43:30 AM - [34mdebug[39m: fromDirectory
+5:43:30 AM - [34mdebug[39m: loadFilesContents
+5:43:30 AM - [34mdebug[39m: loadFilesContents
+5:43:30 AM - [34mdebug[39m: loadFilesContents
+5:43:30 AM - [34mdebug[39m: loadFilesContents
+5:43:30 AM - [34mdebug[39m: loadFilesContents
+5:43:30 AM - [34mdebug[39m: loadFilesContents
+5:43:30 AM - [34mdebug[39m: loadFilesContents
+5:43:30 AM - [34mdebug[39m: loadFileContents
+5:43:30 AM - [34mdebug[39m: fromDirectory
+5:43:30 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+5:43:30 AM - [34mdebug[39m: loadFilesContents
+5:43:30 AM - [34mdebug[39m: loadFilesContents
+5:43:30 AM - [34mdebug[39m: loadFilesContents
+5:43:30 AM - [34mdebug[39m: loadFilesContents
+5:43:30 AM - [34mdebug[39m: loadFilesContents
+5:43:30 AM - [34mdebug[39m: loadFilesContents
+5:43:30 AM - [34mdebug[39m: loadFileContents
+5:43:30 AM - [34mdebug[39m: loadFileContents
+5:43:30 AM - [34mdebug[39m: loadFileContents
+5:43:30 AM - [34mdebug[39m: loadFileContents
+5:43:30 AM - [34mdebug[39m: loadFileContents
+5:43:30 AM - [34mdebug[39m: loadFilesContents
+5:43:31 AM - [34mdebug[39m: fromDirectory
+5:43:31 AM - [34mdebug[39m: loadFileContents
+5:43:31 AM - [34mdebug[39m: fromDirectory
+5:43:31 AM - [34mdebug[39m: fromDirectory
+5:43:31 AM - [34mdebug[39m: loadFilesContents
+5:43:31 AM - [34mdebug[39m: loadFilesContents
+5:43:31 AM - [34mdebug[39m: loadFilesContents
+5:43:31 AM - [34mdebug[39m: loadFilesContents
+5:43:31 AM - [34mdebug[39m: loadFilesContents
+5:43:31 AM - [34mdebug[39m: loadFilesContents
+5:43:31 AM - [34mdebug[39m: loadFileContents
+5:43:31 AM - [34mdebug[39m: loadFilesContents
+5:43:32 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"d2c0fd28-b4d2-4202-9221-e49cce2c0fbe"}
+5:43:32 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+5:45:04 AM - [34mdebug[39m: loadFileContents
+5:45:04 AM - [34mdebug[39m: loadFileBuffer
+5:45:04 AM - [34mdebug[39m: loadFileContents
+5:45:04 AM - [34mdebug[39m: loadFileContents
+5:45:04 AM - [34mdebug[39m: fromDirectory
+5:45:04 AM - [34mdebug[39m: loadFilesContents
+5:45:04 AM - [34mdebug[39m: loadFilesContents
+5:45:04 AM - [34mdebug[39m: loadFilesContents
+5:45:04 AM - [34mdebug[39m: loadFilesContents
+5:45:04 AM - [34mdebug[39m: loadFilesContents
+5:45:04 AM - [34mdebug[39m: loadFilesContents
+5:45:04 AM - [34mdebug[39m: loadFilesContents
+5:45:04 AM - [34mdebug[39m: loadFileContents
+5:45:04 AM - [34mdebug[39m: fromDirectory
+5:45:04 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+5:45:04 AM - [34mdebug[39m: loadFilesContents
+5:45:04 AM - [34mdebug[39m: loadFilesContents
+5:45:04 AM - [34mdebug[39m: loadFilesContents
+5:45:04 AM - [34mdebug[39m: loadFilesContents
+5:45:04 AM - [34mdebug[39m: loadFilesContents
+5:45:04 AM - [34mdebug[39m: loadFilesContents
+5:45:04 AM - [34mdebug[39m: loadFileContents
+5:45:04 AM - [34mdebug[39m: loadFileContents
+5:45:04 AM - [34mdebug[39m: loadFileContents
+5:45:04 AM - [34mdebug[39m: loadFileContents
+5:45:04 AM - [34mdebug[39m: loadFileContents
+5:45:04 AM - [34mdebug[39m: loadFilesContents
+5:45:05 AM - [34mdebug[39m: fromDirectory
+5:45:05 AM - [34mdebug[39m: loadFileContents
+5:45:05 AM - [34mdebug[39m: fromDirectory
+5:45:05 AM - [34mdebug[39m: fromDirectory
+5:45:05 AM - [34mdebug[39m: loadFilesContents
+5:45:05 AM - [34mdebug[39m: loadFilesContents
+5:45:05 AM - [34mdebug[39m: loadFilesContents
+5:45:05 AM - [34mdebug[39m: loadFilesContents
+5:45:05 AM - [34mdebug[39m: loadFilesContents
+5:45:05 AM - [34mdebug[39m: loadFilesContents
+5:45:05 AM - [34mdebug[39m: loadFileContents
+5:45:05 AM - [34mdebug[39m: loadFilesContents
+5:45:06 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"89ade65a-34db-496a-83ed-fab91848e0f1"}
+5:45:06 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+5:45:14 AM - [34mdebug[39m: loadFileContents
+5:45:14 AM - [34mdebug[39m: loadFileBuffer
+5:45:14 AM - [34mdebug[39m: loadFileContents
+5:45:14 AM - [34mdebug[39m: loadFileContents
+5:45:14 AM - [34mdebug[39m: fromDirectory
+5:45:14 AM - [34mdebug[39m: loadFilesContents
+5:45:14 AM - [34mdebug[39m: loadFilesContents
+5:45:14 AM - [34mdebug[39m: loadFilesContents
+5:45:14 AM - [34mdebug[39m: loadFilesContents
+5:45:14 AM - [34mdebug[39m: loadFilesContents
+5:45:14 AM - [34mdebug[39m: loadFilesContents
+5:45:14 AM - [34mdebug[39m: loadFilesContents
+5:45:14 AM - [34mdebug[39m: loadFileContents
+5:45:14 AM - [34mdebug[39m: fromDirectory
+5:45:14 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+5:45:14 AM - [34mdebug[39m: loadFilesContents
+5:45:14 AM - [34mdebug[39m: loadFilesContents
+5:45:14 AM - [34mdebug[39m: loadFilesContents
+5:45:14 AM - [34mdebug[39m: loadFilesContents
+5:45:14 AM - [34mdebug[39m: loadFilesContents
+5:45:14 AM - [34mdebug[39m: loadFilesContents
+5:45:14 AM - [34mdebug[39m: loadFileContents
+5:45:14 AM - [34mdebug[39m: loadFileContents
+5:45:14 AM - [34mdebug[39m: loadFileContents
+5:45:14 AM - [34mdebug[39m: loadFileContents
+5:45:14 AM - [34mdebug[39m: loadFileContents
+5:45:14 AM - [34mdebug[39m: loadFilesContents
+5:45:14 AM - [34mdebug[39m: fromDirectory
+5:45:14 AM - [34mdebug[39m: loadFileContents
+5:45:14 AM - [34mdebug[39m: fromDirectory
+5:45:14 AM - [34mdebug[39m: fromDirectory
+5:45:14 AM - [34mdebug[39m: loadFilesContents
+5:45:14 AM - [34mdebug[39m: loadFilesContents
+5:45:14 AM - [34mdebug[39m: loadFilesContents
+5:45:14 AM - [34mdebug[39m: loadFilesContents
+5:45:14 AM - [34mdebug[39m: loadFilesContents
+5:45:14 AM - [34mdebug[39m: loadFilesContents
+5:45:14 AM - [34mdebug[39m: loadFileContents
+5:45:14 AM - [34mdebug[39m: loadFilesContents
+5:45:15 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"4bb2fcaa-0057-44e9-a802-144bc2b68b81"}
+5:45:15 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+5:45:58 AM - [34mdebug[39m: loadFileContents
+5:45:58 AM - [34mdebug[39m: loadFileBuffer
+5:45:58 AM - [34mdebug[39m: loadFileContents
+5:45:58 AM - [34mdebug[39m: loadFileContents
+5:45:58 AM - [34mdebug[39m: fromDirectory
+5:45:58 AM - [34mdebug[39m: loadFilesContents
+5:45:58 AM - [34mdebug[39m: loadFilesContents
+5:45:58 AM - [34mdebug[39m: loadFilesContents
+5:45:58 AM - [34mdebug[39m: loadFilesContents
+5:45:58 AM - [34mdebug[39m: loadFilesContents
+5:45:58 AM - [34mdebug[39m: loadFilesContents
+5:45:58 AM - [34mdebug[39m: loadFilesContents
+5:45:58 AM - [34mdebug[39m: loadFileContents
+5:45:58 AM - [34mdebug[39m: fromDirectory
+5:45:58 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+5:45:58 AM - [34mdebug[39m: loadFilesContents
+5:45:58 AM - [34mdebug[39m: loadFilesContents
+5:45:58 AM - [34mdebug[39m: loadFilesContents
+5:45:58 AM - [34mdebug[39m: loadFilesContents
+5:45:58 AM - [34mdebug[39m: loadFilesContents
+5:45:58 AM - [34mdebug[39m: loadFilesContents
+5:45:58 AM - [34mdebug[39m: loadFileContents
+5:45:58 AM - [34mdebug[39m: loadFileContents
+5:45:58 AM - [34mdebug[39m: loadFileContents
+5:45:58 AM - [34mdebug[39m: loadFileContents
+5:45:58 AM - [34mdebug[39m: loadFileContents
+5:45:58 AM - [34mdebug[39m: loadFilesContents
+5:46:00 AM - [34mdebug[39m: fromDirectory
+5:46:00 AM - [34mdebug[39m: loadFileContents
+5:46:00 AM - [34mdebug[39m: fromDirectory
+5:46:00 AM - [34mdebug[39m: fromDirectory
+5:46:00 AM - [34mdebug[39m: loadFilesContents
+5:46:00 AM - [34mdebug[39m: loadFilesContents
+5:46:00 AM - [34mdebug[39m: loadFilesContents
+5:46:00 AM - [34mdebug[39m: loadFilesContents
+5:46:00 AM - [34mdebug[39m: loadFilesContents
+5:46:00 AM - [34mdebug[39m: loadFilesContents
+5:46:00 AM - [34mdebug[39m: loadFileContents
+5:46:00 AM - [34mdebug[39m: loadFilesContents
+5:46:01 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"79c982a8-a93a-45d7-a197-bfd8cea3a537"}
+5:46:01 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+5:47:42 AM - [34mdebug[39m: loadFileContents
+5:47:42 AM - [34mdebug[39m: loadFileBuffer
+5:47:42 AM - [34mdebug[39m: loadFileContents
+5:47:42 AM - [34mdebug[39m: loadFileContents
+5:47:42 AM - [34mdebug[39m: fromDirectory
+5:47:42 AM - [34mdebug[39m: loadFilesContents
+5:47:42 AM - [34mdebug[39m: loadFilesContents
+5:47:42 AM - [34mdebug[39m: loadFilesContents
+5:47:42 AM - [34mdebug[39m: loadFilesContents
+5:47:42 AM - [34mdebug[39m: loadFilesContents
+5:47:42 AM - [34mdebug[39m: loadFilesContents
+5:47:42 AM - [34mdebug[39m: loadFilesContents
+5:47:42 AM - [34mdebug[39m: loadFileContents
+5:47:42 AM - [34mdebug[39m: fromDirectory
+5:47:42 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+5:47:42 AM - [34mdebug[39m: loadFilesContents
+5:47:42 AM - [34mdebug[39m: loadFilesContents
+5:47:42 AM - [34mdebug[39m: loadFilesContents
+5:47:42 AM - [34mdebug[39m: loadFilesContents
+5:47:42 AM - [34mdebug[39m: loadFilesContents
+5:47:42 AM - [34mdebug[39m: loadFilesContents
+5:47:42 AM - [34mdebug[39m: loadFileContents
+5:47:42 AM - [34mdebug[39m: loadFileContents
+5:47:42 AM - [34mdebug[39m: loadFileContents
+5:47:42 AM - [34mdebug[39m: loadFileContents
+5:47:42 AM - [34mdebug[39m: loadFileContents
+5:47:42 AM - [34mdebug[39m: loadFilesContents
+5:47:44 AM - [34mdebug[39m: fromDirectory
+5:47:44 AM - [34mdebug[39m: loadFileContents
+5:47:44 AM - [34mdebug[39m: fromDirectory
+5:47:44 AM - [34mdebug[39m: fromDirectory
+5:47:44 AM - [34mdebug[39m: loadFilesContents
+5:47:44 AM - [34mdebug[39m: loadFilesContents
+5:47:44 AM - [34mdebug[39m: loadFilesContents
+5:47:44 AM - [34mdebug[39m: loadFilesContents
+5:47:44 AM - [34mdebug[39m: loadFilesContents
+5:47:44 AM - [34mdebug[39m: loadFilesContents
+5:47:44 AM - [34mdebug[39m: loadFileContents
+5:47:44 AM - [34mdebug[39m: loadFilesContents
+5:47:45 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"1b8dc652-c6af-412a-88be-83d85ca7bea1"}
+5:47:45 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+6:01:13 AM - [34mdebug[39m: loadFileContents
+6:01:13 AM - [34mdebug[39m: loadFileBuffer
+6:01:13 AM - [34mdebug[39m: loadFileContents
+6:01:13 AM - [34mdebug[39m: loadFileContents
+6:01:13 AM - [34mdebug[39m: fromDirectory
+6:01:13 AM - [34mdebug[39m: loadFilesContents
+6:01:13 AM - [34mdebug[39m: loadFilesContents
+6:01:13 AM - [34mdebug[39m: loadFilesContents
+6:01:13 AM - [34mdebug[39m: loadFilesContents
+6:01:13 AM - [34mdebug[39m: loadFilesContents
+6:01:13 AM - [34mdebug[39m: loadFilesContents
+6:01:13 AM - [34mdebug[39m: loadFilesContents
+6:01:13 AM - [34mdebug[39m: loadFileContents
+6:01:13 AM - [34mdebug[39m: fromDirectory
+6:01:13 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+6:01:13 AM - [34mdebug[39m: loadFilesContents
+6:01:13 AM - [34mdebug[39m: loadFilesContents
+6:01:13 AM - [34mdebug[39m: loadFilesContents
+6:01:13 AM - [34mdebug[39m: loadFilesContents
+6:01:13 AM - [34mdebug[39m: loadFilesContents
+6:01:13 AM - [34mdebug[39m: loadFilesContents
+6:01:13 AM - [34mdebug[39m: loadFileContents
+6:01:13 AM - [34mdebug[39m: loadFileContents
+6:01:13 AM - [34mdebug[39m: loadFileContents
+6:01:13 AM - [34mdebug[39m: loadFileContents
+6:01:13 AM - [34mdebug[39m: loadFileContents
+6:01:13 AM - [34mdebug[39m: loadFilesContents
+6:01:14 AM - [34mdebug[39m: fromDirectory
+6:01:14 AM - [34mdebug[39m: loadFileContents
+6:01:15 AM - [34mdebug[39m: fromDirectory
+6:01:15 AM - [34mdebug[39m: fromDirectory
+6:01:15 AM - [34mdebug[39m: loadFilesContents
+6:01:15 AM - [34mdebug[39m: loadFilesContents
+6:01:15 AM - [34mdebug[39m: loadFilesContents
+6:01:15 AM - [34mdebug[39m: loadFilesContents
+6:01:15 AM - [34mdebug[39m: loadFilesContents
+6:01:15 AM - [34mdebug[39m: loadFilesContents
+6:01:15 AM - [34mdebug[39m: loadFileContents
+6:01:15 AM - [34mdebug[39m: loadFilesContents
+6:01:16 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"2d37ab22-9fad-4ce0-b86f-b596bca6aff9"}
+6:01:16 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+6:03:24 AM - [34mdebug[39m: loadFileContents
+6:03:24 AM - [34mdebug[39m: loadFileBuffer
+6:03:24 AM - [34mdebug[39m: loadFileContents
+6:03:24 AM - [34mdebug[39m: loadFileContents
+6:03:24 AM - [34mdebug[39m: fromDirectory
+6:03:24 AM - [34mdebug[39m: loadFilesContents
+6:03:24 AM - [34mdebug[39m: loadFilesContents
+6:03:24 AM - [34mdebug[39m: loadFilesContents
+6:03:24 AM - [34mdebug[39m: loadFilesContents
+6:03:24 AM - [34mdebug[39m: loadFilesContents
+6:03:24 AM - [34mdebug[39m: loadFilesContents
+6:03:24 AM - [34mdebug[39m: loadFilesContents
+6:03:24 AM - [34mdebug[39m: loadFileContents
+6:03:24 AM - [34mdebug[39m: fromDirectory
+6:03:24 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+6:03:24 AM - [34mdebug[39m: loadFilesContents
+6:03:24 AM - [34mdebug[39m: loadFilesContents
+6:03:24 AM - [34mdebug[39m: loadFilesContents
+6:03:24 AM - [34mdebug[39m: loadFilesContents
+6:03:24 AM - [34mdebug[39m: loadFilesContents
+6:03:24 AM - [34mdebug[39m: loadFilesContents
+6:03:24 AM - [34mdebug[39m: loadFileContents
+6:03:24 AM - [34mdebug[39m: loadFileContents
+6:03:24 AM - [34mdebug[39m: loadFileContents
+6:03:24 AM - [34mdebug[39m: loadFileContents
+6:03:24 AM - [34mdebug[39m: loadFileContents
+6:03:24 AM - [34mdebug[39m: loadFilesContents
+6:03:26 AM - [34mdebug[39m: fromDirectory
+6:03:26 AM - [34mdebug[39m: loadFileContents
+6:03:26 AM - [34mdebug[39m: fromDirectory
+6:03:26 AM - [34mdebug[39m: fromDirectory
+6:03:26 AM - [34mdebug[39m: loadFilesContents
+6:03:26 AM - [34mdebug[39m: loadFilesContents
+6:03:26 AM - [34mdebug[39m: loadFilesContents
+6:03:26 AM - [34mdebug[39m: loadFilesContents
+6:03:26 AM - [34mdebug[39m: loadFilesContents
+6:03:26 AM - [34mdebug[39m: loadFilesContents
+6:03:26 AM - [34mdebug[39m: loadFileContents
+6:03:26 AM - [34mdebug[39m: loadFilesContents
+6:03:27 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"4f13daf9-469a-441c-a47f-fe7e2ccb92c6"}
+6:03:27 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+6:03:43 AM - [34mdebug[39m: loadFileContents
+6:03:43 AM - [34mdebug[39m: loadFileBuffer
+6:03:43 AM - [34mdebug[39m: loadFileContents
+6:03:43 AM - [34mdebug[39m: loadFileContents
+6:03:43 AM - [34mdebug[39m: fromDirectory
+6:03:43 AM - [34mdebug[39m: loadFilesContents
+6:03:43 AM - [34mdebug[39m: loadFilesContents
+6:03:43 AM - [34mdebug[39m: loadFilesContents
+6:03:43 AM - [34mdebug[39m: loadFilesContents
+6:03:43 AM - [34mdebug[39m: loadFilesContents
+6:03:43 AM - [34mdebug[39m: loadFilesContents
+6:03:43 AM - [34mdebug[39m: loadFilesContents
+6:03:43 AM - [34mdebug[39m: loadFileContents
+6:03:43 AM - [34mdebug[39m: fromDirectory
+6:03:43 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+6:03:43 AM - [34mdebug[39m: loadFilesContents
+6:03:43 AM - [34mdebug[39m: loadFilesContents
+6:03:43 AM - [34mdebug[39m: loadFilesContents
+6:03:43 AM - [34mdebug[39m: loadFilesContents
+6:03:43 AM - [34mdebug[39m: loadFilesContents
+6:03:43 AM - [34mdebug[39m: loadFilesContents
+6:03:43 AM - [34mdebug[39m: loadFileContents
+6:03:43 AM - [34mdebug[39m: loadFileContents
+6:03:43 AM - [34mdebug[39m: loadFileContents
+6:03:43 AM - [34mdebug[39m: loadFileContents
+6:03:43 AM - [34mdebug[39m: loadFileContents
+6:03:43 AM - [34mdebug[39m: loadFilesContents
+6:03:44 AM - [34mdebug[39m: fromDirectory
+6:03:44 AM - [34mdebug[39m: loadFileContents
+6:03:44 AM - [34mdebug[39m: fromDirectory
+6:03:44 AM - [34mdebug[39m: fromDirectory
+6:03:44 AM - [34mdebug[39m: loadFilesContents
+6:03:44 AM - [34mdebug[39m: loadFilesContents
+6:03:44 AM - [34mdebug[39m: loadFilesContents
+6:03:44 AM - [34mdebug[39m: loadFilesContents
+6:03:44 AM - [34mdebug[39m: loadFilesContents
+6:03:44 AM - [34mdebug[39m: loadFilesContents
+6:03:44 AM - [34mdebug[39m: loadFileContents
+6:03:44 AM - [34mdebug[39m: loadFilesContents
+6:03:45 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"d018b426-fe3f-44c4-b623-1fa33f1901fb"}
+6:03:45 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+6:04:58 AM - [34mdebug[39m: loadFileContents
+6:04:58 AM - [34mdebug[39m: loadFileBuffer
+6:04:58 AM - [34mdebug[39m: loadFileContents
+6:04:58 AM - [34mdebug[39m: loadFileContents
+6:04:58 AM - [34mdebug[39m: fromDirectory
+6:04:58 AM - [34mdebug[39m: loadFilesContents
+6:04:58 AM - [34mdebug[39m: loadFilesContents
+6:04:58 AM - [34mdebug[39m: loadFilesContents
+6:04:58 AM - [34mdebug[39m: loadFilesContents
+6:04:58 AM - [34mdebug[39m: loadFilesContents
+6:04:58 AM - [34mdebug[39m: loadFilesContents
+6:04:58 AM - [34mdebug[39m: loadFilesContents
+6:04:58 AM - [34mdebug[39m: loadFileContents
+6:04:58 AM - [34mdebug[39m: fromDirectory
+6:04:58 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+6:04:58 AM - [34mdebug[39m: loadFilesContents
+6:04:58 AM - [34mdebug[39m: loadFilesContents
+6:04:58 AM - [34mdebug[39m: loadFilesContents
+6:04:58 AM - [34mdebug[39m: loadFilesContents
+6:04:58 AM - [34mdebug[39m: loadFilesContents
+6:04:58 AM - [34mdebug[39m: loadFilesContents
+6:04:58 AM - [34mdebug[39m: loadFileContents
+6:04:58 AM - [34mdebug[39m: loadFileContents
+6:04:58 AM - [34mdebug[39m: loadFileContents
+6:04:58 AM - [34mdebug[39m: loadFileContents
+6:04:58 AM - [34mdebug[39m: loadFileContents
+6:04:58 AM - [34mdebug[39m: loadFilesContents
+6:05:00 AM - [34mdebug[39m: fromDirectory
+6:05:00 AM - [34mdebug[39m: loadFileContents
+6:05:00 AM - [34mdebug[39m: fromDirectory
+6:05:00 AM - [34mdebug[39m: fromDirectory
+6:05:00 AM - [34mdebug[39m: loadFilesContents
+6:05:00 AM - [34mdebug[39m: loadFilesContents
+6:05:00 AM - [34mdebug[39m: loadFilesContents
+6:05:00 AM - [34mdebug[39m: loadFilesContents
+6:05:00 AM - [34mdebug[39m: loadFilesContents
+6:05:00 AM - [34mdebug[39m: loadFilesContents
+6:05:00 AM - [34mdebug[39m: loadFileContents
+6:05:00 AM - [34mdebug[39m: loadFilesContents
+6:05:01 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"2195b737-bcbd-4385-b547-c8147a93c4aa"}
+6:05:01 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+6:05:01 AM - [34mdebug[39m: loadFileContents
+6:05:01 AM - [34mdebug[39m: loadFileBuffer
+6:05:01 AM - [34mdebug[39m: loadFileContents
+6:05:01 AM - [34mdebug[39m: loadFileContents
+6:05:01 AM - [34mdebug[39m: fromDirectory
+6:05:01 AM - [34mdebug[39m: loadFilesContents
+6:05:01 AM - [34mdebug[39m: loadFilesContents
+6:05:01 AM - [34mdebug[39m: loadFilesContents
+6:05:01 AM - [34mdebug[39m: loadFilesContents
+6:05:01 AM - [34mdebug[39m: loadFilesContents
+6:05:01 AM - [34mdebug[39m: loadFilesContents
+6:05:01 AM - [34mdebug[39m: loadFileContents
+6:05:01 AM - [34mdebug[39m: loadFileBuffer
+6:05:01 AM - [34mdebug[39m: loadFileContents
+6:05:01 AM - [34mdebug[39m: loadFileContents
+6:05:01 AM - [34mdebug[39m: fromDirectory
+6:05:01 AM - [34mdebug[39m: loadFilesContents
+6:05:01 AM - [34mdebug[39m: loadFilesContents
+6:05:01 AM - [34mdebug[39m: loadFileContents
+6:05:01 AM - [34mdebug[39m: loadFilesContents
+6:05:01 AM - [34mdebug[39m: loadFilesContents
+6:05:01 AM - [34mdebug[39m: loadFilesContents
+6:05:01 AM - [34mdebug[39m: loadFilesContents
+6:05:01 AM - [34mdebug[39m: loadFilesContents
+6:05:01 AM - [34mdebug[39m: fromDirectory
+6:05:01 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+6:05:01 AM - [34mdebug[39m: loadFilesContents
+6:05:01 AM - [34mdebug[39m: loadFilesContents
+6:05:01 AM - [34mdebug[39m: loadFileContents
+6:05:01 AM - [34mdebug[39m: loadFilesContents
+6:05:01 AM - [34mdebug[39m: loadFilesContents
+6:05:01 AM - [34mdebug[39m: loadFilesContents
+6:05:01 AM - [34mdebug[39m: loadFilesContents
+6:05:01 AM - [34mdebug[39m: loadFilesContents
+6:05:01 AM - [34mdebug[39m: fromDirectory
+6:05:01 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+6:05:01 AM - [34mdebug[39m: loadFilesContents
+6:05:01 AM - [34mdebug[39m: loadFileContents
+6:05:01 AM - [34mdebug[39m: loadFileContents
+6:05:01 AM - [34mdebug[39m: loadFileContents
+6:05:01 AM - [34mdebug[39m: loadFileContents
+6:05:01 AM - [34mdebug[39m: loadFileContents
+6:05:01 AM - [34mdebug[39m: loadFilesContents
+6:05:01 AM - [34mdebug[39m: loadFilesContents
+6:05:01 AM - [34mdebug[39m: loadFilesContents
+6:05:01 AM - [34mdebug[39m: loadFilesContents
+6:05:01 AM - [34mdebug[39m: loadFilesContents
+6:05:01 AM - [34mdebug[39m: loadFilesContents
+6:05:01 AM - [34mdebug[39m: loadFileContents
+6:05:01 AM - [34mdebug[39m: loadFileContents
+6:05:01 AM - [34mdebug[39m: loadFileContents
+6:05:01 AM - [34mdebug[39m: loadFileContents
+6:05:01 AM - [34mdebug[39m: loadFileContents
+6:05:01 AM - [34mdebug[39m: loadFilesContents
+6:05:02 AM - [34mdebug[39m: fromDirectory
+6:05:02 AM - [34mdebug[39m: loadFileContents
+6:05:02 AM - [34mdebug[39m: fromDirectory
+6:05:02 AM - [34mdebug[39m: fromDirectory
+6:05:02 AM - [34mdebug[39m: loadFilesContents
+6:05:02 AM - [34mdebug[39m: loadFilesContents
+6:05:02 AM - [34mdebug[39m: loadFilesContents
+6:05:02 AM - [34mdebug[39m: loadFilesContents
+6:05:02 AM - [34mdebug[39m: loadFilesContents
+6:05:02 AM - [34mdebug[39m: loadFilesContents
+6:05:02 AM - [34mdebug[39m: loadFileContents
+6:05:02 AM - [34mdebug[39m: loadFilesContents
+6:05:02 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"43016d7d-4a2a-4d5f-a159-56c21afb15a4"}
+6:05:02 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+6:05:02 AM - [34mdebug[39m: fromDirectory
+6:05:02 AM - [34mdebug[39m: loadFileContents
+6:05:02 AM - [34mdebug[39m: fromDirectory
+6:05:02 AM - [34mdebug[39m: fromDirectory
+6:05:02 AM - [34mdebug[39m: loadFilesContents
+6:05:02 AM - [34mdebug[39m: loadFilesContents
+6:05:02 AM - [34mdebug[39m: loadFilesContents
+6:05:02 AM - [34mdebug[39m: loadFilesContents
+6:05:02 AM - [34mdebug[39m: loadFilesContents
+6:05:02 AM - [34mdebug[39m: loadFilesContents
+6:05:02 AM - [34mdebug[39m: loadFileContents
+6:05:02 AM - [34mdebug[39m: loadFilesContents
+6:05:03 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"b3aa0e3d-1c33-48de-9682-f6e0251ea9d4"}
+6:05:03 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+6:06:45 AM - [34mdebug[39m: loadFileContents
+6:06:45 AM - [34mdebug[39m: loadFileBuffer
+6:06:45 AM - [34mdebug[39m: loadFileContents
+6:06:45 AM - [34mdebug[39m: loadFileContents
+6:06:45 AM - [34mdebug[39m: fromDirectory
+6:06:45 AM - [34mdebug[39m: loadFilesContents
+6:06:45 AM - [34mdebug[39m: loadFilesContents
+6:06:45 AM - [34mdebug[39m: loadFilesContents
+6:06:45 AM - [34mdebug[39m: loadFilesContents
+6:06:45 AM - [34mdebug[39m: loadFilesContents
+6:06:45 AM - [34mdebug[39m: loadFilesContents
+6:06:45 AM - [34mdebug[39m: loadFilesContents
+6:06:45 AM - [34mdebug[39m: loadFileContents
+6:06:45 AM - [34mdebug[39m: fromDirectory
+6:06:45 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+6:06:45 AM - [34mdebug[39m: loadFilesContents
+6:06:45 AM - [34mdebug[39m: loadFilesContents
+6:06:45 AM - [34mdebug[39m: loadFilesContents
+6:06:45 AM - [34mdebug[39m: loadFilesContents
+6:06:45 AM - [34mdebug[39m: loadFilesContents
+6:06:45 AM - [34mdebug[39m: loadFilesContents
+6:06:45 AM - [34mdebug[39m: loadFileContents
+6:06:45 AM - [34mdebug[39m: loadFileContents
+6:06:45 AM - [34mdebug[39m: loadFileContents
+6:06:45 AM - [34mdebug[39m: loadFileContents
+6:06:45 AM - [34mdebug[39m: loadFileContents
+6:06:45 AM - [34mdebug[39m: loadFilesContents
+6:06:46 AM - [34mdebug[39m: fromDirectory
+6:06:46 AM - [34mdebug[39m: loadFileContents
+6:06:46 AM - [34mdebug[39m: fromDirectory
+6:06:46 AM - [34mdebug[39m: fromDirectory
+6:06:46 AM - [34mdebug[39m: loadFilesContents
+6:06:46 AM - [34mdebug[39m: loadFilesContents
+6:06:46 AM - [34mdebug[39m: loadFilesContents
+6:06:46 AM - [34mdebug[39m: loadFilesContents
+6:06:46 AM - [34mdebug[39m: loadFilesContents
+6:06:46 AM - [34mdebug[39m: loadFilesContents
+6:06:46 AM - [34mdebug[39m: loadFileContents
+6:06:46 AM - [34mdebug[39m: loadFilesContents
+6:06:47 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"f1ae163a-e71d-45b8-b8e0-d9c6fa68607a"}
+6:06:47 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+6:08:14 AM - [34mdebug[39m: loadFileContents
+6:08:14 AM - [34mdebug[39m: loadFileBuffer
+6:08:14 AM - [34mdebug[39m: loadFileContents
+6:08:14 AM - [34mdebug[39m: loadFileContents
+6:08:14 AM - [34mdebug[39m: fromDirectory
+6:08:14 AM - [34mdebug[39m: loadFilesContents
+6:08:14 AM - [34mdebug[39m: loadFilesContents
+6:08:14 AM - [34mdebug[39m: loadFilesContents
+6:08:14 AM - [34mdebug[39m: loadFilesContents
+6:08:14 AM - [34mdebug[39m: loadFilesContents
+6:08:14 AM - [34mdebug[39m: loadFilesContents
+6:08:14 AM - [34mdebug[39m: loadFilesContents
+6:08:14 AM - [34mdebug[39m: loadFileContents
+6:08:14 AM - [34mdebug[39m: fromDirectory
+6:08:14 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+6:08:14 AM - [34mdebug[39m: loadFilesContents
+6:08:14 AM - [34mdebug[39m: loadFilesContents
+6:08:14 AM - [34mdebug[39m: loadFilesContents
+6:08:14 AM - [34mdebug[39m: loadFilesContents
+6:08:14 AM - [34mdebug[39m: loadFilesContents
+6:08:14 AM - [34mdebug[39m: loadFilesContents
+6:08:14 AM - [34mdebug[39m: loadFileContents
+6:08:14 AM - [34mdebug[39m: loadFileContents
+6:08:14 AM - [34mdebug[39m: loadFileContents
+6:08:14 AM - [34mdebug[39m: loadFileContents
+6:08:14 AM - [34mdebug[39m: loadFileContents
+6:08:14 AM - [34mdebug[39m: loadFilesContents
+6:08:16 AM - [34mdebug[39m: fromDirectory
+6:08:16 AM - [34mdebug[39m: loadFileContents
+6:08:16 AM - [34mdebug[39m: fromDirectory
+6:08:16 AM - [34mdebug[39m: fromDirectory
+6:08:16 AM - [34mdebug[39m: loadFilesContents
+6:08:16 AM - [34mdebug[39m: loadFilesContents
+6:08:16 AM - [34mdebug[39m: loadFilesContents
+6:08:16 AM - [34mdebug[39m: loadFilesContents
+6:08:16 AM - [34mdebug[39m: loadFilesContents
+6:08:16 AM - [34mdebug[39m: loadFilesContents
+6:08:16 AM - [34mdebug[39m: loadFileContents
+6:08:16 AM - [34mdebug[39m: loadFilesContents
+6:08:17 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"81a297f6-cc11-4e91-8436-c2e2c32babd8"}
+6:08:17 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+6:09:15 AM - [34mdebug[39m: loadFileContents
+6:09:15 AM - [34mdebug[39m: loadFileBuffer
+6:09:15 AM - [34mdebug[39m: loadFileContents
+6:09:15 AM - [34mdebug[39m: loadFileContents
+6:09:15 AM - [34mdebug[39m: fromDirectory
+6:09:15 AM - [34mdebug[39m: loadFilesContents
+6:09:15 AM - [34mdebug[39m: loadFilesContents
+6:09:15 AM - [34mdebug[39m: loadFilesContents
+6:09:15 AM - [34mdebug[39m: loadFilesContents
+6:09:15 AM - [34mdebug[39m: loadFilesContents
+6:09:15 AM - [34mdebug[39m: loadFilesContents
+6:09:15 AM - [34mdebug[39m: loadFilesContents
+6:09:15 AM - [34mdebug[39m: loadFileContents
+6:09:15 AM - [34mdebug[39m: fromDirectory
+6:09:15 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+6:09:15 AM - [34mdebug[39m: loadFilesContents
+6:09:15 AM - [34mdebug[39m: loadFilesContents
+6:09:15 AM - [34mdebug[39m: loadFilesContents
+6:09:15 AM - [34mdebug[39m: loadFilesContents
+6:09:15 AM - [34mdebug[39m: loadFilesContents
+6:09:15 AM - [34mdebug[39m: loadFilesContents
+6:09:15 AM - [34mdebug[39m: loadFileContents
+6:09:15 AM - [34mdebug[39m: loadFileContents
+6:09:15 AM - [34mdebug[39m: loadFileContents
+6:09:15 AM - [34mdebug[39m: loadFileContents
+6:09:15 AM - [34mdebug[39m: loadFileContents
+6:09:15 AM - [34mdebug[39m: loadFilesContents
+6:09:16 AM - [34mdebug[39m: fromDirectory
+6:09:16 AM - [34mdebug[39m: loadFileContents
+6:09:16 AM - [34mdebug[39m: fromDirectory
+6:09:16 AM - [34mdebug[39m: fromDirectory
+6:09:16 AM - [34mdebug[39m: loadFilesContents
+6:09:16 AM - [34mdebug[39m: loadFilesContents
+6:09:16 AM - [34mdebug[39m: loadFilesContents
+6:09:16 AM - [34mdebug[39m: loadFilesContents
+6:09:16 AM - [34mdebug[39m: loadFilesContents
+6:09:16 AM - [34mdebug[39m: loadFilesContents
+6:09:16 AM - [34mdebug[39m: loadFileContents
+6:09:16 AM - [34mdebug[39m: loadFilesContents
+6:09:17 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"12d5e366-cea1-4061-bc12-e5aa2bb47acc"}
+6:09:17 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+6:09:17 AM - [34mdebug[39m: loadFileContents
+6:09:17 AM - [34mdebug[39m: loadFileBuffer
+6:09:17 AM - [34mdebug[39m: loadFileContents
+6:09:17 AM - [34mdebug[39m: loadFileContents
+6:09:17 AM - [34mdebug[39m: fromDirectory
+6:09:17 AM - [34mdebug[39m: loadFilesContents
+6:09:17 AM - [34mdebug[39m: loadFilesContents
+6:09:17 AM - [34mdebug[39m: loadFilesContents
+6:09:17 AM - [34mdebug[39m: loadFilesContents
+6:09:17 AM - [34mdebug[39m: loadFilesContents
+6:09:17 AM - [34mdebug[39m: loadFilesContents
+6:09:17 AM - [34mdebug[39m: loadFilesContents
+6:09:17 AM - [34mdebug[39m: loadFileContents
+6:09:17 AM - [34mdebug[39m: fromDirectory
+6:09:17 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+6:09:17 AM - [34mdebug[39m: loadFilesContents
+6:09:17 AM - [34mdebug[39m: loadFilesContents
+6:09:17 AM - [34mdebug[39m: loadFilesContents
+6:09:17 AM - [34mdebug[39m: loadFilesContents
+6:09:17 AM - [34mdebug[39m: loadFilesContents
+6:09:17 AM - [34mdebug[39m: loadFilesContents
+6:09:17 AM - [34mdebug[39m: loadFileContents
+6:09:17 AM - [34mdebug[39m: loadFileContents
+6:09:17 AM - [34mdebug[39m: loadFileContents
+6:09:17 AM - [34mdebug[39m: loadFileContents
+6:09:17 AM - [34mdebug[39m: loadFileContents
+6:09:17 AM - [34mdebug[39m: loadFilesContents
+6:09:18 AM - [34mdebug[39m: fromDirectory
+6:09:18 AM - [34mdebug[39m: loadFileContents
+6:09:18 AM - [34mdebug[39m: fromDirectory
+6:09:18 AM - [34mdebug[39m: fromDirectory
+6:09:18 AM - [34mdebug[39m: loadFilesContents
+6:09:18 AM - [34mdebug[39m: loadFilesContents
+6:09:18 AM - [34mdebug[39m: loadFilesContents
+6:09:18 AM - [34mdebug[39m: loadFilesContents
+6:09:18 AM - [34mdebug[39m: loadFilesContents
+6:09:18 AM - [34mdebug[39m: loadFilesContents
+6:09:18 AM - [34mdebug[39m: loadFileContents
+6:09:18 AM - [34mdebug[39m: loadFilesContents
+6:09:19 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"9a37483f-d8be-430f-93b1-89f4e086b657"}
+6:09:19 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+6:11:21 AM - [34mdebug[39m: loadFileContents
+6:11:21 AM - [34mdebug[39m: loadFileBuffer
+6:11:21 AM - [34mdebug[39m: loadFileContents
+6:11:21 AM - [34mdebug[39m: loadFileContents
+6:11:21 AM - [34mdebug[39m: fromDirectory
+6:11:21 AM - [34mdebug[39m: loadFilesContents
+6:11:21 AM - [34mdebug[39m: loadFilesContents
+6:11:21 AM - [34mdebug[39m: loadFilesContents
+6:11:21 AM - [34mdebug[39m: loadFilesContents
+6:11:21 AM - [34mdebug[39m: loadFilesContents
+6:11:21 AM - [34mdebug[39m: loadFilesContents
+6:11:21 AM - [34mdebug[39m: loadFilesContents
+6:11:21 AM - [34mdebug[39m: loadFileContents
+6:11:21 AM - [34mdebug[39m: fromDirectory
+6:11:21 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+6:11:21 AM - [34mdebug[39m: loadFilesContents
+6:11:21 AM - [34mdebug[39m: loadFilesContents
+6:11:21 AM - [34mdebug[39m: loadFilesContents
+6:11:21 AM - [34mdebug[39m: loadFilesContents
+6:11:21 AM - [34mdebug[39m: loadFilesContents
+6:11:21 AM - [34mdebug[39m: loadFilesContents
+6:11:21 AM - [34mdebug[39m: loadFileContents
+6:11:21 AM - [34mdebug[39m: loadFileContents
+6:11:21 AM - [34mdebug[39m: loadFileContents
+6:11:21 AM - [34mdebug[39m: loadFileContents
+6:11:21 AM - [34mdebug[39m: loadFileContents
+6:11:21 AM - [34mdebug[39m: loadFilesContents
+6:11:23 AM - [34mdebug[39m: fromDirectory
+6:11:23 AM - [34mdebug[39m: loadFileContents
+6:11:23 AM - [34mdebug[39m: fromDirectory
+6:11:23 AM - [34mdebug[39m: fromDirectory
+6:11:23 AM - [34mdebug[39m: loadFilesContents
+6:11:23 AM - [34mdebug[39m: loadFilesContents
+6:11:23 AM - [34mdebug[39m: loadFilesContents
+6:11:23 AM - [34mdebug[39m: loadFilesContents
+6:11:23 AM - [34mdebug[39m: loadFilesContents
+6:11:23 AM - [34mdebug[39m: loadFilesContents
+6:11:23 AM - [34mdebug[39m: loadFileContents
+6:11:23 AM - [34mdebug[39m: loadFilesContents
+6:11:24 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"2b3a2dd0-1e46-4ff1-b2c2-5ba95d0967b1"}
+6:11:24 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+6:11:24 AM - [34mdebug[39m: loadFileContents
+6:11:24 AM - [34mdebug[39m: loadFileBuffer
+6:11:24 AM - [34mdebug[39m: loadFileContents
+6:11:24 AM - [34mdebug[39m: loadFileContents
+6:11:24 AM - [34mdebug[39m: fromDirectory
+6:11:24 AM - [34mdebug[39m: loadFilesContents
+6:11:24 AM - [34mdebug[39m: loadFilesContents
+6:11:24 AM - [34mdebug[39m: loadFilesContents
+6:11:24 AM - [34mdebug[39m: loadFilesContents
+6:11:24 AM - [34mdebug[39m: loadFilesContents
+6:11:24 AM - [34mdebug[39m: loadFilesContents
+6:11:24 AM - [34mdebug[39m: loadFilesContents
+6:11:24 AM - [34mdebug[39m: loadFileContents
+6:11:24 AM - [34mdebug[39m: fromDirectory
+6:11:24 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+6:11:24 AM - [34mdebug[39m: loadFilesContents
+6:11:24 AM - [34mdebug[39m: loadFilesContents
+6:11:24 AM - [34mdebug[39m: loadFilesContents
+6:11:24 AM - [34mdebug[39m: loadFilesContents
+6:11:24 AM - [34mdebug[39m: loadFilesContents
+6:11:24 AM - [34mdebug[39m: loadFilesContents
+6:11:24 AM - [34mdebug[39m: loadFileContents
+6:11:24 AM - [34mdebug[39m: loadFileContents
+6:11:24 AM - [34mdebug[39m: loadFileContents
+6:11:24 AM - [34mdebug[39m: loadFileContents
+6:11:24 AM - [34mdebug[39m: loadFileContents
+6:11:24 AM - [34mdebug[39m: loadFilesContents
+6:11:25 AM - [34mdebug[39m: fromDirectory
+6:11:25 AM - [34mdebug[39m: loadFileContents
+6:11:25 AM - [34mdebug[39m: fromDirectory
+6:11:25 AM - [34mdebug[39m: fromDirectory
+6:11:25 AM - [34mdebug[39m: loadFilesContents
+6:11:25 AM - [34mdebug[39m: loadFilesContents
+6:11:25 AM - [34mdebug[39m: loadFilesContents
+6:11:25 AM - [34mdebug[39m: loadFilesContents
+6:11:25 AM - [34mdebug[39m: loadFilesContents
+6:11:25 AM - [34mdebug[39m: loadFilesContents
+6:11:25 AM - [34mdebug[39m: loadFileContents
+6:11:25 AM - [34mdebug[39m: loadFilesContents
+6:11:25 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"c7f95e18-7eb0-4f23-b74f-5d391a23499c"}
+6:11:25 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+6:33:16 AM - [34mdebug[39m: loadFileContents
+6:33:16 AM - [34mdebug[39m: loadFileBuffer
+6:33:16 AM - [34mdebug[39m: loadFileContents
+6:33:16 AM - [34mdebug[39m: loadFileContents
+6:33:16 AM - [34mdebug[39m: fromDirectory
+6:33:16 AM - [34mdebug[39m: loadFilesContents
+6:33:16 AM - [34mdebug[39m: loadFilesContents
+6:33:16 AM - [34mdebug[39m: loadFilesContents
+6:33:16 AM - [34mdebug[39m: loadFilesContents
+6:33:16 AM - [34mdebug[39m: loadFilesContents
+6:33:16 AM - [34mdebug[39m: loadFilesContents
+6:33:16 AM - [34mdebug[39m: loadFilesContents
+6:33:16 AM - [34mdebug[39m: loadFileContents
+6:33:16 AM - [34mdebug[39m: fromDirectory
+6:33:16 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+6:33:16 AM - [34mdebug[39m: loadFilesContents
+6:33:16 AM - [34mdebug[39m: loadFilesContents
+6:33:16 AM - [34mdebug[39m: loadFilesContents
+6:33:16 AM - [34mdebug[39m: loadFilesContents
+6:33:16 AM - [34mdebug[39m: loadFilesContents
+6:33:16 AM - [34mdebug[39m: loadFilesContents
+6:33:16 AM - [34mdebug[39m: loadFileContents
+6:33:16 AM - [34mdebug[39m: loadFileContents
+6:33:16 AM - [34mdebug[39m: loadFileContents
+6:33:16 AM - [34mdebug[39m: loadFileContents
+6:33:16 AM - [34mdebug[39m: loadFileContents
+6:33:16 AM - [34mdebug[39m: loadFilesContents
+6:33:17 AM - [34mdebug[39m: fromDirectory
+6:33:17 AM - [34mdebug[39m: loadFileContents
+6:33:17 AM - [34mdebug[39m: fromDirectory
+6:33:17 AM - [34mdebug[39m: fromDirectory
+6:33:17 AM - [34mdebug[39m: loadFilesContents
+6:33:17 AM - [34mdebug[39m: loadFilesContents
+6:33:17 AM - [34mdebug[39m: loadFilesContents
+6:33:17 AM - [34mdebug[39m: loadFilesContents
+6:33:17 AM - [34mdebug[39m: loadFilesContents
+6:33:17 AM - [34mdebug[39m: loadFilesContents
+6:33:17 AM - [34mdebug[39m: loadFileContents
+6:33:17 AM - [34mdebug[39m: loadFilesContents
+6:33:18 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"e2ccb391-3bdf-4e92-8235-9c1cf3c4d2e2"}
+6:33:18 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+6:34:02 AM - [34mdebug[39m: loadFileContents
+6:34:02 AM - [34mdebug[39m: loadFileBuffer
+6:34:02 AM - [34mdebug[39m: loadFileContents
+6:34:02 AM - [34mdebug[39m: loadFileContents
+6:34:02 AM - [34mdebug[39m: fromDirectory
+6:34:02 AM - [34mdebug[39m: loadFilesContents
+6:34:02 AM - [34mdebug[39m: loadFilesContents
+6:34:02 AM - [34mdebug[39m: loadFilesContents
+6:34:02 AM - [34mdebug[39m: loadFilesContents
+6:34:02 AM - [34mdebug[39m: loadFilesContents
+6:34:02 AM - [34mdebug[39m: loadFilesContents
+6:34:02 AM - [34mdebug[39m: loadFilesContents
+6:34:02 AM - [34mdebug[39m: loadFileContents
+6:34:02 AM - [34mdebug[39m: fromDirectory
+6:34:02 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+6:34:02 AM - [34mdebug[39m: loadFilesContents
+6:34:02 AM - [34mdebug[39m: loadFilesContents
+6:34:02 AM - [34mdebug[39m: loadFilesContents
+6:34:02 AM - [34mdebug[39m: loadFilesContents
+6:34:02 AM - [34mdebug[39m: loadFilesContents
+6:34:02 AM - [34mdebug[39m: loadFilesContents
+6:34:02 AM - [34mdebug[39m: loadFileContents
+6:34:02 AM - [34mdebug[39m: loadFileContents
+6:34:02 AM - [34mdebug[39m: loadFileContents
+6:34:02 AM - [34mdebug[39m: loadFileContents
+6:34:02 AM - [34mdebug[39m: loadFileContents
+6:34:02 AM - [34mdebug[39m: loadFilesContents
+6:34:03 AM - [34mdebug[39m: fromDirectory
+6:34:03 AM - [34mdebug[39m: loadFileContents
+6:34:03 AM - [34mdebug[39m: fromDirectory
+6:34:03 AM - [34mdebug[39m: fromDirectory
+6:34:03 AM - [34mdebug[39m: loadFilesContents
+6:34:03 AM - [34mdebug[39m: loadFilesContents
+6:34:03 AM - [34mdebug[39m: loadFilesContents
+6:34:03 AM - [34mdebug[39m: loadFilesContents
+6:34:03 AM - [34mdebug[39m: loadFilesContents
+6:34:03 AM - [34mdebug[39m: loadFilesContents
+6:34:03 AM - [34mdebug[39m: loadFileContents
+6:34:03 AM - [34mdebug[39m: loadFilesContents
+6:34:04 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"c871e0f5-3fd5-4238-9cef-892848a848d4"}
+6:34:04 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+6:59:35 AM - [34mdebug[39m: loadFileContents
+6:59:35 AM - [34mdebug[39m: loadFileBuffer
+6:59:35 AM - [34mdebug[39m: loadFileContents
+6:59:35 AM - [34mdebug[39m: loadFileContents
+6:59:35 AM - [34mdebug[39m: fromDirectory
+6:59:35 AM - [34mdebug[39m: loadFilesContents
+6:59:35 AM - [34mdebug[39m: loadFilesContents
+6:59:35 AM - [34mdebug[39m: loadFilesContents
+6:59:35 AM - [34mdebug[39m: loadFilesContents
+6:59:35 AM - [34mdebug[39m: loadFilesContents
+6:59:35 AM - [34mdebug[39m: loadFilesContents
+6:59:35 AM - [34mdebug[39m: loadFilesContents
+6:59:35 AM - [34mdebug[39m: loadFileContents
+6:59:35 AM - [34mdebug[39m: fromDirectory
+6:59:35 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+6:59:35 AM - [34mdebug[39m: loadFilesContents
+6:59:35 AM - [34mdebug[39m: loadFilesContents
+6:59:35 AM - [34mdebug[39m: loadFilesContents
+6:59:35 AM - [34mdebug[39m: loadFilesContents
+6:59:35 AM - [34mdebug[39m: loadFilesContents
+6:59:35 AM - [34mdebug[39m: loadFilesContents
+6:59:35 AM - [34mdebug[39m: loadFileContents
+6:59:35 AM - [34mdebug[39m: loadFileContents
+6:59:35 AM - [34mdebug[39m: loadFileContents
+6:59:35 AM - [34mdebug[39m: loadFileContents
+6:59:35 AM - [34mdebug[39m: loadFileContents
+6:59:35 AM - [34mdebug[39m: loadFilesContents
+6:59:37 AM - [34mdebug[39m: fromDirectory
+6:59:37 AM - [34mdebug[39m: loadFileContents
+6:59:37 AM - [34mdebug[39m: fromDirectory
+6:59:37 AM - [34mdebug[39m: fromDirectory
+6:59:37 AM - [34mdebug[39m: loadFilesContents
+6:59:37 AM - [34mdebug[39m: loadFilesContents
+6:59:37 AM - [34mdebug[39m: loadFilesContents
+6:59:37 AM - [34mdebug[39m: loadFilesContents
+6:59:37 AM - [34mdebug[39m: loadFilesContents
+6:59:37 AM - [34mdebug[39m: loadFilesContents
+6:59:37 AM - [34mdebug[39m: loadFileContents
+6:59:37 AM - [34mdebug[39m: loadFilesContents
+6:59:38 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"80fa20d0-b784-4ebc-85e8-db5c81ed7b2a"}
+6:59:38 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+7:01:08 AM - [34mdebug[39m: loadFileContents
+7:01:08 AM - [34mdebug[39m: loadFileBuffer
+7:01:08 AM - [34mdebug[39m: loadFileContents
+7:01:08 AM - [34mdebug[39m: loadFileContents
+7:01:08 AM - [34mdebug[39m: fromDirectory
+7:01:08 AM - [34mdebug[39m: loadFilesContents
+7:01:08 AM - [34mdebug[39m: loadFilesContents
+7:01:08 AM - [34mdebug[39m: loadFilesContents
+7:01:08 AM - [34mdebug[39m: loadFilesContents
+7:01:08 AM - [34mdebug[39m: loadFilesContents
+7:01:08 AM - [34mdebug[39m: loadFilesContents
+7:01:08 AM - [34mdebug[39m: loadFilesContents
+7:01:08 AM - [34mdebug[39m: loadFileContents
+7:01:08 AM - [34mdebug[39m: fromDirectory
+7:01:08 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+7:01:08 AM - [34mdebug[39m: loadFilesContents
+7:01:08 AM - [34mdebug[39m: loadFilesContents
+7:01:08 AM - [34mdebug[39m: loadFilesContents
+7:01:08 AM - [34mdebug[39m: loadFilesContents
+7:01:08 AM - [34mdebug[39m: loadFilesContents
+7:01:08 AM - [34mdebug[39m: loadFilesContents
+7:01:08 AM - [34mdebug[39m: loadFileContents
+7:01:08 AM - [34mdebug[39m: loadFileContents
+7:01:08 AM - [34mdebug[39m: loadFileContents
+7:01:08 AM - [34mdebug[39m: loadFileContents
+7:01:08 AM - [34mdebug[39m: loadFileContents
+7:01:08 AM - [34mdebug[39m: loadFilesContents
+7:01:09 AM - [34mdebug[39m: fromDirectory
+7:01:09 AM - [34mdebug[39m: loadFileContents
+7:01:09 AM - [34mdebug[39m: fromDirectory
+7:01:09 AM - [34mdebug[39m: fromDirectory
+7:01:09 AM - [34mdebug[39m: loadFilesContents
+7:01:09 AM - [34mdebug[39m: loadFilesContents
+7:01:09 AM - [34mdebug[39m: loadFilesContents
+7:01:09 AM - [34mdebug[39m: loadFilesContents
+7:01:09 AM - [34mdebug[39m: loadFilesContents
+7:01:09 AM - [34mdebug[39m: loadFilesContents
+7:01:09 AM - [34mdebug[39m: loadFileContents
+7:01:09 AM - [34mdebug[39m: loadFilesContents
+7:01:10 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"b6dcbd03-cf50-496e-aff6-1948a226ccc6"}
+7:01:10 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+7:02:04 AM - [34mdebug[39m: loadFileContents
+7:02:04 AM - [34mdebug[39m: loadFileBuffer
+7:02:04 AM - [34mdebug[39m: loadFileContents
+7:02:04 AM - [34mdebug[39m: loadFileContents
+7:02:04 AM - [34mdebug[39m: fromDirectory
+7:02:04 AM - [34mdebug[39m: loadFilesContents
+7:02:04 AM - [34mdebug[39m: loadFilesContents
+7:02:04 AM - [34mdebug[39m: loadFilesContents
+7:02:05 AM - [34mdebug[39m: loadFilesContents
+7:02:05 AM - [34mdebug[39m: loadFilesContents
+7:02:05 AM - [34mdebug[39m: loadFilesContents
+7:02:05 AM - [34mdebug[39m: loadFilesContents
+7:02:05 AM - [34mdebug[39m: loadFileContents
+7:02:05 AM - [34mdebug[39m: fromDirectory
+7:02:05 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+7:02:05 AM - [34mdebug[39m: loadFilesContents
+7:02:05 AM - [34mdebug[39m: loadFilesContents
+7:02:05 AM - [34mdebug[39m: loadFilesContents
+7:02:05 AM - [34mdebug[39m: loadFilesContents
+7:02:05 AM - [34mdebug[39m: loadFilesContents
+7:02:05 AM - [34mdebug[39m: loadFilesContents
+7:02:05 AM - [34mdebug[39m: loadFileContents
+7:02:05 AM - [34mdebug[39m: loadFileContents
+7:02:05 AM - [34mdebug[39m: loadFileContents
+7:02:05 AM - [34mdebug[39m: loadFileContents
+7:02:05 AM - [34mdebug[39m: loadFileContents
+7:02:05 AM - [34mdebug[39m: loadFilesContents
+7:02:06 AM - [34mdebug[39m: fromDirectory
+7:02:06 AM - [34mdebug[39m: loadFileContents
+7:02:06 AM - [34mdebug[39m: fromDirectory
+7:02:06 AM - [34mdebug[39m: fromDirectory
+7:02:06 AM - [34mdebug[39m: loadFilesContents
+7:02:06 AM - [34mdebug[39m: loadFilesContents
+7:02:06 AM - [34mdebug[39m: loadFilesContents
+7:02:06 AM - [34mdebug[39m: loadFilesContents
+7:02:06 AM - [34mdebug[39m: loadFilesContents
+7:02:06 AM - [34mdebug[39m: loadFilesContents
+7:02:06 AM - [34mdebug[39m: loadFileContents
+7:02:06 AM - [34mdebug[39m: loadFilesContents
+7:02:07 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"1beb6224-e799-4385-a9ff-9edcac10b71a"}
+7:02:07 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+7:08:27 AM - [34mdebug[39m: loadFileContents
+7:08:27 AM - [34mdebug[39m: loadFileBuffer
+7:08:27 AM - [34mdebug[39m: loadFileContents
+7:08:27 AM - [34mdebug[39m: loadFileContents
+7:08:27 AM - [34mdebug[39m: fromDirectory
+7:08:27 AM - [34mdebug[39m: loadFilesContents
+7:08:27 AM - [34mdebug[39m: loadFilesContents
+7:08:27 AM - [34mdebug[39m: loadFilesContents
+7:08:27 AM - [34mdebug[39m: loadFilesContents
+7:08:27 AM - [34mdebug[39m: loadFilesContents
+7:08:27 AM - [34mdebug[39m: loadFilesContents
+7:08:27 AM - [34mdebug[39m: loadFilesContents
+7:08:27 AM - [34mdebug[39m: loadFileContents
+7:08:27 AM - [34mdebug[39m: fromDirectory
+7:08:27 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+7:08:27 AM - [34mdebug[39m: loadFilesContents
+7:08:27 AM - [34mdebug[39m: loadFilesContents
+7:08:27 AM - [34mdebug[39m: loadFilesContents
+7:08:27 AM - [34mdebug[39m: loadFilesContents
+7:08:27 AM - [34mdebug[39m: loadFilesContents
+7:08:27 AM - [34mdebug[39m: loadFilesContents
+7:08:27 AM - [34mdebug[39m: loadFileContents
+7:08:27 AM - [34mdebug[39m: loadFileContents
+7:08:27 AM - [34mdebug[39m: loadFileContents
+7:08:27 AM - [34mdebug[39m: loadFileContents
+7:08:27 AM - [34mdebug[39m: loadFileContents
+7:08:27 AM - [34mdebug[39m: loadFilesContents
+7:08:28 AM - [34mdebug[39m: fromDirectory
+7:08:28 AM - [34mdebug[39m: loadFileContents
+7:08:28 AM - [34mdebug[39m: fromDirectory
+7:08:28 AM - [34mdebug[39m: fromDirectory
+7:08:28 AM - [34mdebug[39m: loadFilesContents
+7:08:28 AM - [34mdebug[39m: loadFilesContents
+7:08:28 AM - [34mdebug[39m: loadFilesContents
+7:08:28 AM - [34mdebug[39m: loadFilesContents
+7:08:28 AM - [34mdebug[39m: loadFilesContents
+7:08:28 AM - [34mdebug[39m: loadFilesContents
+7:08:28 AM - [34mdebug[39m: loadFileContents
+7:08:28 AM - [34mdebug[39m: loadFilesContents
+7:08:29 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"b21fe0a4-526f-4789-b0cf-4a3e2bba0498"}
+7:08:29 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+7:08:46 AM - [34mdebug[39m: loadFileContents
+7:08:46 AM - [34mdebug[39m: loadFileBuffer
+7:08:46 AM - [34mdebug[39m: loadFileContents
+7:08:46 AM - [34mdebug[39m: loadFileContents
+7:08:46 AM - [34mdebug[39m: fromDirectory
+7:08:46 AM - [34mdebug[39m: loadFilesContents
+7:08:46 AM - [34mdebug[39m: loadFilesContents
+7:08:46 AM - [34mdebug[39m: loadFilesContents
+7:08:46 AM - [34mdebug[39m: loadFilesContents
+7:08:46 AM - [34mdebug[39m: loadFilesContents
+7:08:46 AM - [34mdebug[39m: loadFilesContents
+7:08:46 AM - [34mdebug[39m: loadFilesContents
+7:08:46 AM - [34mdebug[39m: loadFileContents
+7:08:46 AM - [34mdebug[39m: fromDirectory
+7:08:46 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+7:08:46 AM - [34mdebug[39m: loadFilesContents
+7:08:46 AM - [34mdebug[39m: loadFilesContents
+7:08:46 AM - [34mdebug[39m: loadFilesContents
+7:08:46 AM - [34mdebug[39m: loadFilesContents
+7:08:46 AM - [34mdebug[39m: loadFilesContents
+7:08:46 AM - [34mdebug[39m: loadFilesContents
+7:08:46 AM - [34mdebug[39m: loadFileContents
+7:08:46 AM - [34mdebug[39m: loadFileContents
+7:08:46 AM - [34mdebug[39m: loadFileContents
+7:08:46 AM - [34mdebug[39m: loadFileContents
+7:08:46 AM - [34mdebug[39m: loadFileContents
+7:08:46 AM - [34mdebug[39m: loadFilesContents
+7:08:47 AM - [34mdebug[39m: fromDirectory
+7:08:47 AM - [34mdebug[39m: loadFileContents
+7:08:47 AM - [34mdebug[39m: fromDirectory
+7:08:47 AM - [34mdebug[39m: fromDirectory
+7:08:47 AM - [34mdebug[39m: loadFilesContents
+7:08:47 AM - [34mdebug[39m: loadFilesContents
+7:08:47 AM - [34mdebug[39m: loadFilesContents
+7:08:47 AM - [34mdebug[39m: loadFilesContents
+7:08:47 AM - [34mdebug[39m: loadFilesContents
+7:08:47 AM - [34mdebug[39m: loadFilesContents
+7:08:47 AM - [34mdebug[39m: loadFileContents
+7:08:47 AM - [34mdebug[39m: loadFilesContents
+7:08:48 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"d10716e4-455d-49f3-a9cd-7a8293509bec"}
+7:08:48 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+7:08:48 AM - [34mdebug[39m: loadFileContents
+7:08:48 AM - [34mdebug[39m: loadFileBuffer
+7:08:48 AM - [34mdebug[39m: loadFileContents
+7:08:48 AM - [34mdebug[39m: loadFileContents
+7:08:48 AM - [34mdebug[39m: fromDirectory
+7:08:48 AM - [34mdebug[39m: loadFilesContents
+7:08:48 AM - [34mdebug[39m: loadFilesContents
+7:08:48 AM - [34mdebug[39m: loadFilesContents
+7:08:48 AM - [34mdebug[39m: loadFilesContents
+7:08:48 AM - [34mdebug[39m: loadFilesContents
+7:08:48 AM - [34mdebug[39m: loadFilesContents
+7:08:48 AM - [34mdebug[39m: loadFilesContents
+7:08:48 AM - [34mdebug[39m: loadFileContents
+7:08:48 AM - [34mdebug[39m: fromDirectory
+7:08:48 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+7:08:48 AM - [34mdebug[39m: loadFilesContents
+7:08:48 AM - [34mdebug[39m: loadFilesContents
+7:08:48 AM - [34mdebug[39m: loadFilesContents
+7:08:48 AM - [34mdebug[39m: loadFilesContents
+7:08:48 AM - [34mdebug[39m: loadFilesContents
+7:08:48 AM - [34mdebug[39m: loadFilesContents
+7:08:48 AM - [34mdebug[39m: loadFileContents
+7:08:48 AM - [34mdebug[39m: loadFileContents
+7:08:48 AM - [34mdebug[39m: loadFileContents
+7:08:48 AM - [34mdebug[39m: loadFileContents
+7:08:48 AM - [34mdebug[39m: loadFileContents
+7:08:48 AM - [34mdebug[39m: loadFilesContents
+7:08:49 AM - [34mdebug[39m: fromDirectory
+7:08:49 AM - [34mdebug[39m: loadFileContents
+7:08:49 AM - [34mdebug[39m: fromDirectory
+7:08:49 AM - [34mdebug[39m: fromDirectory
+7:08:49 AM - [34mdebug[39m: loadFilesContents
+7:08:49 AM - [34mdebug[39m: loadFilesContents
+7:08:49 AM - [34mdebug[39m: loadFilesContents
+7:08:49 AM - [34mdebug[39m: loadFilesContents
+7:08:49 AM - [34mdebug[39m: loadFilesContents
+7:08:49 AM - [34mdebug[39m: loadFilesContents
+7:08:49 AM - [34mdebug[39m: loadFileContents
+7:08:49 AM - [34mdebug[39m: loadFilesContents
+7:08:50 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"b436b83d-15d7-45dd-9db0-f427a95e03e7"}
+7:08:50 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+7:10:10 AM - [34mdebug[39m: loadFileContents
+7:10:10 AM - [34mdebug[39m: loadFileBuffer
+7:10:10 AM - [34mdebug[39m: loadFileContents
+7:10:10 AM - [34mdebug[39m: loadFileContents
+7:10:10 AM - [34mdebug[39m: fromDirectory
+7:10:10 AM - [34mdebug[39m: loadFilesContents
+7:10:10 AM - [34mdebug[39m: loadFilesContents
+7:10:10 AM - [34mdebug[39m: loadFilesContents
+7:10:10 AM - [34mdebug[39m: loadFilesContents
+7:10:10 AM - [34mdebug[39m: loadFilesContents
+7:10:10 AM - [34mdebug[39m: loadFilesContents
+7:10:10 AM - [34mdebug[39m: loadFilesContents
+7:10:10 AM - [34mdebug[39m: loadFileContents
+7:10:10 AM - [34mdebug[39m: fromDirectory
+7:10:10 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+7:10:10 AM - [34mdebug[39m: loadFilesContents
+7:10:10 AM - [34mdebug[39m: loadFilesContents
+7:10:10 AM - [34mdebug[39m: loadFilesContents
+7:10:10 AM - [34mdebug[39m: loadFilesContents
+7:10:10 AM - [34mdebug[39m: loadFilesContents
+7:10:10 AM - [34mdebug[39m: loadFilesContents
+7:10:10 AM - [34mdebug[39m: loadFileContents
+7:10:10 AM - [34mdebug[39m: loadFileContents
+7:10:10 AM - [34mdebug[39m: loadFileContents
+7:10:10 AM - [34mdebug[39m: loadFileContents
+7:10:10 AM - [34mdebug[39m: loadFileContents
+7:10:10 AM - [34mdebug[39m: loadFilesContents
+7:10:12 AM - [34mdebug[39m: fromDirectory
+7:10:12 AM - [34mdebug[39m: loadFileContents
+7:10:12 AM - [34mdebug[39m: fromDirectory
+7:10:12 AM - [34mdebug[39m: fromDirectory
+7:10:12 AM - [34mdebug[39m: loadFilesContents
+7:10:12 AM - [34mdebug[39m: loadFilesContents
+7:10:12 AM - [34mdebug[39m: loadFilesContents
+7:10:12 AM - [34mdebug[39m: loadFilesContents
+7:10:12 AM - [34mdebug[39m: loadFilesContents
+7:10:12 AM - [34mdebug[39m: loadFilesContents
+7:10:12 AM - [34mdebug[39m: loadFileContents
+7:10:12 AM - [34mdebug[39m: loadFilesContents
+7:10:13 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"df4e898f-fcbb-4bf0-9293-b16ccb661855"}
+7:10:13 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+7:10:13 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"itemName":"The Da Vinci Code","exceptionCase":false,"penaltyDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"penaltyFee":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"02381fe8-9180-4f09-8021-a7e4419f808d"}
+7:10:13 AM - [34mdebug[39m: loadFileContents
+7:10:13 AM - [34mdebug[39m: loadFileBuffer
+7:10:13 AM - [34mdebug[39m: loadFileContents
+7:10:13 AM - [34mdebug[39m: loadFileContents
+7:10:13 AM - [34mdebug[39m: fromDirectory
+7:10:13 AM - [34mdebug[39m: loadFilesContents
+7:10:13 AM - [34mdebug[39m: loadFilesContents
+7:10:13 AM - [34mdebug[39m: loadFilesContents
+7:10:13 AM - [34mdebug[39m: loadFilesContents
+7:10:13 AM - [34mdebug[39m: loadFilesContents
+7:10:13 AM - [34mdebug[39m: loadFilesContents
+7:10:13 AM - [34mdebug[39m: loadFilesContents
+7:10:13 AM - [34mdebug[39m: loadFileContents
+7:10:13 AM - [34mdebug[39m: fromDirectory
+7:10:13 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+7:10:13 AM - [34mdebug[39m: loadFilesContents
+7:10:13 AM - [34mdebug[39m: loadFilesContents
+7:10:13 AM - [34mdebug[39m: loadFilesContents
+7:10:13 AM - [34mdebug[39m: loadFilesContents
+7:10:13 AM - [34mdebug[39m: loadFilesContents
+7:10:13 AM - [34mdebug[39m: loadFilesContents
+7:10:13 AM - [34mdebug[39m: loadFileContents
+7:10:13 AM - [34mdebug[39m: loadFileContents
+7:10:13 AM - [34mdebug[39m: loadFileContents
+7:10:13 AM - [34mdebug[39m: loadFileContents
+7:10:13 AM - [34mdebug[39m: loadFileContents
+7:10:13 AM - [34mdebug[39m: loadFilesContents
+7:10:14 AM - [34mdebug[39m: fromDirectory
+7:10:14 AM - [34mdebug[39m: loadFileContents
+7:10:14 AM - [34mdebug[39m: fromDirectory
+7:10:14 AM - [34mdebug[39m: fromDirectory
+7:10:14 AM - [34mdebug[39m: loadFilesContents
+7:10:14 AM - [34mdebug[39m: loadFilesContents
+7:10:14 AM - [34mdebug[39m: loadFilesContents
+7:10:14 AM - [34mdebug[39m: loadFilesContents
+7:10:14 AM - [34mdebug[39m: loadFilesContents
+7:10:14 AM - [34mdebug[39m: loadFilesContents
+7:10:14 AM - [34mdebug[39m: loadFileContents
+7:10:14 AM - [34mdebug[39m: loadFilesContents
+7:10:14 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"e32de76f-8b52-4646-8974-f0e87d33cc38"}
+7:10:14 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+7:12:28 AM - [34mdebug[39m: loadFileContents
+7:12:28 AM - [34mdebug[39m: loadFileBuffer
+7:12:28 AM - [34mdebug[39m: loadFileContents
+7:12:28 AM - [34mdebug[39m: loadFileContents
+7:12:28 AM - [34mdebug[39m: fromDirectory
+7:12:28 AM - [34mdebug[39m: loadFilesContents
+7:12:28 AM - [34mdebug[39m: loadFilesContents
+7:12:28 AM - [34mdebug[39m: loadFilesContents
+7:12:28 AM - [34mdebug[39m: loadFilesContents
+7:12:28 AM - [34mdebug[39m: loadFilesContents
+7:12:28 AM - [34mdebug[39m: loadFilesContents
+7:12:28 AM - [34mdebug[39m: loadFilesContents
+7:12:28 AM - [34mdebug[39m: loadFileContents
+7:12:28 AM - [34mdebug[39m: fromDirectory
+7:12:28 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+7:12:28 AM - [34mdebug[39m: loadFilesContents
+7:12:28 AM - [34mdebug[39m: loadFilesContents
+7:12:28 AM - [34mdebug[39m: loadFilesContents
+7:12:28 AM - [34mdebug[39m: loadFilesContents
+7:12:28 AM - [34mdebug[39m: loadFilesContents
+7:12:28 AM - [34mdebug[39m: loadFilesContents
+7:12:28 AM - [34mdebug[39m: loadFileContents
+7:12:28 AM - [34mdebug[39m: loadFileContents
+7:12:28 AM - [34mdebug[39m: loadFileContents
+7:12:28 AM - [34mdebug[39m: loadFileContents
+7:12:28 AM - [34mdebug[39m: loadFileContents
+7:12:28 AM - [34mdebug[39m: loadFilesContents
+7:12:29 AM - [34mdebug[39m: fromDirectory
+7:12:29 AM - [34mdebug[39m: loadFileContents
+7:12:29 AM - [34mdebug[39m: fromDirectory
+7:12:29 AM - [34mdebug[39m: fromDirectory
+7:12:29 AM - [34mdebug[39m: loadFilesContents
+7:12:29 AM - [34mdebug[39m: loadFilesContents
+7:12:29 AM - [34mdebug[39m: loadFilesContents
+7:12:29 AM - [34mdebug[39m: loadFilesContents
+7:12:29 AM - [34mdebug[39m: loadFilesContents
+7:12:29 AM - [34mdebug[39m: loadFilesContents
+7:12:29 AM - [34mdebug[39m: loadFileContents
+7:12:29 AM - [34mdebug[39m: loadFilesContents
+7:12:30 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"cb1bff69-996b-465f-9987-fe306217bd36"}
+7:12:30 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+7:12:30 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"itemName":"The Da Vinci Code","exceptionCase":false,"penaltyDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"penaltyFee":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"02381fe8-9180-4f09-8021-a7e4419f808d"}
+7:12:30 AM - [34mdebug[39m: loadFileContents
+7:12:30 AM - [34mdebug[39m: loadFileBuffer
+7:12:30 AM - [34mdebug[39m: loadFileContents
+7:12:30 AM - [34mdebug[39m: loadFileContents
+7:12:30 AM - [34mdebug[39m: fromDirectory
+7:12:30 AM - [34mdebug[39m: loadFilesContents
+7:12:30 AM - [34mdebug[39m: loadFilesContents
+7:12:30 AM - [34mdebug[39m: loadFilesContents
+7:12:30 AM - [34mdebug[39m: loadFilesContents
+7:12:30 AM - [34mdebug[39m: loadFilesContents
+7:12:30 AM - [34mdebug[39m: loadFilesContents
+7:12:30 AM - [34mdebug[39m: loadFilesContents
+7:12:30 AM - [34mdebug[39m: loadFileContents
+7:12:30 AM - [34mdebug[39m: fromDirectory
+7:12:30 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+7:12:30 AM - [34mdebug[39m: loadFilesContents
+7:12:30 AM - [34mdebug[39m: loadFilesContents
+7:12:30 AM - [34mdebug[39m: loadFilesContents
+7:12:30 AM - [34mdebug[39m: loadFilesContents
+7:12:30 AM - [34mdebug[39m: loadFilesContents
+7:12:30 AM - [34mdebug[39m: loadFilesContents
+7:12:30 AM - [34mdebug[39m: loadFileContents
+7:12:30 AM - [34mdebug[39m: loadFileContents
+7:12:30 AM - [34mdebug[39m: loadFileContents
+7:12:30 AM - [34mdebug[39m: loadFileContents
+7:12:30 AM - [34mdebug[39m: loadFileContents
+7:12:30 AM - [34mdebug[39m: loadFilesContents
+7:12:32 AM - [34mdebug[39m: fromDirectory
+7:12:32 AM - [34mdebug[39m: loadFileContents
+7:12:32 AM - [34mdebug[39m: fromDirectory
+7:12:32 AM - [34mdebug[39m: fromDirectory
+7:12:32 AM - [34mdebug[39m: loadFilesContents
+7:12:32 AM - [34mdebug[39m: loadFilesContents
+7:12:32 AM - [34mdebug[39m: loadFilesContents
+7:12:32 AM - [34mdebug[39m: loadFilesContents
+7:12:32 AM - [34mdebug[39m: loadFilesContents
+7:12:32 AM - [34mdebug[39m: loadFilesContents
+7:12:32 AM - [34mdebug[39m: loadFileContents
+7:12:32 AM - [34mdebug[39m: loadFilesContents
+7:12:33 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"f5621c92-eedd-4b76-b2bf-7080a651f614"}
+7:12:33 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+7:14:49 AM - [34mdebug[39m: loadFileContents
+7:14:49 AM - [34mdebug[39m: loadFileBuffer
+7:14:49 AM - [34mdebug[39m: loadFileContents
+7:14:49 AM - [34mdebug[39m: loadFileContents
+7:14:49 AM - [34mdebug[39m: fromDirectory
+7:14:49 AM - [34mdebug[39m: loadFilesContents
+7:14:49 AM - [34mdebug[39m: loadFilesContents
+7:14:49 AM - [34mdebug[39m: loadFilesContents
+7:14:49 AM - [34mdebug[39m: loadFilesContents
+7:14:49 AM - [34mdebug[39m: loadFilesContents
+7:14:49 AM - [34mdebug[39m: loadFilesContents
+7:14:49 AM - [34mdebug[39m: loadFilesContents
+7:14:49 AM - [34mdebug[39m: loadFileContents
+7:14:49 AM - [34mdebug[39m: fromDirectory
+7:14:49 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+7:14:49 AM - [34mdebug[39m: loadFilesContents
+7:14:49 AM - [34mdebug[39m: loadFilesContents
+7:14:49 AM - [34mdebug[39m: loadFilesContents
+7:14:49 AM - [34mdebug[39m: loadFilesContents
+7:14:49 AM - [34mdebug[39m: loadFilesContents
+7:14:49 AM - [34mdebug[39m: loadFilesContents
+7:14:49 AM - [34mdebug[39m: loadFileContents
+7:14:49 AM - [34mdebug[39m: loadFileContents
+7:14:49 AM - [34mdebug[39m: loadFileContents
+7:14:49 AM - [34mdebug[39m: loadFileContents
+7:14:49 AM - [34mdebug[39m: loadFileContents
+7:14:49 AM - [34mdebug[39m: loadFilesContents
+7:14:50 AM - [34mdebug[39m: fromDirectory
+7:14:50 AM - [34mdebug[39m: loadFileContents
+7:14:50 AM - [34mdebug[39m: fromDirectory
+7:14:50 AM - [34mdebug[39m: fromDirectory
+7:14:50 AM - [34mdebug[39m: loadFilesContents
+7:14:50 AM - [34mdebug[39m: loadFilesContents
+7:14:50 AM - [34mdebug[39m: loadFilesContents
+7:14:50 AM - [34mdebug[39m: loadFilesContents
+7:14:50 AM - [34mdebug[39m: loadFilesContents
+7:14:50 AM - [34mdebug[39m: loadFilesContents
+7:14:50 AM - [34mdebug[39m: loadFileContents
+7:14:50 AM - [34mdebug[39m: loadFilesContents
+7:14:51 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"36b7763c-2d3c-4792-9d37-837611ab07e2"}
+7:14:51 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+7:14:51 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"itemName":"The Da Vinci Code","exceptionCase":false,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"02381fe8-9180-4f09-8021-a7e4419f808d"}
+7:14:51 AM - [34mdebug[39m: loadFileContents
+7:14:51 AM - [34mdebug[39m: loadFileBuffer
+7:14:51 AM - [34mdebug[39m: loadFileContents
+7:14:51 AM - [34mdebug[39m: loadFileContents
+7:14:51 AM - [34mdebug[39m: fromDirectory
+7:14:51 AM - [34mdebug[39m: loadFilesContents
+7:14:51 AM - [34mdebug[39m: loadFilesContents
+7:14:51 AM - [34mdebug[39m: loadFilesContents
+7:14:51 AM - [34mdebug[39m: loadFilesContents
+7:14:51 AM - [34mdebug[39m: loadFilesContents
+7:14:51 AM - [34mdebug[39m: loadFilesContents
+7:14:51 AM - [34mdebug[39m: loadFilesContents
+7:14:51 AM - [34mdebug[39m: loadFileContents
+7:14:51 AM - [34mdebug[39m: fromDirectory
+7:14:51 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+7:14:51 AM - [34mdebug[39m: loadFilesContents
+7:14:51 AM - [34mdebug[39m: loadFilesContents
+7:14:51 AM - [34mdebug[39m: loadFilesContents
+7:14:51 AM - [34mdebug[39m: loadFilesContents
+7:14:51 AM - [34mdebug[39m: loadFilesContents
+7:14:51 AM - [34mdebug[39m: loadFilesContents
+7:14:51 AM - [34mdebug[39m: loadFileContents
+7:14:51 AM - [34mdebug[39m: loadFileContents
+7:14:51 AM - [34mdebug[39m: loadFileContents
+7:14:51 AM - [34mdebug[39m: loadFileContents
+7:14:51 AM - [34mdebug[39m: loadFileContents
+7:14:51 AM - [34mdebug[39m: loadFilesContents
+7:14:52 AM - [34mdebug[39m: fromDirectory
+7:14:52 AM - [34mdebug[39m: loadFileContents
+7:14:52 AM - [34mdebug[39m: fromDirectory
+7:14:52 AM - [34mdebug[39m: fromDirectory
+7:14:52 AM - [34mdebug[39m: loadFilesContents
+7:14:52 AM - [34mdebug[39m: loadFilesContents
+7:14:52 AM - [34mdebug[39m: loadFilesContents
+7:14:52 AM - [34mdebug[39m: loadFilesContents
+7:14:52 AM - [34mdebug[39m: loadFilesContents
+7:14:52 AM - [34mdebug[39m: loadFilesContents
+7:14:52 AM - [34mdebug[39m: loadFileContents
+7:14:52 AM - [34mdebug[39m: loadFilesContents
+7:14:53 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"75c4391a-60be-41ff-8c5a-420f0b83f2d3"}
+7:14:53 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+7:16:51 AM - [34mdebug[39m: loadFileContents
+7:16:51 AM - [34mdebug[39m: loadFileBuffer
+7:16:51 AM - [34mdebug[39m: loadFileContents
+7:16:51 AM - [34mdebug[39m: loadFileContents
+7:16:51 AM - [34mdebug[39m: fromDirectory
+7:16:51 AM - [34mdebug[39m: loadFilesContents
+7:16:51 AM - [34mdebug[39m: loadFilesContents
+7:16:51 AM - [34mdebug[39m: loadFilesContents
+7:16:51 AM - [34mdebug[39m: loadFilesContents
+7:16:51 AM - [34mdebug[39m: loadFilesContents
+7:16:51 AM - [34mdebug[39m: loadFilesContents
+7:16:51 AM - [34mdebug[39m: loadFilesContents
+7:16:51 AM - [34mdebug[39m: loadFileContents
+7:16:51 AM - [34mdebug[39m: fromDirectory
+7:16:51 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+7:16:51 AM - [34mdebug[39m: loadFilesContents
+7:16:51 AM - [34mdebug[39m: loadFilesContents
+7:16:51 AM - [34mdebug[39m: loadFilesContents
+7:16:51 AM - [34mdebug[39m: loadFilesContents
+7:16:51 AM - [34mdebug[39m: loadFilesContents
+7:16:51 AM - [34mdebug[39m: loadFilesContents
+7:16:51 AM - [34mdebug[39m: loadFileContents
+7:16:51 AM - [34mdebug[39m: loadFileContents
+7:16:51 AM - [34mdebug[39m: loadFileContents
+7:16:51 AM - [34mdebug[39m: loadFileContents
+7:16:51 AM - [34mdebug[39m: loadFileContents
+7:16:51 AM - [34mdebug[39m: loadFilesContents
+7:16:52 AM - [34mdebug[39m: fromDirectory
+7:16:52 AM - [34mdebug[39m: loadFileContents
+7:16:52 AM - [34mdebug[39m: fromDirectory
+7:16:52 AM - [34mdebug[39m: fromDirectory
+7:16:52 AM - [34mdebug[39m: loadFilesContents
+7:16:52 AM - [34mdebug[39m: loadFilesContents
+7:16:52 AM - [34mdebug[39m: loadFilesContents
+7:16:52 AM - [34mdebug[39m: loadFilesContents
+7:16:52 AM - [34mdebug[39m: loadFilesContents
+7:16:52 AM - [34mdebug[39m: loadFilesContents
+7:16:52 AM - [34mdebug[39m: loadFileContents
+7:16:52 AM - [34mdebug[39m: loadFilesContents
+7:16:53 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"b3f4bfef-461f-4b5d-94a7-7c2638a55f9f"}
+7:16:53 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+7:16:53 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"itemName":"The Da Vinci Code","exceptionCase":false,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"02381fe8-9180-4f09-8021-a7e4419f808d"}
+7:16:53 AM - [34mdebug[39m: loadFileContents
+7:16:53 AM - [34mdebug[39m: loadFileBuffer
+7:16:53 AM - [34mdebug[39m: loadFileContents
+7:16:53 AM - [34mdebug[39m: loadFileContents
+7:16:53 AM - [34mdebug[39m: fromDirectory
+7:16:53 AM - [34mdebug[39m: loadFilesContents
+7:16:53 AM - [34mdebug[39m: loadFilesContents
+7:16:53 AM - [34mdebug[39m: loadFilesContents
+7:16:53 AM - [34mdebug[39m: loadFilesContents
+7:16:53 AM - [34mdebug[39m: loadFilesContents
+7:16:53 AM - [34mdebug[39m: loadFilesContents
+7:16:53 AM - [34mdebug[39m: loadFilesContents
+7:16:53 AM - [34mdebug[39m: loadFileContents
+7:16:53 AM - [34mdebug[39m: fromDirectory
+7:16:53 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+7:16:53 AM - [34mdebug[39m: loadFilesContents
+7:16:53 AM - [34mdebug[39m: loadFilesContents
+7:16:53 AM - [34mdebug[39m: loadFilesContents
+7:16:53 AM - [34mdebug[39m: loadFilesContents
+7:16:53 AM - [34mdebug[39m: loadFilesContents
+7:16:53 AM - [34mdebug[39m: loadFilesContents
+7:16:53 AM - [34mdebug[39m: loadFileContents
+7:16:53 AM - [34mdebug[39m: loadFileContents
+7:16:53 AM - [34mdebug[39m: loadFileContents
+7:16:53 AM - [34mdebug[39m: loadFileContents
+7:16:53 AM - [34mdebug[39m: loadFileContents
+7:16:53 AM - [34mdebug[39m: loadFilesContents
+7:16:54 AM - [34mdebug[39m: fromDirectory
+7:16:54 AM - [34mdebug[39m: loadFileContents
+7:16:54 AM - [34mdebug[39m: fromDirectory
+7:16:54 AM - [34mdebug[39m: fromDirectory
+7:16:54 AM - [34mdebug[39m: loadFilesContents
+7:16:54 AM - [34mdebug[39m: loadFilesContents
+7:16:54 AM - [34mdebug[39m: loadFilesContents
+7:16:54 AM - [34mdebug[39m: loadFilesContents
+7:16:54 AM - [34mdebug[39m: loadFilesContents
+7:16:54 AM - [34mdebug[39m: loadFilesContents
+7:16:54 AM - [34mdebug[39m: loadFileContents
+7:16:54 AM - [34mdebug[39m: loadFilesContents
+7:16:55 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"98212773-1f1c-4d9d-96a0-43f5b543d99c"}
+7:16:55 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+7:19:54 AM - [34mdebug[39m: loadFileContents
+7:19:54 AM - [34mdebug[39m: loadFileBuffer
+7:19:54 AM - [34mdebug[39m: loadFileContents
+7:19:54 AM - [34mdebug[39m: loadFileContents
+7:19:54 AM - [34mdebug[39m: fromDirectory
+7:19:54 AM - [34mdebug[39m: loadFilesContents
+7:19:54 AM - [34mdebug[39m: loadFilesContents
+7:19:54 AM - [34mdebug[39m: loadFilesContents
+7:19:54 AM - [34mdebug[39m: loadFilesContents
+7:19:54 AM - [34mdebug[39m: loadFilesContents
+7:19:54 AM - [34mdebug[39m: loadFilesContents
+7:19:54 AM - [34mdebug[39m: loadFilesContents
+7:19:54 AM - [34mdebug[39m: loadFileContents
+7:19:54 AM - [34mdebug[39m: fromDirectory
+7:19:54 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+7:19:54 AM - [34mdebug[39m: loadFilesContents
+7:19:55 AM - [34mdebug[39m: loadFilesContents
+7:19:55 AM - [34mdebug[39m: loadFilesContents
+7:19:55 AM - [34mdebug[39m: loadFilesContents
+7:19:55 AM - [34mdebug[39m: loadFilesContents
+7:19:55 AM - [34mdebug[39m: loadFilesContents
+7:19:55 AM - [34mdebug[39m: loadFileContents
+7:19:55 AM - [34mdebug[39m: loadFileContents
+7:19:55 AM - [34mdebug[39m: loadFileContents
+7:19:55 AM - [34mdebug[39m: loadFileContents
+7:19:55 AM - [34mdebug[39m: loadFileContents
+7:19:55 AM - [34mdebug[39m: loadFilesContents
+7:19:56 AM - [34mdebug[39m: fromDirectory
+7:19:56 AM - [34mdebug[39m: loadFileContents
+7:19:56 AM - [34mdebug[39m: fromDirectory
+7:19:56 AM - [34mdebug[39m: fromDirectory
+7:19:56 AM - [34mdebug[39m: loadFilesContents
+7:19:56 AM - [34mdebug[39m: loadFilesContents
+7:19:56 AM - [34mdebug[39m: loadFilesContents
+7:19:56 AM - [34mdebug[39m: loadFilesContents
+7:19:56 AM - [34mdebug[39m: loadFilesContents
+7:19:56 AM - [34mdebug[39m: loadFilesContents
+7:19:56 AM - [34mdebug[39m: loadFileContents
+7:19:56 AM - [34mdebug[39m: loadFilesContents
+7:19:57 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"71e0f07c-5796-402a-b5db-ab4eccd47748"}
+7:19:57 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+7:19:57 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","exceptionCase":false,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"02381fe8-9180-4f09-8021-a7e4419f808d"}
+7:19:57 AM - [34mdebug[39m: loadFileContents
+7:19:57 AM - [34mdebug[39m: loadFileBuffer
+7:19:57 AM - [34mdebug[39m: loadFileContents
+7:19:57 AM - [34mdebug[39m: loadFileContents
+7:19:57 AM - [34mdebug[39m: fromDirectory
+7:19:57 AM - [34mdebug[39m: loadFilesContents
+7:19:57 AM - [34mdebug[39m: loadFilesContents
+7:19:57 AM - [34mdebug[39m: loadFilesContents
+7:19:57 AM - [34mdebug[39m: loadFilesContents
+7:19:57 AM - [34mdebug[39m: loadFilesContents
+7:19:57 AM - [34mdebug[39m: loadFilesContents
+7:19:57 AM - [34mdebug[39m: loadFilesContents
+7:19:57 AM - [34mdebug[39m: loadFileContents
+7:19:57 AM - [34mdebug[39m: fromDirectory
+7:19:57 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+7:19:57 AM - [34mdebug[39m: loadFilesContents
+7:19:57 AM - [34mdebug[39m: loadFilesContents
+7:19:57 AM - [34mdebug[39m: loadFilesContents
+7:19:57 AM - [34mdebug[39m: loadFilesContents
+7:19:57 AM - [34mdebug[39m: loadFilesContents
+7:19:57 AM - [34mdebug[39m: loadFilesContents
+7:19:57 AM - [34mdebug[39m: loadFileContents
+7:19:57 AM - [34mdebug[39m: loadFileContents
+7:19:57 AM - [34mdebug[39m: loadFileContents
+7:19:57 AM - [34mdebug[39m: loadFileContents
+7:19:57 AM - [34mdebug[39m: loadFileContents
+7:19:57 AM - [34mdebug[39m: loadFilesContents
+7:19:58 AM - [34mdebug[39m: fromDirectory
+7:19:58 AM - [34mdebug[39m: loadFileContents
+7:19:58 AM - [34mdebug[39m: fromDirectory
+7:19:58 AM - [34mdebug[39m: fromDirectory
+7:19:58 AM - [34mdebug[39m: loadFilesContents
+7:19:58 AM - [34mdebug[39m: loadFilesContents
+7:19:58 AM - [34mdebug[39m: loadFilesContents
+7:19:58 AM - [34mdebug[39m: loadFilesContents
+7:19:58 AM - [34mdebug[39m: loadFilesContents
+7:19:58 AM - [34mdebug[39m: loadFilesContents
+7:19:58 AM - [34mdebug[39m: loadFileContents
+7:19:58 AM - [34mdebug[39m: loadFilesContents
+7:19:58 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"4ec9655c-7a46-4bb0-b4f7-03791c03edaf"}
+7:19:58 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+7:20:48 AM - [34mdebug[39m: loadFileContents
+7:20:48 AM - [34mdebug[39m: loadFileBuffer
+7:20:48 AM - [34mdebug[39m: loadFileContents
+7:20:48 AM - [34mdebug[39m: loadFileContents
+7:20:48 AM - [34mdebug[39m: fromDirectory
+7:20:48 AM - [34mdebug[39m: loadFilesContents
+7:20:48 AM - [34mdebug[39m: loadFilesContents
+7:20:48 AM - [34mdebug[39m: loadFilesContents
+7:20:48 AM - [34mdebug[39m: loadFilesContents
+7:20:48 AM - [34mdebug[39m: loadFilesContents
+7:20:48 AM - [34mdebug[39m: loadFilesContents
+7:20:48 AM - [34mdebug[39m: loadFilesContents
+7:20:48 AM - [34mdebug[39m: loadFileContents
+7:20:48 AM - [34mdebug[39m: fromDirectory
+7:20:48 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+7:20:48 AM - [34mdebug[39m: loadFilesContents
+7:20:48 AM - [34mdebug[39m: loadFilesContents
+7:20:48 AM - [34mdebug[39m: loadFilesContents
+7:20:48 AM - [34mdebug[39m: loadFilesContents
+7:20:48 AM - [34mdebug[39m: loadFilesContents
+7:20:48 AM - [34mdebug[39m: loadFilesContents
+7:20:48 AM - [34mdebug[39m: loadFileContents
+7:20:48 AM - [34mdebug[39m: loadFileContents
+7:20:48 AM - [34mdebug[39m: loadFileContents
+7:20:48 AM - [34mdebug[39m: loadFileContents
+7:20:48 AM - [34mdebug[39m: loadFileContents
+7:20:48 AM - [34mdebug[39m: loadFilesContents
+7:20:50 AM - [34mdebug[39m: fromDirectory
+7:20:50 AM - [34mdebug[39m: loadFileContents
+7:20:50 AM - [34mdebug[39m: fromDirectory
+7:20:50 AM - [34mdebug[39m: fromDirectory
+7:20:50 AM - [34mdebug[39m: loadFilesContents
+7:20:50 AM - [34mdebug[39m: loadFilesContents
+7:20:50 AM - [34mdebug[39m: loadFilesContents
+7:20:50 AM - [34mdebug[39m: loadFilesContents
+7:20:50 AM - [34mdebug[39m: loadFilesContents
+7:20:50 AM - [34mdebug[39m: loadFilesContents
+7:20:50 AM - [34mdebug[39m: loadFileContents
+7:20:50 AM - [34mdebug[39m: loadFilesContents
+7:20:51 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"f63670ea-8f28-49c0-b2ea-4dca123535ab"}
+7:20:51 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+7:20:51 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","itemGrade":"VG+","exceptionCase":false,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"02381fe8-9180-4f09-8021-a7e4419f808d"}
+7:20:51 AM - [34mdebug[39m: loadFileContents
+7:20:51 AM - [34mdebug[39m: loadFileBuffer
+7:20:51 AM - [34mdebug[39m: loadFileContents
+7:20:51 AM - [34mdebug[39m: loadFileContents
+7:20:51 AM - [34mdebug[39m: fromDirectory
+7:20:51 AM - [34mdebug[39m: loadFilesContents
+7:20:51 AM - [34mdebug[39m: loadFilesContents
+7:20:51 AM - [34mdebug[39m: loadFilesContents
+7:20:51 AM - [34mdebug[39m: loadFilesContents
+7:20:51 AM - [34mdebug[39m: loadFilesContents
+7:20:51 AM - [34mdebug[39m: loadFilesContents
+7:20:51 AM - [34mdebug[39m: loadFilesContents
+7:20:51 AM - [34mdebug[39m: loadFileContents
+7:20:51 AM - [34mdebug[39m: fromDirectory
+7:20:51 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+7:20:51 AM - [34mdebug[39m: loadFilesContents
+7:20:51 AM - [34mdebug[39m: loadFilesContents
+7:20:51 AM - [34mdebug[39m: loadFilesContents
+7:20:51 AM - [34mdebug[39m: loadFilesContents
+7:20:51 AM - [34mdebug[39m: loadFilesContents
+7:20:51 AM - [34mdebug[39m: loadFilesContents
+7:20:51 AM - [34mdebug[39m: loadFileContents
+7:20:51 AM - [34mdebug[39m: loadFileContents
+7:20:51 AM - [34mdebug[39m: loadFileContents
+7:20:51 AM - [34mdebug[39m: loadFileContents
+7:20:51 AM - [34mdebug[39m: loadFileContents
+7:20:51 AM - [34mdebug[39m: loadFilesContents
+7:20:51 AM - [34mdebug[39m: fromDirectory
+7:20:51 AM - [34mdebug[39m: loadFileContents
+7:20:52 AM - [34mdebug[39m: fromDirectory
+7:20:52 AM - [34mdebug[39m: fromDirectory
+7:20:52 AM - [34mdebug[39m: loadFilesContents
+7:20:52 AM - [34mdebug[39m: loadFilesContents
+7:20:52 AM - [34mdebug[39m: loadFilesContents
+7:20:52 AM - [34mdebug[39m: loadFilesContents
+7:20:52 AM - [34mdebug[39m: loadFilesContents
+7:20:52 AM - [34mdebug[39m: loadFilesContents
+7:20:52 AM - [34mdebug[39m: loadFileContents
+7:20:52 AM - [34mdebug[39m: loadFilesContents
+7:20:52 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"50c9f429-29b9-4969-b155-83aa3cc7478b"}
+7:20:52 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+7:21:06 AM - [34mdebug[39m: loadFileContents
+7:21:06 AM - [34mdebug[39m: loadFileBuffer
+7:21:06 AM - [34mdebug[39m: loadFileContents
+7:21:06 AM - [34mdebug[39m: loadFileContents
+7:21:06 AM - [34mdebug[39m: fromDirectory
+7:21:06 AM - [34mdebug[39m: loadFilesContents
+7:21:06 AM - [34mdebug[39m: loadFilesContents
+7:21:06 AM - [34mdebug[39m: loadFilesContents
+7:21:06 AM - [34mdebug[39m: loadFilesContents
+7:21:06 AM - [34mdebug[39m: loadFilesContents
+7:21:06 AM - [34mdebug[39m: loadFilesContents
+7:21:06 AM - [34mdebug[39m: loadFilesContents
+7:21:06 AM - [34mdebug[39m: loadFileContents
+7:21:06 AM - [34mdebug[39m: fromDirectory
+7:21:06 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+7:21:06 AM - [34mdebug[39m: loadFilesContents
+7:21:06 AM - [34mdebug[39m: loadFilesContents
+7:21:06 AM - [34mdebug[39m: loadFilesContents
+7:21:06 AM - [34mdebug[39m: loadFilesContents
+7:21:06 AM - [34mdebug[39m: loadFilesContents
+7:21:06 AM - [34mdebug[39m: loadFilesContents
+7:21:06 AM - [34mdebug[39m: loadFileContents
+7:21:06 AM - [34mdebug[39m: loadFileContents
+7:21:06 AM - [34mdebug[39m: loadFileContents
+7:21:06 AM - [34mdebug[39m: loadFileContents
+7:21:06 AM - [34mdebug[39m: loadFileContents
+7:21:06 AM - [34mdebug[39m: loadFilesContents
+7:21:07 AM - [34mdebug[39m: fromDirectory
+7:21:07 AM - [34mdebug[39m: loadFileContents
+7:21:07 AM - [34mdebug[39m: fromDirectory
+7:21:07 AM - [34mdebug[39m: fromDirectory
+7:21:07 AM - [34mdebug[39m: loadFilesContents
+7:21:07 AM - [34mdebug[39m: loadFilesContents
+7:21:07 AM - [34mdebug[39m: loadFilesContents
+7:21:07 AM - [34mdebug[39m: loadFilesContents
+7:21:07 AM - [34mdebug[39m: loadFilesContents
+7:21:07 AM - [34mdebug[39m: loadFilesContents
+7:21:07 AM - [34mdebug[39m: loadFileContents
+7:21:07 AM - [34mdebug[39m: loadFilesContents
+7:21:08 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"96fea040-2f92-4774-95bd-ad58e8e1fed3"}
+7:21:08 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+7:21:08 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"VG+","exceptionCase":false,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"02381fe8-9180-4f09-8021-a7e4419f808d"}
+7:21:08 AM - [34mdebug[39m: Engine processing request me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractRequest with state me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractState
+7:21:09 AM - [34mdebug[39m: loadFileContents
+7:21:09 AM - [34mdebug[39m: loadFileBuffer
+7:21:09 AM - [34mdebug[39m: loadFileContents
+7:21:09 AM - [34mdebug[39m: loadFileContents
+7:21:09 AM - [34mdebug[39m: fromDirectory
+7:21:09 AM - [34mdebug[39m: loadFilesContents
+7:21:09 AM - [34mdebug[39m: loadFilesContents
+7:21:09 AM - [34mdebug[39m: loadFilesContents
+7:21:09 AM - [34mdebug[39m: loadFilesContents
+7:21:09 AM - [34mdebug[39m: loadFilesContents
+7:21:09 AM - [34mdebug[39m: loadFilesContents
+7:21:09 AM - [34mdebug[39m: loadFilesContents
+7:21:09 AM - [34mdebug[39m: loadFileContents
+7:21:09 AM - [34mdebug[39m: fromDirectory
+7:21:09 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+7:21:09 AM - [34mdebug[39m: loadFilesContents
+7:21:09 AM - [34mdebug[39m: loadFilesContents
+7:21:09 AM - [34mdebug[39m: loadFilesContents
+7:21:09 AM - [34mdebug[39m: loadFilesContents
+7:21:09 AM - [34mdebug[39m: loadFilesContents
+7:21:09 AM - [34mdebug[39m: loadFilesContents
+7:21:09 AM - [34mdebug[39m: loadFileContents
+7:21:09 AM - [34mdebug[39m: loadFileContents
+7:21:09 AM - [34mdebug[39m: loadFileContents
+7:21:09 AM - [34mdebug[39m: loadFileContents
+7:21:09 AM - [34mdebug[39m: loadFileContents
+7:21:09 AM - [34mdebug[39m: loadFilesContents
+7:21:10 AM - [34mdebug[39m: fromDirectory
+7:21:10 AM - [34mdebug[39m: loadFileContents
+7:21:10 AM - [34mdebug[39m: fromDirectory
+7:21:10 AM - [34mdebug[39m: fromDirectory
+7:21:10 AM - [34mdebug[39m: loadFilesContents
+7:21:10 AM - [34mdebug[39m: loadFilesContents
+7:21:10 AM - [34mdebug[39m: loadFilesContents
+7:21:10 AM - [34mdebug[39m: loadFilesContents
+7:21:10 AM - [34mdebug[39m: loadFilesContents
+7:21:10 AM - [34mdebug[39m: loadFilesContents
+7:21:10 AM - [34mdebug[39m: loadFileContents
+7:21:10 AM - [34mdebug[39m: loadFilesContents
+7:21:10 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"628d6fed-51a7-48a5-a8e7-fedd63c5f8a5"}
+7:21:10 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+7:21:44 AM - [34mdebug[39m: loadFileContents
+7:21:44 AM - [34mdebug[39m: loadFileBuffer
+7:21:44 AM - [34mdebug[39m: loadFileContents
+7:21:44 AM - [34mdebug[39m: loadFileContents
+7:21:44 AM - [34mdebug[39m: fromDirectory
+7:21:44 AM - [34mdebug[39m: loadFilesContents
+7:21:44 AM - [34mdebug[39m: loadFilesContents
+7:21:44 AM - [34mdebug[39m: loadFilesContents
+7:21:44 AM - [34mdebug[39m: loadFilesContents
+7:21:44 AM - [34mdebug[39m: loadFilesContents
+7:21:44 AM - [34mdebug[39m: loadFilesContents
+7:21:44 AM - [34mdebug[39m: loadFilesContents
+7:21:44 AM - [34mdebug[39m: loadFileContents
+7:21:44 AM - [34mdebug[39m: fromDirectory
+7:21:44 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+7:21:44 AM - [34mdebug[39m: loadFilesContents
+7:21:44 AM - [34mdebug[39m: loadFilesContents
+7:21:44 AM - [34mdebug[39m: loadFilesContents
+7:21:44 AM - [34mdebug[39m: loadFilesContents
+7:21:44 AM - [34mdebug[39m: loadFilesContents
+7:21:44 AM - [34mdebug[39m: loadFilesContents
+7:21:44 AM - [34mdebug[39m: loadFileContents
+7:21:44 AM - [34mdebug[39m: loadFileContents
+7:21:44 AM - [34mdebug[39m: loadFileContents
+7:21:44 AM - [34mdebug[39m: loadFileContents
+7:21:44 AM - [34mdebug[39m: loadFileContents
+7:21:44 AM - [34mdebug[39m: loadFilesContents
+7:21:45 AM - [34mdebug[39m: fromDirectory
+7:21:45 AM - [34mdebug[39m: loadFileContents
+7:21:45 AM - [34mdebug[39m: fromDirectory
+7:21:45 AM - [34mdebug[39m: fromDirectory
+7:21:45 AM - [34mdebug[39m: loadFilesContents
+7:21:45 AM - [34mdebug[39m: loadFilesContents
+7:21:45 AM - [34mdebug[39m: loadFilesContents
+7:21:45 AM - [34mdebug[39m: loadFilesContents
+7:21:45 AM - [34mdebug[39m: loadFilesContents
+7:21:45 AM - [34mdebug[39m: loadFilesContents
+7:21:45 AM - [34mdebug[39m: loadFileContents
+7:21:45 AM - [34mdebug[39m: loadFilesContents
+7:21:46 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"76feca76-db19-44ce-a633-89701640bb16"}
+7:21:46 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+7:21:46 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"VG+","exceptionCase":false,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"02381fe8-9180-4f09-8021-a7e4419f808d"}
+7:21:46 AM - [34mdebug[39m: Engine processing request me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractRequest with state me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractState
+7:21:46 AM - [34mdebug[39m: loadFileContents
+7:21:46 AM - [34mdebug[39m: loadFileBuffer
+7:21:46 AM - [34mdebug[39m: loadFileContents
+7:21:46 AM - [34mdebug[39m: loadFileContents
+7:21:46 AM - [34mdebug[39m: fromDirectory
+7:21:46 AM - [34mdebug[39m: loadFilesContents
+7:21:46 AM - [34mdebug[39m: loadFilesContents
+7:21:46 AM - [34mdebug[39m: loadFilesContents
+7:21:46 AM - [34mdebug[39m: loadFilesContents
+7:21:46 AM - [34mdebug[39m: loadFilesContents
+7:21:46 AM - [34mdebug[39m: loadFilesContents
+7:21:46 AM - [34mdebug[39m: loadFilesContents
+7:21:46 AM - [34mdebug[39m: loadFileContents
+7:21:46 AM - [34mdebug[39m: fromDirectory
+7:21:46 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+7:21:46 AM - [34mdebug[39m: loadFilesContents
+7:21:46 AM - [34mdebug[39m: loadFilesContents
+7:21:46 AM - [34mdebug[39m: loadFilesContents
+7:21:46 AM - [34mdebug[39m: loadFilesContents
+7:21:46 AM - [34mdebug[39m: loadFilesContents
+7:21:46 AM - [34mdebug[39m: loadFilesContents
+7:21:46 AM - [34mdebug[39m: loadFileContents
+7:21:46 AM - [34mdebug[39m: loadFileContents
+7:21:46 AM - [34mdebug[39m: loadFileContents
+7:21:46 AM - [34mdebug[39m: loadFileContents
+7:21:46 AM - [34mdebug[39m: loadFileContents
+7:21:46 AM - [34mdebug[39m: loadFilesContents
+7:21:47 AM - [34mdebug[39m: fromDirectory
+7:21:47 AM - [34mdebug[39m: loadFileContents
+7:21:47 AM - [34mdebug[39m: fromDirectory
+7:21:47 AM - [34mdebug[39m: fromDirectory
+7:21:47 AM - [34mdebug[39m: loadFilesContents
+7:21:47 AM - [34mdebug[39m: loadFilesContents
+7:21:47 AM - [34mdebug[39m: loadFilesContents
+7:21:47 AM - [34mdebug[39m: loadFilesContents
+7:21:47 AM - [34mdebug[39m: loadFilesContents
+7:21:47 AM - [34mdebug[39m: loadFilesContents
+7:21:47 AM - [34mdebug[39m: loadFileContents
+7:21:47 AM - [34mdebug[39m: loadFilesContents
+7:21:48 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"048fa82c-30f3-4381-980f-972ce2b6db51"}
+7:21:48 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+7:22:37 AM - [34mdebug[39m: loadFileContents
+7:22:37 AM - [34mdebug[39m: loadFileBuffer
+7:22:37 AM - [34mdebug[39m: loadFileContents
+7:22:37 AM - [34mdebug[39m: loadFileContents
+7:22:37 AM - [34mdebug[39m: fromDirectory
+7:22:37 AM - [34mdebug[39m: loadFilesContents
+7:22:37 AM - [34mdebug[39m: loadFilesContents
+7:22:37 AM - [34mdebug[39m: loadFilesContents
+7:22:37 AM - [34mdebug[39m: loadFilesContents
+7:22:37 AM - [34mdebug[39m: loadFilesContents
+7:22:37 AM - [34mdebug[39m: loadFilesContents
+7:22:37 AM - [34mdebug[39m: loadFilesContents
+7:22:37 AM - [34mdebug[39m: loadFileContents
+7:22:37 AM - [34mdebug[39m: fromDirectory
+7:22:37 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+7:22:37 AM - [34mdebug[39m: loadFilesContents
+7:22:37 AM - [34mdebug[39m: loadFilesContents
+7:22:37 AM - [34mdebug[39m: loadFilesContents
+7:22:37 AM - [34mdebug[39m: loadFilesContents
+7:22:37 AM - [34mdebug[39m: loadFilesContents
+7:22:37 AM - [34mdebug[39m: loadFilesContents
+7:22:37 AM - [34mdebug[39m: loadFileContents
+7:22:37 AM - [34mdebug[39m: loadFileContents
+7:22:37 AM - [34mdebug[39m: loadFileContents
+7:22:37 AM - [34mdebug[39m: loadFileContents
+7:22:37 AM - [34mdebug[39m: loadFileContents
+7:22:37 AM - [34mdebug[39m: loadFilesContents
+7:22:38 AM - [34mdebug[39m: fromDirectory
+7:22:38 AM - [34mdebug[39m: loadFileContents
+7:22:38 AM - [34mdebug[39m: fromDirectory
+7:22:38 AM - [34mdebug[39m: fromDirectory
+7:22:38 AM - [34mdebug[39m: loadFilesContents
+7:22:38 AM - [34mdebug[39m: loadFilesContents
+7:22:38 AM - [34mdebug[39m: loadFilesContents
+7:22:38 AM - [34mdebug[39m: loadFilesContents
+7:22:38 AM - [34mdebug[39m: loadFilesContents
+7:22:38 AM - [34mdebug[39m: loadFilesContents
+7:22:38 AM - [34mdebug[39m: loadFileContents
+7:22:38 AM - [34mdebug[39m: loadFilesContents
+7:22:39 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"c87770a8-1121-404e-b7ec-aa1578c62a07"}
+7:22:39 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+7:22:39 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"VG+","exceptionCase":false,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"02381fe8-9180-4f09-8021-a7e4419f808d"}
+7:22:39 AM - [34mdebug[39m: Engine processing request me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractRequest with state me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractState
+7:22:39 AM - [34mdebug[39m: loadFileContents
+7:22:39 AM - [34mdebug[39m: loadFileBuffer
+7:22:39 AM - [34mdebug[39m: loadFileContents
+7:22:39 AM - [34mdebug[39m: loadFileContents
+7:22:39 AM - [34mdebug[39m: fromDirectory
+7:22:39 AM - [34mdebug[39m: loadFilesContents
+7:22:39 AM - [34mdebug[39m: loadFilesContents
+7:22:39 AM - [34mdebug[39m: loadFilesContents
+7:22:39 AM - [34mdebug[39m: loadFilesContents
+7:22:39 AM - [34mdebug[39m: loadFilesContents
+7:22:39 AM - [34mdebug[39m: loadFilesContents
+7:22:39 AM - [34mdebug[39m: loadFilesContents
+7:22:39 AM - [34mdebug[39m: loadFileContents
+7:22:39 AM - [34mdebug[39m: fromDirectory
+7:22:39 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+7:22:39 AM - [34mdebug[39m: loadFilesContents
+7:22:39 AM - [34mdebug[39m: loadFilesContents
+7:22:39 AM - [34mdebug[39m: loadFilesContents
+7:22:39 AM - [34mdebug[39m: loadFilesContents
+7:22:39 AM - [34mdebug[39m: loadFilesContents
+7:22:39 AM - [34mdebug[39m: loadFilesContents
+7:22:39 AM - [34mdebug[39m: loadFileContents
+7:22:39 AM - [34mdebug[39m: loadFileContents
+7:22:39 AM - [34mdebug[39m: loadFileContents
+7:22:39 AM - [34mdebug[39m: loadFileContents
+7:22:39 AM - [34mdebug[39m: loadFileContents
+7:22:39 AM - [34mdebug[39m: loadFilesContents
+7:22:40 AM - [34mdebug[39m: fromDirectory
+7:22:40 AM - [34mdebug[39m: loadFileContents
+7:22:40 AM - [34mdebug[39m: fromDirectory
+7:22:40 AM - [34mdebug[39m: fromDirectory
+7:22:40 AM - [34mdebug[39m: loadFilesContents
+7:22:40 AM - [34mdebug[39m: loadFilesContents
+7:22:40 AM - [34mdebug[39m: loadFilesContents
+7:22:40 AM - [34mdebug[39m: loadFilesContents
+7:22:40 AM - [34mdebug[39m: loadFilesContents
+7:22:40 AM - [34mdebug[39m: loadFilesContents
+7:22:40 AM - [34mdebug[39m: loadFileContents
+7:22:40 AM - [34mdebug[39m: loadFilesContents
+7:22:41 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"3ad86f2b-a4eb-4bd6-bcad-bf11b4e9f1de"}
+7:22:41 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+7:25:03 AM - [34mdebug[39m: loadFileContents
+7:25:03 AM - [34mdebug[39m: loadFileBuffer
+7:25:03 AM - [34mdebug[39m: loadFileContents
+7:25:03 AM - [34mdebug[39m: loadFileContents
+7:25:03 AM - [34mdebug[39m: fromDirectory
+7:25:03 AM - [34mdebug[39m: loadFilesContents
+7:25:03 AM - [34mdebug[39m: loadFilesContents
+7:25:03 AM - [34mdebug[39m: loadFilesContents
+7:25:03 AM - [34mdebug[39m: loadFilesContents
+7:25:03 AM - [34mdebug[39m: loadFilesContents
+7:25:03 AM - [34mdebug[39m: loadFilesContents
+7:25:03 AM - [34mdebug[39m: loadFilesContents
+7:25:03 AM - [34mdebug[39m: loadFileContents
+7:25:03 AM - [34mdebug[39m: fromDirectory
+7:25:03 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+7:25:03 AM - [34mdebug[39m: loadFilesContents
+7:25:03 AM - [34mdebug[39m: loadFilesContents
+7:25:03 AM - [34mdebug[39m: loadFilesContents
+7:25:03 AM - [34mdebug[39m: loadFilesContents
+7:25:03 AM - [34mdebug[39m: loadFilesContents
+7:25:03 AM - [34mdebug[39m: loadFilesContents
+7:25:03 AM - [34mdebug[39m: loadFileContents
+7:25:03 AM - [34mdebug[39m: loadFileContents
+7:25:03 AM - [34mdebug[39m: loadFileContents
+7:25:03 AM - [34mdebug[39m: loadFileContents
+7:25:03 AM - [34mdebug[39m: loadFileContents
+7:25:03 AM - [34mdebug[39m: loadFilesContents
+7:25:04 AM - [34mdebug[39m: fromDirectory
+7:25:04 AM - [34mdebug[39m: loadFileContents
+7:25:04 AM - [34mdebug[39m: fromDirectory
+7:25:04 AM - [34mdebug[39m: fromDirectory
+7:25:04 AM - [34mdebug[39m: loadFilesContents
+7:25:04 AM - [34mdebug[39m: loadFilesContents
+7:25:04 AM - [34mdebug[39m: loadFilesContents
+7:25:04 AM - [34mdebug[39m: loadFilesContents
+7:25:04 AM - [34mdebug[39m: loadFilesContents
+7:25:04 AM - [34mdebug[39m: loadFilesContents
+7:25:04 AM - [34mdebug[39m: loadFileContents
+7:25:04 AM - [34mdebug[39m: loadFilesContents
+7:25:05 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"eb6f81bf-d848-4ebf-a707-317c953f403d"}
+7:25:05 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+7:25:05 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"VG+","exceptionCase":false,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"02381fe8-9180-4f09-8021-a7e4419f808d"}
+7:25:05 AM - [34mdebug[39m: Engine processing request me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractRequest with state me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractState
+7:38:20 AM - [34mdebug[39m: loadFileContents
+7:38:20 AM - [34mdebug[39m: loadFileBuffer
+7:38:20 AM - [34mdebug[39m: loadFileContents
+7:38:20 AM - [34mdebug[39m: loadFileContents
+7:38:20 AM - [34mdebug[39m: fromDirectory
+7:38:20 AM - [34mdebug[39m: loadFilesContents
+7:38:20 AM - [34mdebug[39m: loadFilesContents
+7:38:20 AM - [34mdebug[39m: loadFilesContents
+7:38:20 AM - [34mdebug[39m: loadFilesContents
+7:38:20 AM - [34mdebug[39m: loadFilesContents
+7:38:20 AM - [34mdebug[39m: loadFilesContents
+7:38:20 AM - [34mdebug[39m: loadFilesContents
+7:38:20 AM - [34mdebug[39m: loadFileContents
+7:38:20 AM - [34mdebug[39m: fromDirectory
+7:38:20 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+7:38:20 AM - [34mdebug[39m: loadFilesContents
+7:38:20 AM - [34mdebug[39m: loadFilesContents
+7:38:20 AM - [34mdebug[39m: loadFilesContents
+7:38:20 AM - [34mdebug[39m: loadFilesContents
+7:38:20 AM - [34mdebug[39m: loadFilesContents
+7:38:20 AM - [34mdebug[39m: loadFilesContents
+7:38:20 AM - [34mdebug[39m: loadFileContents
+7:38:20 AM - [34mdebug[39m: loadFileContents
+7:38:20 AM - [34mdebug[39m: loadFileContents
+7:38:20 AM - [34mdebug[39m: loadFileContents
+7:38:20 AM - [34mdebug[39m: loadFileContents
+7:38:20 AM - [34mdebug[39m: loadFilesContents
+7:38:21 AM - [34mdebug[39m: fromDirectory
+7:38:21 AM - [34mdebug[39m: loadFileContents
+7:38:21 AM - [34mdebug[39m: fromDirectory
+7:38:21 AM - [34mdebug[39m: fromDirectory
+7:38:21 AM - [34mdebug[39m: loadFilesContents
+7:38:21 AM - [34mdebug[39m: loadFilesContents
+7:38:21 AM - [34mdebug[39m: loadFilesContents
+7:38:21 AM - [34mdebug[39m: loadFilesContents
+7:38:21 AM - [34mdebug[39m: loadFilesContents
+7:38:21 AM - [34mdebug[39m: loadFilesContents
+7:38:21 AM - [34mdebug[39m: loadFileContents
+7:38:21 AM - [34mdebug[39m: loadFilesContents
+7:38:22 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"81de8bb5-3a44-4df3-8f48-19351652d98a"}
+7:38:22 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+7:38:22 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"VG+","exceptionCase":false,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"02381fe8-9180-4f09-8021-a7e4419f808d"}
+7:38:22 AM - [34mdebug[39m: Engine processing request me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractRequest with state me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractState
+8:34:51 AM - [34mdebug[39m: loadFileContents
+8:34:51 AM - [34mdebug[39m: loadFileBuffer
+8:34:51 AM - [34mdebug[39m: loadFileContents
+8:34:51 AM - [34mdebug[39m: loadFileContents
+8:34:51 AM - [34mdebug[39m: fromDirectory
+8:34:51 AM - [34mdebug[39m: loadFilesContents
+8:34:51 AM - [34mdebug[39m: loadFilesContents
+8:34:51 AM - [34mdebug[39m: loadFilesContents
+8:34:51 AM - [34mdebug[39m: loadFilesContents
+8:34:51 AM - [34mdebug[39m: loadFilesContents
+8:34:51 AM - [34mdebug[39m: loadFilesContents
+8:34:51 AM - [34mdebug[39m: loadFilesContents
+8:34:51 AM - [34mdebug[39m: loadFileContents
+8:34:51 AM - [34mdebug[39m: fromDirectory
+8:34:51 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+8:34:51 AM - [34mdebug[39m: loadFilesContents
+8:34:51 AM - [34mdebug[39m: loadFilesContents
+8:34:51 AM - [34mdebug[39m: loadFilesContents
+8:34:51 AM - [34mdebug[39m: loadFilesContents
+8:34:51 AM - [34mdebug[39m: loadFilesContents
+8:34:51 AM - [34mdebug[39m: loadFilesContents
+8:34:51 AM - [34mdebug[39m: loadFileContents
+8:34:51 AM - [34mdebug[39m: loadFileContents
+8:34:51 AM - [34mdebug[39m: loadFileContents
+8:34:51 AM - [34mdebug[39m: loadFileContents
+8:34:51 AM - [34mdebug[39m: loadFileContents
+8:34:51 AM - [34mdebug[39m: loadFilesContents
+8:34:53 AM - [34mdebug[39m: fromDirectory
+8:34:53 AM - [34mdebug[39m: loadFileContents
+8:34:53 AM - [34mdebug[39m: fromDirectory
+8:34:53 AM - [34mdebug[39m: fromDirectory
+8:34:53 AM - [34mdebug[39m: loadFilesContents
+8:34:53 AM - [34mdebug[39m: loadFilesContents
+8:34:53 AM - [34mdebug[39m: loadFilesContents
+8:34:53 AM - [34mdebug[39m: loadFilesContents
+8:34:53 AM - [34mdebug[39m: loadFilesContents
+8:34:53 AM - [34mdebug[39m: loadFilesContents
+8:34:53 AM - [34mdebug[39m: loadFileContents
+8:34:53 AM - [34mdebug[39m: loadFilesContents
+8:34:54 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"6df5d481-2397-475a-8021-87c9131d9399"}
+8:34:54 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+8:34:54 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"VG+","exceptionCase":false,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"02381fe8-9180-4f09-8021-a7e4419f808d"}
+8:34:54 AM - [34mdebug[39m: Engine processing request me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractRequest with state me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractState
+8:35:06 AM - [34mdebug[39m: loadFileContents
+8:35:06 AM - [34mdebug[39m: loadFileBuffer
+8:35:06 AM - [34mdebug[39m: loadFileContents
+8:35:06 AM - [34mdebug[39m: loadFileContents
+8:35:06 AM - [34mdebug[39m: fromDirectory
+8:35:06 AM - [34mdebug[39m: loadFilesContents
+8:35:06 AM - [34mdebug[39m: loadFilesContents
+8:35:06 AM - [34mdebug[39m: loadFilesContents
+8:35:06 AM - [34mdebug[39m: loadFilesContents
+8:35:06 AM - [34mdebug[39m: loadFilesContents
+8:35:06 AM - [34mdebug[39m: loadFilesContents
+8:35:06 AM - [34mdebug[39m: loadFilesContents
+8:35:06 AM - [34mdebug[39m: loadFileContents
+8:35:06 AM - [34mdebug[39m: fromDirectory
+8:35:06 AM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+8:35:06 AM - [34mdebug[39m: loadFilesContents
+8:35:06 AM - [34mdebug[39m: loadFilesContents
+8:35:06 AM - [34mdebug[39m: loadFilesContents
+8:35:06 AM - [34mdebug[39m: loadFilesContents
+8:35:06 AM - [34mdebug[39m: loadFilesContents
+8:35:06 AM - [34mdebug[39m: loadFilesContents
+8:35:06 AM - [34mdebug[39m: loadFileContents
+8:35:06 AM - [34mdebug[39m: loadFileContents
+8:35:06 AM - [34mdebug[39m: loadFileContents
+8:35:06 AM - [34mdebug[39m: loadFileContents
+8:35:06 AM - [34mdebug[39m: loadFileContents
+8:35:06 AM - [34mdebug[39m: loadFilesContents
+8:35:07 AM - [34mdebug[39m: fromDirectory
+8:35:07 AM - [34mdebug[39m: loadFileContents
+8:35:07 AM - [34mdebug[39m: fromDirectory
+8:35:07 AM - [34mdebug[39m: fromDirectory
+8:35:07 AM - [34mdebug[39m: loadFilesContents
+8:35:07 AM - [34mdebug[39m: loadFilesContents
+8:35:07 AM - [34mdebug[39m: loadFilesContents
+8:35:07 AM - [34mdebug[39m: loadFilesContents
+8:35:07 AM - [34mdebug[39m: loadFilesContents
+8:35:07 AM - [34mdebug[39m: loadFilesContents
+8:35:07 AM - [34mdebug[39m: loadFileContents
+8:35:07 AM - [34mdebug[39m: loadFilesContents
+8:35:08 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"23780540-70c6-4f77-a8bc-b0ab86bf6138"}
+8:35:08 AM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+8:35:08 AM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"VG+","exceptionCase":false,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"02381fe8-9180-4f09-8021-a7e4419f808d"}
+8:35:08 AM - [34mdebug[39m: Engine processing request me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractRequest with state me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractState
+2:59:33 PM - [34mdebug[39m: loadFileContents
+2:59:34 PM - [34mdebug[39m: loadFileBuffer
+2:59:34 PM - [34mdebug[39m: loadFileContents
+2:59:34 PM - [34mdebug[39m: loadFileContents
+2:59:34 PM - [34mdebug[39m: fromDirectory
+2:59:34 PM - [34mdebug[39m: loadFilesContents
+2:59:34 PM - [34mdebug[39m: loadFilesContents
+2:59:34 PM - [34mdebug[39m: loadFilesContents
+2:59:34 PM - [34mdebug[39m: loadFilesContents
+2:59:34 PM - [34mdebug[39m: loadFilesContents
+2:59:34 PM - [34mdebug[39m: loadFilesContents
+2:59:34 PM - [34mdebug[39m: loadFilesContents
+2:59:34 PM - [34mdebug[39m: loadFileContents
+2:59:34 PM - [34mdebug[39m: fromDirectory
+2:59:34 PM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+2:59:34 PM - [34mdebug[39m: loadFilesContents
+2:59:34 PM - [34mdebug[39m: loadFilesContents
+2:59:34 PM - [34mdebug[39m: loadFilesContents
+2:59:34 PM - [34mdebug[39m: loadFilesContents
+2:59:34 PM - [34mdebug[39m: loadFilesContents
+2:59:34 PM - [34mdebug[39m: loadFilesContents
+2:59:34 PM - [34mdebug[39m: loadFileContents
+2:59:34 PM - [34mdebug[39m: loadFileContents
+2:59:34 PM - [34mdebug[39m: loadFileContents
+2:59:34 PM - [34mdebug[39m: loadFileContents
+2:59:34 PM - [34mdebug[39m: loadFileContents
+2:59:34 PM - [34mdebug[39m: loadFilesContents
+2:59:36 PM - [34mdebug[39m: fromDirectory
+2:59:36 PM - [34mdebug[39m: loadFileContents
+2:59:36 PM - [34mdebug[39m: fromDirectory
+2:59:36 PM - [34mdebug[39m: fromDirectory
+2:59:36 PM - [34mdebug[39m: loadFilesContents
+2:59:36 PM - [34mdebug[39m: loadFilesContents
+2:59:36 PM - [34mdebug[39m: loadFilesContents
+2:59:36 PM - [34mdebug[39m: loadFilesContents
+2:59:36 PM - [34mdebug[39m: loadFilesContents
+2:59:36 PM - [34mdebug[39m: loadFilesContents
+2:59:36 PM - [34mdebug[39m: loadFileContents
+2:59:36 PM - [34mdebug[39m: loadFilesContents
+2:59:37 PM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"a981595b-3904-4c3b-8ed7-8cad3800aed3"}
+2:59:37 PM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+2:59:37 PM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"VG+","exceptionCase":false,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"02381fe8-9180-4f09-8021-a7e4419f808d"}
+2:59:37 PM - [34mdebug[39m: Engine processing request me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractRequest with state me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractState
+3:25:45 PM - [34mdebug[39m: loadFileContents
+3:25:45 PM - [34mdebug[39m: loadFileBuffer
+3:25:45 PM - [34mdebug[39m: loadFileContents
+3:25:45 PM - [34mdebug[39m: loadFileContents
+3:25:45 PM - [34mdebug[39m: fromDirectory
+3:25:45 PM - [34mdebug[39m: loadFilesContents
+3:25:45 PM - [34mdebug[39m: loadFilesContents
+3:25:45 PM - [34mdebug[39m: loadFilesContents
+3:25:45 PM - [34mdebug[39m: loadFilesContents
+3:25:45 PM - [34mdebug[39m: loadFilesContents
+3:25:45 PM - [34mdebug[39m: loadFilesContents
+3:25:45 PM - [34mdebug[39m: loadFilesContents
+3:25:45 PM - [34mdebug[39m: loadFileContents
+3:25:45 PM - [34mdebug[39m: fromDirectory
+3:25:45 PM - [33mwarn[39m: No cicero template type specified. Assuming that this is a contract template
+3:25:45 PM - [34mdebug[39m: loadFilesContents
+3:25:45 PM - [34mdebug[39m: loadFilesContents
+3:25:45 PM - [34mdebug[39m: loadFilesContents
+3:25:45 PM - [34mdebug[39m: loadFilesContents
+3:25:45 PM - [34mdebug[39m: loadFilesContents
+3:25:45 PM - [34mdebug[39m: loadFilesContents
+3:25:45 PM - [34mdebug[39m: loadFileContents
+3:25:45 PM - [34mdebug[39m: loadFileContents
+3:25:45 PM - [34mdebug[39m: loadFileContents
+3:25:45 PM - [34mdebug[39m: loadFileContents
+3:25:45 PM - [34mdebug[39m: loadFileContents
+3:25:45 PM - [34mdebug[39m: loadFilesContents
+3:25:46 PM - [34mdebug[39m: fromDirectory
+3:25:46 PM - [34mdebug[39m: loadFileContents
+3:25:46 PM - [34mdebug[39m: fromDirectory
+3:25:46 PM - [34mdebug[39m: fromDirectory
+3:25:46 PM - [34mdebug[39m: loadFilesContents
+3:25:46 PM - [34mdebug[39m: loadFilesContents
+3:25:46 PM - [34mdebug[39m: loadFilesContents
+3:25:46 PM - [34mdebug[39m: loadFilesContents
+3:25:46 PM - [34mdebug[39m: loadFilesContents
+3:25:46 PM - [34mdebug[39m: loadFilesContents
+3:25:46 PM - [34mdebug[39m: loadFileContents
+3:25:46 PM - [34mdebug[39m: loadFilesContents
+3:25:47 PM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"M","exceptionCase":true,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"bd185478-b7d3-4c3b-8a93-cd44b76bbf1c"}
+3:25:47 PM - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+3:25:47 PM - [34mdebug[39m: Setting clause data: {"$class":"me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContract","borrower":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Alan O'Neill"},"lender":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Paul Power"},"isbn":"9780552149518","itemName":"The Da Vinci Code","grade":"VG+","exceptionCase":false,"fineDuration":{"$class":"org.accordproject.time.Duration","amount":1,"unit":"days"},"fineAmount":0.25,"capPercentage":50,"fractionalPart":"days","contractId":"02381fe8-9180-4f09-8021-a7e4419f808d"}
+3:25:47 PM - [34mdebug[39m: Engine processing request me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractRequest with state me.lend.contracts.peer2peerlibrary.Peer2PeerLibraryContractState

@@ -1,16 +1,16 @@
 @startuml
 package module as "contract.js"
 frame contract as "Peer2PeerLibrary()"
-component init as "init()"
-component invoke as "invoke()"
-component queryContract as "queryContract()"
-component queryState as "queryState()"
-component queryData as "queryData()"
+component itemBorrow as "itemBorrow()"
+component itemReturn as "itemReturn()"
+component queryAsset as "queryAsset()"
+component queryAssetState as "queryAssetState()"
+component queryAssetData as "queryAssetData()"
 
 module -- contract
-contract -- init
-contract -- invoke
-contract -- queryContract
-contract -- queryState
-contract -- queryData
+contract -- itemBorrow
+contract -- itemReturn
+contract -- queryAsset
+contract -- queryAssetState
+contract -- queryAssetData
 @enduml

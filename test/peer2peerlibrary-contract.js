@@ -93,11 +93,11 @@ describe('Peer2PeerLibrary', () => {
 
     beforeEach(async () => {});
 
-    it('initialize and invoke', async () => {
+    it('itemBorrow and itemReturn', async () => {
         contract = new Peer2PeerLibrary();
         ctx = new TestContext();
         ctx.stub.getState.withArgs('Markdown-CTR_100002').resolves(null);
-        await contract.init(ctx, contractText);
+        await contract.itemBorrow(ctx, contractText);
         ctx.stub.getState.withArgs('Markdown-CTR_100002').resolves(Buffer.from('yes'));
 
         const request = {
@@ -108,7 +108,7 @@ describe('Peer2PeerLibrary', () => {
             "returnedOn": "2020-10-15T23:59:59-00:00",
             "itemValue": 24.99
         };
-        const result = await contract.invoke(ctx, JSON.stringify(request), 'CTR_100002');
+        const result = await contract.itemReturn(ctx, JSON.stringify(request), 'CTR_100002');
         result.fine.should.equal(8);
     });
 });
