@@ -1,3 +1,4 @@
 node_modules
 *.tar.gz
 app/wallet
+.nyc_output/
